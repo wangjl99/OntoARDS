@@ -1,0 +1,33 @@
+
+POI_disease = named clinical disease, syndrome, or disorder with established diagnostic criteria.
+  Examples: ARDS, COVID-19-associated ARDS, Hyperinflammatory ARDS subphenotype, Pneumonia, Sepsis
+  NOT: outcomes (mortality), mechanisms (NF-kB activation), contexts (ICU setting), phenotypes without disease status
+
+POI_disease vs POI_phenotype boundary:
+  Use POI_disease when the concept has ICD/SNOMED disease code
+  Use POI_mechanism when it describes a pathophysiological process
+  Use POI_context when it describes a clinical circumstance or setting
+  Use POI_outcome when it describes a measured endpoint
+
+
+RECLASSIFICATION RULES APPLIED:
+================================
+  'Finland' → POI_context: GEOGRAPHIC — consider removing or merging into 'European context'
+  'United States' → POI_context: GEOGRAPHIC — consider removing or using MESH:D014481
+  'Worse outcomes in USA' → POI_context: OUTCOME STATEMENT — should be POI_outcome or removed
+  'ARDS subphenotype identification' → POI_mechanism: This is a diagnostic/classification process, not a disease
+  'Alveolar Edema Reduction' → POI_outcome: This is an outcome, not a disease
+  'American european ards definition' → POI_context: This is a historical context/criteria, not a disease
+  'Berlin definition ards severity criteria' → POI_context: Diagnostic criteria — belongs in POI_context
+  'Berlin definition criteria for ards' → POI_context: Diagnostic criteria — belongs in POI_context
+  'Cardiogenic Pulmonary Edema Pathogenesis' → POI_mechanism: Pathogenesis = mechanism
+  'De Novo Acute Respiratory Failure Pathogenesis' → POI_mechanism: Pathogenesis = mechanism
+  'Acute On Chronic Respiratory Failure Pathogenesis' → POI_mechanism: Pathogenesis = mechanism
+  '92 kda gelatinase elevation ards' → POI_biomarker: This is a biomarker (MMP-9), not a disease
+  '48 hr neuromuscular blocking agents nmba' → POI_intervention: This is an intervention, not an outcome
+  'ICU intubation bundle management protocol' → POI_intervention: This is an intervention bundle
+  'Short acting neuromuscular blocking agents' → POI_intervention: Intervention
+  'Use of neuromuscular blockers' → POI_intervention: Intervention
+  'Timp synthesis regulation il6' → POI_mechanism: Molecular mechanism
+  '0.38 per 1,000 adult population' → POI_disease: Epidemiological statistic — consider removing
+  'Reduced sedative exposure in ventilated patients' → POI_outcome: OK but label should be normalised

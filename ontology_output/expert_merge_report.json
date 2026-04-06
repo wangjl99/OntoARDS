@@ -1,0 +1,12 @@
+{
+  "input_nodes": 989,
+  "output_nodes": 989,
+  "changes_applied": 3,
+  "actions": {
+    "SYNONYM_ADDED": 3
+  },
+  "agent6_hitl": null,
+  "agent7_hitl": null,
+  "output_csv": "corpus_analysis/ontology_output/ards_poi_nodes_v4_expert.csv",
+  "output_owl": "corpus_analysis/ontology_output/ards_poi_ontology_v4_expert.owl"
+}

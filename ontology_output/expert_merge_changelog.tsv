@@ -1,0 +1,4 @@
+action	group_id	label	n_members	note
+SYNONYM_ADDED	ARDS_POI:01679	Scheduled neuromuscular blockade	1	Added 'cisatracurium' as synonym — fixes V6 coverage gap
+SYNONYM_ADDED	ARDS_POI:02069	48-hr NMBA infusion	1	Added 'cisatracurium' as synonym — fixes V6 coverage gap
+SYNONYM_ADDED	ARDS_POI:02841	48 hr neuromuscular blocking agents nmba	1	Added 'cisatracurium' as synonym — fixes V6 coverage gap

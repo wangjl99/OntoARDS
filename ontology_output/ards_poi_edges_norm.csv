@@ -1,0 +1,913 @@
+:START_ID,:END_ID,:TYPE,weight:float,confidence,label,context_required,source,source_pmids,source_years,n_sources:int
+spontaneous-awakening-trials,spontaneous-breathing-trials,ASSOCIATION,1.0,5,Intervention,,curated,18191684,2008,1
+ziprasidone-for-delirium-in-critical-illness,days-alive-without-delirium-or-coma,NULL,1.0,HIGH,"OR 1.04 (0.73-1.48), p=0.26",delirium-in-critical-illness,curated,30346242,2018,1
+corticosteroids-treatment-ards,increased-ventilator-free-days,BENEFICIAL,0.98,HIGH,"Mean diff +4.05 days (0.22-8.71), P(MD>=0)=97.9%",critical-illness,curated,18434379,2008,1
+new-ventilatory-approach-na,improved-pao2-fio2,BENEFICIAL,0.98,HIGH,p<0.0001,acute-respiratory-distress-syndrome,curated,8520744,1995,1
+lung-protective-mechanical-ventilation,improved-2y-survival-ali,BENEFICIAL,0.97,HIGH,"HR 0.97 (0.95-0.99), ARD -4.0% (-7.2 to -0.8)",acute-lung-injury,curated,22491953,2012,1
+lower-oxygenation-target-pao2-60mmhg,mortality-90d,NULL,0.96,HIGH,"RR 1.02 (0.94-1.11), P=0.64",acute-hypoxemic-respiratory-failure,curated,33471452,2021,1
+muscle-strength-discharge,improved-5y-survival,BENEFICIAL,0.96,HIGH,HR 0.96 (0.94-0.98) per 1-point strength increase,ARDS-survivor,curated,28067712,2017,1
+nppv-emergency-department,reduced-intubation-mechanical-ventilation,NULL,0.96,HIGH,"RR 0.96 (0.41-2.26), p=0.93",acute-respiratory-distress,curated,9596317,1998,1
+sarilumab-200mg-iv,time-to-2-point-clinical-improvement,NULL,0.96,HIGH,"HR 1.03 (0.75-1.40), p=0.96",severe-or-critical-COVID-19,curated,33676590,2021,1
+sarilumab-400mg-iv,time-to-2-point-clinical-improvement,NULL,0.96,HIGH,"HR 1.14 (0.84-1.54), p=0.34",severe-or-critical-COVID-19,curated,33676590,2021,1
+activated-protein-c-administration,decreased-plasma-protein-c-levels,MECHANISM,0.95,HIGH,APC increased plasma protein C levels (P = 0.002),acute-lung-injury,curated,18565951,2008,1
+daily-screening-trials-spontaneous-breathing,reduced-duration-mechanical-ventilation,BENEFICIAL,0.95,HIGH,"Median 4.5 vs 6 days, p=0.003",respiratory-failure-requiring-mechanical-ventilation,curated,8948561,1996,1
+high-flow-nasal-cannula-hfnc,no-difference-in-mortality,NULL,0.95,MEDIUM,RR 0.94 (0.67-1.31),acute-hypoxemic-respiratory-failure,curated,30888444,2019,1
+multidisciplinary-ventilator-management-protocol,reduced-duration-mechanical-ventilation,BENEFICIAL,0.95,HIGH,"Median 68h vs 124h, p=0.0001",ICU-setting,curated,10936141,2000,1
+n-3-fatty-acid-gamma-linolenic-acid-antioxidant-enteral-supplementation,reduced-ventilator-free-days,HARMFUL,0.95,HIGH,"Fewer ventilator-free days: 14.0 vs 17.2, p=0.02",acute-lung-injury,curated,21976613,2011,1
+neuromuscular-blockade,prevention-of-breath-stacking-dyssynchrony,BENEFICIAL,0.95,HIGH,Neuromuscular blockade effectively eliminated breath stacking dyssynchrony,ARDS,curated,27342819,2016,1
+new-ventilatory-approach-na,improved-respiratory-compliance,BENEFICIAL,0.95,HIGH,p=0.0018,acute-respiratory-distress-syndrome,curated,8520744,1995,1
+new-ventilatory-approach-na,reduced-fio2-time-above-50,BENEFICIAL,0.95,HIGH,p=0.001,acute-respiratory-distress-syndrome,curated,8520744,1995,1
+new-ventilatory-approach-na,reduced-fio2-at-day-of-death,BENEFICIAL,0.95,HIGH,p=0.0002,acute-respiratory-distress-syndrome,curated,8520744,1995,1
+new-ventilatory-approach-na,improved-weaning-rate,BENEFICIAL,0.95,HIGH,"p=0.014, after correcting APACHE II imbalance",acute-respiratory-distress-syndrome,curated,8520744,1995,1
+nippv-for-sars-arf,no-sars-transmission-to-hcw,BENEFICIAL,0.95,HIGH,0/105 HCWs infected,sars,curated,15364765,2004,1
+niv-success,reduced-mortality-de-novo,BENEFICIAL,0.95,HIGH,OR 0.05 (95% CI 0.01-0.42),de-novo-acute-respiratory-failure,curated,17019559,2006,1
+niv-success,reduced-mortality-cpe-aoc,BENEFICIAL,0.95,HIGH,OR 0.03 (95% CI 0.01-0.24),cardiogenic-pulmonary-edema|acute-on-chronic-respiratory-failure,curated,17019559,2006,1
+noninvasive-measurement-indocyanine-green-plasma-disappearance-rate,correlation-invasive-noninvasive-indocyanine-green-pdr,BENEFICIAL,0.95,HIGH,"r = 0.94, p < 0.0001",critically-ill-patients|mechanical-ventilation|stable-hemodynamics,curated,11126271,2000,1
+preventive-niv-post-extubation,improved-ventilator-liberation-outcomes,BENEFICIAL,0.95,HIGH,Strong recommendation,critical-illness|mechanical-ventilation,curated,27818331,2017,1
+restrictive-oxygen-target-pao2-9-10-kpa,composite-death-or-severe-disability-90d,NULL,0.95,HIGH,"HR 0.95 (0.75-1.21), p=0.69",comatose-survivors-of-cardiac-arrest,curated,36027567,2022,1
+scheduled-neuromuscular-blockade,scheduled-eye-care-lubricating-drops-gel-eyelid-closure,BENEFICIAL,0.95,HIGH,Strong recommendation,critical-illness,curated,27755068,2016,1
+sepsis-phenotypes,sepsis-phenotype-ards-phenotype-overlap,MECHANISM,0.95,HIGH,Strong concordance between sepsis and ARDS phenotypes (AUC 0.87-0.96),sepsis|ards,curated,37633303,2023,1
+80-percent-oxygen-perioperative,no-effect-surgical-site-infection-14d,NULL,0.94,HIGH,"OR 0.94 (0.72-1.22), p=0.64",abdominal-surgery,curated,19826023,2009,1
+anakinra-early-treatment-covid19,reduced-worse-clinical-status-who-cps-day28,BENEFICIAL,0.93,HIGH,Adjusted proportional odds 0.36 (95% CI 0.26-0.50),COVID-19,curated,34480127,2021,1
+anakinra-early-treatment-covid19,reduced-mortality-28d,BENEFICIAL,0.93,HIGH,"Hazard ratio = 0.45, P = 0.045",COVID-19,curated,34480127,2021,1
+anakinra-early-treatment-covid19,shorter-hospital-stay,BENEFICIAL,0.93,HIGH,Shorter hospital stay reported,COVID-19,curated,34480127,2021,1
+cisatracurium-besylate-neuromuscular-blockade,no-effect-on-duration-of-mechanical-ventilation,NULL,0.93,HIGH,"MD 0.25 days (-5.48 to 5.99), p=0.93",ards,curated,23497608,2013,1
+dedicated-niv-ventilators,reduced-patient-ventilator-asynchrony,BENEFICIAL,0.93,HIGH,"Asynchrony index 0.5% vs 3.7% and 2.0%, p<0.01",noninvasive-ventilation,curated,22406958,2012,1
+dexamethasone-treatment-hospitalized-covid19,reduced-28d-mortality-hospitalized-covid19,BENEFICIAL,0.93,HIGH,"RR 0.83 (0.75-0.93), p<0.001",hospitalized-covid19,curated,32678530,2021,1
+elevated-interleukin-6,increased-mortality-risk,HARMFUL,0.93,HIGH,OR 1.63 (0.93-1.49) per log-unit increase,acute-lung-injury,curated,15644641,2005,1
+high-flow-nasal-cannula-hfnc,reduced-need-for-intubation,BENEFICIAL,0.93,MEDIUM,RR 0.85 (0.74-0.99),acute-hypoxemic-respiratory-failure,curated,30888444,2019,1
+high-frequency-oscillation,reduced-mortality,BENEFICIAL,0.93,HIGH,"RR 0.77 (0.61-0.98), P=0.03",acute-lung-injury|ARDS,curated,20483951,2010,1
+high-peep-with-recruitment-maneuvers-olv,no-difference-postop-pulmonary-complications,NULL,0.93,HIGH,"RR 1.01 (0.86-1.20), p=0.86",open-abdominal-surgery|general-anesthesia,curated,24894577,2014,1
+individualised-ola-iola-one-lung-ventilation,reduced-severe-postoperative-ppcs-7d,BENEFICIAL,0.93,HIGH,"RR 0.39 (0.28-0.56), ARD -9.23%, NNT=11",thoracic surgery|one-lung ventilation|lung resection,curated,38065200,2024,1
+individualised-ola-iola-one-lung-ventilation,reduced-severe-ppcs-7d,BENEFICIAL,0.93,HIGH,"RR 0.39 (0.28-0.56), ARD -9.23%, NNT=11",thoracic-surgery|one-lung-ventilation,curated,19762075|12574072|16352797,2009|2003|2005,3
+inhaled-nitric-oxide,no-mortality-benefit,NULL,0.93,HIGH,"RR 1.10 (0.94-1.30), p=0.22",ALI|ARDS,curated,17383982,2007,1
+introduction-of-medical-emergency-team,reduced-serious-adverse-events-after-major-surgery,BENEFICIAL,0.93,HIGH,"RR 0.422, ARD -57.8%",major-surgery,curated,15071378,2004,1
+lower-tidal-volume-ventilation,reduced-hospital-mortality,BENEFICIAL,0.93,MEDIUM,"OR 0.75 (0.58-0.96), p=0.02",ARDS|acute-lung-injury,curated,19841457,2009,1
+lung-protective-ventilation-strategy,reduced-major-pulmonary-and-extrapulmonary-complications-7d,BENEFICIAL,0.93,HIGH,"RR 0.40 (0.24-0.68), ARD -17%",major-abdominal-surgery,curated,23902482,2013,1
+nasal-high-flow-oxygen-therapy-nhf,reduced-need-for-ventilator-support,BENEFICIAL,0.93,HIGH,"Lower need for any ventilator support (7% vs 35%, p<0.001)",postextubation,curated,25003980,2014,1
+nipsv-for-acute-cardiogenic-pulmonary-edema,reduced-intubation-rate,BENEFICIAL,0.93,HIGH,"RR 0.15, ARD -28%",acute-cardiogenic-pulmonary-edema,curated,11191538,2000,1
+niv-delivered-by-helmet,reduced-intubation-rate-ards,BENEFICIAL,0.93,HIGH,"Absolute difference -43.3% (95% CI -62.4% to -24.3%), p<0.001",ARDS,curated,27179847,2016,1
+non-invasive-ventilation-post-extubation,reduced-respiratory-failure-72h,BENEFICIAL,0.93,HIGH,"OR 5.32 (2.11-13.46), ARD -33%",chronic-respiratory-disorders|hypercapnia,curated,19682735,2009,1
+noninvasive-ventilation-niv,decreased-need-for-intubation,BENEFICIAL,0.93,HIGH,"13/51 (25%) vs 28/54 (52%), p=0.010",severe-acute-hypoxemic-respiratory-failure,curated,14500259,2003,1
+peak-cough-flow-threshold-160-lmin,successful-extubation-decannulation,BENEFICIAL,0.93,HIGH,43/43 (100%) vs 0/15 (0%) success,neuromuscular-ventilatory-insufficiency,curated,8989078,1996,1
+peak-cough-flow-threshold-160-lmin,failed-extubation-decannulation,HARMFUL,0.93,HIGH,15/62 (24%) failures,neuromuscular-ventilatory-insufficiency,curated,8989078,1996,1
+protective-mechanical-ventilation,reduced-mortality-28d,BENEFICIAL,0.93,HIGH,"RR 0.53, 38% vs 71%, p<0.001",acute-respiratory-distress-syndrome,curated,9449727,1998,1
+protocol-directed-sedation,reduced-duration-mechanical-ventilation,BENEFICIAL,0.93,HIGH,"Median 55.9 hrs vs 117.0 hrs, p=0.008",medical-intensive-care,curated,10628598,1999,1
+respiratory-muscle-aid-protocol,reduced-hospitalization-rates,BENEFICIAL,0.93,HIGH,"ARD -9.23 hospitalizations/year, 95% CI -12.55 to -5.92",neuromuscular-disease,curated,11083691,2000,1
+target-tidal-volumes-6-ml-kg-predicted-body-weight,reduced-mortality-ards,BENEFICIAL,0.93,HIGH,"RR 0.90 (0.77-1.05), P=0.19",acute-lung-injury|acute-respiratory-distress-syndrome,curated,18270352,2008,1
+tofacitinib-treatment-covid-19-pneumonia,reduced-death-or-respiratory-failure-28d,BENEFICIAL,0.93,MEDIUM,"RR 0.63 (0.41-0.97), ARD -10.9%",COVID-19-pneumonia|acute-hospitalization,curated,34133856,2021,1
+venovenous-ecmo,reduced-90d-mortality-severe-ards,BENEFICIAL,0.93,HIGH,"RR 0.75 (0.6-0.94), p=0.013",severe-ARDS,curated,33021684,2020,1
+venovenous-extracorporeal-membrane-oxygenation-ecmo,reduced-60-day-mortality-ards,BENEFICIAL,0.93,HIGH,"RR 0.73 (0.58-0.92), P=0.008",adult-respiratory-distress-syndrome,curated,30642776,2019,1
+adjunctive-corticosteroid-therapy,reduced-time-to-clinical-stability,BENEFICIAL,0.92,HIGH,Mean diff -1.22 days (-2.08 to -0.35),community-acquired-pneumonia,curated,26258555,2015,1
+ards-hyperinflammatory-phenotype,higher-mortality-fewer-vfds-fewer-offd,HARMFUL,0.92,HIGH,"Hyperinflammatory subphenotype had higher mortality, fewer ventilator-free days, and fewer organ failure-free days (p<0.007 for all)",acute-respiratory-distress-syndrome,curated,24853585,2014,1
+arterial-hyperoxia,increased-in-hospital-mortality,HARMFUL,0.92,HIGH,"aOR 1.21 (1.08-1.37), p=0.001",critical-illness,curated,25855899,2015,1
+cisatracurium-besylate-neuromuscular-blockade,reduced-hospital-mortality,BENEFICIAL,0.92,HIGH,"RR 0.72 (0.58-0.91), p=0.005",ards,curated,23497608,2013,1
+cisatracurium-besylate-neuromuscular-blockade,no-effect-on-icu-acquired-weakness,NULL,0.92,HIGH,"RR 1.08 (0.83-1.41), p=0.57",ards,curated,23497608,2013,1
+conservative-or-deresuscitative-fluid-strategy,no-effect-on-mortality,NULL,0.92,HIGH,RR 0.92 (0.82-1.02),ARDS|sepsis|SIRS,curated,27734109,2017,1
+cuff-leak-test,upper-airway-obstruction-diagnosis,DIAGNOSTIC,0.92,HIGH,SROC AUC 0.92 (0.89-0.94),,curated,19399474,2009,1
+early-intubation,null-effect-on-mortality,NULL,0.92,HIGH,"RR 1.07 (0.99-1.15), p=0.08",critically-ill-COVID-19,curated,33766109,2021,1
+fluid-overload-3d,increased-mortality,HARMFUL,0.92,HIGH,RR 8.83 (4.03-19.33),critical-illness,curated,33009098,2020,1
+growth-hormone-administration,increased-in-hospital-mortality,HARMFUL,0.92,HIGH,RR 2.4 (1.6-3.5),critical-illness|prolonged-hospitalization,curated,10477776,1999,1
+high-flow-nasal-cannula-oxygen-therapy-postextubation,reduced-reintubation-72h,BENEFICIAL,0.92,HIGH,"ARD -7.2% (95% CI 2.5 to 12.2%), p=0.004",low-risk-extubation,curated,26975498,2016,1
+high-flow-nasal-oxygen-and-niv,reduced-reintubation-7d,BENEFICIAL,0.92,HIGH,"RR 0.39 (0.28-0.56), ARD -6.4% (-12.0% to -0.9%)",high-risk-extubation,curated,31577036,2019,1
+high-frequency-oscillatory-ventilation-hfov,mortality,NULL,0.92,HIGH,OR 1.15 (0.43-3.10),ards,curated,16137357,2005,1
+hypercapnic-acidosis,reduced-28d-mortality-12ml-group,BENEFICIAL,0.92,HIGH,"OR 0.14 (95% CI 0.03-0.70), p=0.016",12mL-kg-tidal-volume,curated,16374149,2006,1
+implementation-of-icu-nutrition-management-protocol,increased-enteral-nutrition-use,BENEFICIAL,0.92,HIGH,"OR 2.4 (1.2-5.0), p=0.009",critical-illness,curated,15078758,2004,1
+nasal-high-flow-oxygen-therapy-nhf,reduced-oxygen-desaturations,BENEFICIAL,0.92,HIGH,"Fewer oxygen desaturations (40% vs 75%, p<0.001)",postextubation,curated,25003980,2014,1
+non-invasive-positive-pressure-ventilation-nppv,reduced-mortality-copd-exacerbation,BENEFICIAL,0.92,HIGH,RR 0.41 (0.26-0.64),respiratory-failure-COPD-exacerbation,curated,12543832,2003,1
+non-invasive-positive-pressure-ventilation-nppv,reduced-need-for-intubation-copd-exacerbation,BENEFICIAL,0.92,HIGH,RR 0.42 (0.31-0.59),respiratory-failure-COPD-exacerbation,curated,12543832,2003,1
+non-invasive-positive-pressure-ventilation-nppv,reduced-treatment-failure-copd-exacerbation,BENEFICIAL,0.92,HIGH,RR 0.51 (0.38-0.67),respiratory-failure-COPD-exacerbation,curated,12543832,2003,1
+obesity-bmi,reduced-mortality-ards,BENEFICIAL,0.92,HIGH,"OR 0.68 (0.57-0.80), p<0.00001",ARDS,curated,28222804,2017,1
+once-daily-spontaneous-breathing-trial,increased-successful-weaning-rate,BENEFICIAL,0.92,HIGH,"RR 2.83 vs IMV, RR 2.05 vs PSV",weaning-from-mechanical-ventilation,curated,7823995,1995,1
+patient-directed-music-pdm,reduced-anxiety-in-ventilated-patients,BENEFICIAL,0.92,HIGH,"Anxiety 19.5 points lower (95% CI -32.2 to -6.8, p=0.003)",mechanical-ventilation|critical-illness,curated,23689789,2013,1
+pes-guided-peep-titration-ards,no-change-28d-mortality-ards,NULL,0.92,HIGH,"Risk difference 1.7% (-11.1% to 14.6%), p=0.92",ards,curated,30776290,2019,1
+primary-ml-model,ards-subphenotype-assignment-accuracy,BENEFICIAL,0.92,HIGH,"AUC 0.92 (0.90-0.95) in EARLI, 0.88 (0.84-0.91) in VALID",observational-ARDS-cohorts,curated,35026177,2022,1
+resp-score-external-validation-auc,improved-ecmo-survival-prediction,BENEFICIAL,0.92,HIGH,AUC 0.92 (95% CI 0.89-0.97) in 140 patients,severe-acute-respiratory-failure|ECMO-treatment,curated,24693864,2014,1
+sarilumab,proportion-alive-at-day-29,NULL,0.92,HIGH,Placebo 92% vs sarilumab 90% alive,severe-or-critical-COVID-19,curated,33676590,2021,1
+sepsis-molecular-phenotyping,sepsis-heterogeneity-characterization,BENEFICIAL,0.92,HIGH,"Two sepsis phenotypes identified, p<0.0001",sepsis,curated,37633303,2023,1
+high-flow-nasal-oxygen-therapy,reduced-treatment-failure,NULL,0.91,MEDIUM,"RR 0.91 (0.69-1.20), P=0.50",hypoxemic-respiratory-failure-postcardiothoracic-surgery,curated,25980660,2015,1
+adjunctive-corticosteroid-therapy,reduced-duration-of-hospitalization,BENEFICIAL,0.9,HIGH,Mean diff -1.00 day (-1.79 to -0.21),community-acquired-pneumonia,curated,26258555,2015,1
+bilevel-positive-airway-pressure-bpv-one-lung-ventilation,improved-lung-function-acute-asthma,BENEFICIAL,0.9,HIGH,"80% vs 20% reached 50% FEV1 increase, p=0.006",acute-asthma,curated,12684289,2003,1
+breathe-criteria-for-breath-stacking-dyssynchrony,quantification-of-breath-stacking-dyssynchrony,BENEFICIAL,0.9,HIGH,BREATHE identified more high-volume breaths than existing criteria,ARDS,curated,27342819,2016,1
+cisatracurium-besylate-neuromuscular-blockade,reduced-barotrauma,BENEFICIAL,0.9,HIGH,"RR 0.43 (0.20-0.90), p=0.02",ards,curated,23497608,2013,1
+consensus-training-for-ards-diagnosis,improved-interobserver-agreement,BENEFICIAL,0.9,HIGH,"Raw agreement 0.88-0.94, kappa 0.72-0.88, Phi 0.74-0.89",chest-radiograph-interpretation,curated,10619802,2000,1
+corticosteroids,reduced-28d-mortality-ards,BENEFICIAL,0.9,HIGH,"RR 0.82 (0.72-0.95), ARD -8.0% (-12.5% to -2.2%)",ARDS,curated,33876268,2021,1
+covid-19-infection,increased-in-hospital-mortality,HARMFUL,0.9,HIGH,RR 2.9 (95% CI 2.8-3.0),COVID-19,curated,33341155,2021,1
+cumulative-positive-fluid-balance-3d,increased-mortality,HARMFUL,0.9,HIGH,RR 2.15 (1.51-3.07),critical-illness,curated,33009098,2020,1
+daily-screening-trials-spontaneous-breathing,reduced-complications-mechanical-ventilation,BENEFICIAL,0.9,HIGH,"20% vs 41% complications, p=0.001",respiratory-failure-requiring-mechanical-ventilation,curated,8948561,1996,1
+elevated-plasma-srage,nonfocal-ards-pattern,BENEFICIAL,0.9,HIGH,"sRAGE levels significantly higher in nonfocal vs. focal ARDS, p<0.001",ards,curated,27018314,2016,1
+exogenous-surfactant-protein-c-based,no-survival-benefit-28d,NULL,0.9,HIGH,No significant difference in 28-day mortality or ventilator-free days,acute-respiratory-distress-syndrome,curated,15329426,2004,1
+hfnc-apnoeic-oxygenation-niv-preoxygenation,reduced-oxygen-desaturation-intubation,BENEFICIAL,0.9,HIGH,"Lowest SpO2 100% vs 96%, p=0.029",hypoxaemic-respiratory-failure|intubation,curated,27730283,2016,1
+high-flow-nasal-cannula-hfnc,reduced-need-for-oxygen-escalation,BENEFICIAL,0.9,MEDIUM,RR 0.71 (0.51-0.98),acute-hypoxemic-respiratory-failure,curated,30888444,2019,1
+icu-intubation-bundle-management-protocol,reduced-life-threatening-intubation-complications,BENEFICIAL,0.9,HIGH,"21% vs 34%, p=0.03",ICU-intubation,curated,19921148,2010,1
+icu-intubation-bundle-management-protocol,reduced-mild-moderate-intubation-complications,BENEFICIAL,0.9,HIGH,"9% vs 21%, p=0.01",ICU-intubation,curated,19921148,2010,1
+ivc-diameter-respiratory-variation,fluid-responsiveness-prediction,BENEFICIAL,0.9,HIGH,Strong correlation (r=0.9) with fluid responsiveness,acute-lung-injury|sepsis,curated,15034650,2004,1
+low-tidal-volume-ventilation,reduced-pulmonary-complications,BENEFICIAL,0.9,HIGH,"Adjusted OR 0.72 (0.52-0.98), p=0.042",non-ARDS-patients,curated,26181219,2015,1
+lung-protective-ventilation,null-effect-6ml-group,BENEFICIAL,0.9,HIGH,6 mL/kg prevents ongoing lung injury,6mL-kg-tidal-volume,curated,16374149,2006,1
+lung-protective-ventilator-strategy,improved-outcome-ards,BENEFICIAL,0.9,HIGH,"Supported by improved outcome in a single large, prospective trial and a second smaller trial",ARDS,curated,11008997,2000,1
+methylprednisolone-infusion,reduced-ards-severity-by-day-7,BENEFICIAL,0.9,HIGH,"1-point LIS reduction 69.8% vs 35.7%, p=0.002",early-severe-ards,curated,17426195,2007,1
+methylprednisolone-infusion,reduced-mechanical-ventilation-duration,BENEFICIAL,0.9,HIGH,p=0.002,early-severe-ards,curated,17426195,2007,1
+morbid-obesity-bmi,reduced-mortality-ards,BENEFICIAL,0.9,HIGH,"OR 0.72 (0.56-0.93), p=0.01",ARDS,curated,28222804,2017,1
+nasal-high-flow-oxygen-therapy-nhf,reduced-reintubation-rate,BENEFICIAL,0.9,HIGH,"Lower reintubation rate (4% vs 21%, p=0.01)",postextubation,curated,25003980,2014,1
+niv,reduced-need-for-tracheotomy,BENEFICIAL,0.9,HIGH,"5% vs 59%, p<0.001",persistent-weaning-failure,curated,12689847,2003,1
+noninvasive-ventilation-niv,improved-90-day-survival,BENEFICIAL,0.9,HIGH,p=0.025,severe-acute-hypoxemic-respiratory-failure,curated,14500259,2003,1
+old-age-70y,increased-mortality-ards,HARMFUL,0.9,HIGH,"HR 2.5 (2.0-3.2), 28d survival 50.3% vs 74.6%",critical-care|acute-lung-injury-ARDS,curated,11777361,2002,1
+patient-directed-music-pdm,reduced-sedative-exposure-ventilated-patients,BENEFICIAL,0.9,HIGH,Reduced sedation intensity (-0.18 pts/day) and frequency (-0.21 pts/day),mechanical-ventilation|critical-illness,curated,23689789,2013,1
+procalcitonin-ards-biomarker,discrimination-septic-nonseptic-ards,BENEFICIAL,0.9,HIGH,"PCT levels significantly higher in septic vs nonseptic ARDS (p<0.0005), no overlap",early-ards,curated,10548201,1999,1
+pulmonary-artery-catheter-pac,increased-iv-vasodilator-use,HARMFUL,0.9,HIGH,"OR 2.35 (1.75-3.15), P<0.001",critical-illness,curated,16204666,2005,1
+respiratory-muscle-weakness-guillain-barre,respiratory-failure-guillain-barre,MECHANISM,0.9,HIGH,Proposed: Respiratory muscle weakness leads to respiratory failure in Guillain-Barré,guillain-barre-syndrome,curated,12545029,2003,1
+sp02-to-pao2-ratio-correlation,ards-diagnosis-threshold,MECHANISM,0.9,HIGH,S/F ratio of 235 corresponds to P/F ratio of 200 (ARDS),,curated,17573487,2007,1
+svc-collapse-measurement,fluid-responsiveness-diagnosis,BENEFICIAL,0.9,HIGH,"36% SVC collapse threshold had 90% sensitivity, 100% specificity for identifying fluid responders",septic-shock|mechanical-ventilation,curated,15375649,2004,1
+cpap-plus-oxygen-therapy,improved-mortality,NULL,0.89,HIGH,"31% vs 30%, p=0.89",acute-hypoxemic-nonhypercapnic-respiratory-insufficiency,curated,11066186,2000,1
+elevated-interleukin-8,increased-mortality-risk,HARMFUL,0.89,HIGH,OR 1.73 (1.29-2.34) per log-unit increase,acute-lung-injury,curated,15644641,2005,1
+high-frequency-oscillation,reduced-treatment-failure,BENEFICIAL,0.89,HIGH,"RR 0.67 (0.46-0.99), P=0.04 for refractory hypoxemia/barotrauma",acute-lung-injury|ARDS,curated,20483951,2010,1
+high-frequency-oscillatory-ventilation-hfov,increased-in-hospital-mortality,HARMFUL,0.89,HIGH,"RR 1.33 (1.09-1.64), p=0.005",moderate-severe-ARDS,curated,23339639,2013,1
+tocilizumab-treatment-covid-19-pneumonia,reduced-who-cps-above-5-day4,BENEFICIAL,0.89,MEDIUM,ARD -9.0% (90% CrI -21.0 to 3.1),COVID-19-pneumonia,curated,33080017,2021,1
+ards-subphenotype-identification,ards-hyperinflammatory-phenotype,MECHANISM,0.88,HIGH,Hyperinflammatory subphenotype associated with worse outcomes,acute-respiratory-distress-syndrome,curated,24853585,2014,1
+computer-driven-weaning-protocol,reduced-total-ventilation-duration,BENEFICIAL,0.88,HIGH,"Median total ventilation 7.5d vs 12d, p=0.003",mechanical-ventilation,curated,16840741,2006,1
+haloperidol-for-delirium-in-critical-illness,days-alive-without-delirium-or-coma,NULL,0.88,HIGH,"OR 0.88 (0.64-1.21), p=0.26",delirium-in-critical-illness,curated,30346242,2018,1
+implementation-of-icu-nutrition-management-protocol,reduced-duration-of-mechanical-ventilation,BENEFICIAL,0.88,HIGH,"Adjusted mean difference -6.7 days, p=0.03",critical-illness,curated,15078758,2004,1
+implementation-of-icu-nutrition-management-protocol,reduced-in-hospital-mortality,BENEFICIAL,0.88,HIGH,"Hazard ratio 0.44 (0.24-0.80), p=0.007",critical-illness,curated,15078758,2004,1
+nasal-high-flow-oxygen-therapy-nhf,reduced-interface-displacements,BENEFICIAL,0.88,HIGH,"Fewer interface displacements (32% vs 56%, p=0.01)",postextubation,curated,25003980,2014,1
+non-invasive-ventilation-during-acute-respiratory-failure,increased-intubation-28d,HARMFUL,0.88,HIGH,OR 4.25 (1.33-13.56),severe-acute-respiratory-failure|immunocompromised,curated,27245914,2016,1
+noninvasive-ventilation-niv,reduced-incidence-of-septic-shock,BENEFICIAL,0.88,HIGH,"6/51 (12%) vs 17/54 (31%), p=0.028",severe-acute-hypoxemic-respiratory-failure,curated,14500259,2003,1
+once-daily-spontaneous-breathing-trial,reduced-weaning-duration,BENEFICIAL,0.88,HIGH,Median duration 3 days vs 4-5 days for other methods,weaning-from-mechanical-ventilation,curated,7823995,1995,1
+pes-guided-peep-titration-ards,reduced-need-for-rescue-therapy,BENEFICIAL,0.88,MEDIUM,"4/102 (3.9%) vs 12/98 (12.2%), RD -8.3% (-15.8% to -0.8%), p=0.04",ards,curated,30776290,2019,1
+prone-positioning,reduced-mortality-ards-60d-lowtv,BENEFICIAL,0.88,HIGH,"RR 0.66 (0.50-0.86), p=0.002",ards|low-tidal-volume-ventilation,curated,24435203,2014,1
+120-minute-spontaneous-breathing-trial,reintubation-48h,NULL,0.87,HIGH,"13.5% vs 13.4%, p=0.32",mechanical-ventilation-weaning,curated,9927366,1999,1
+30-minute-spontaneous-breathing-trial,reintubation-48h,NULL,0.87,HIGH,"13.5% vs 13.4%, p=0.32",mechanical-ventilation-weaning,curated,9927366,1999,1
+aerosolized-albuterol,ventilator-free-days,NULL,0.87,HIGH,"Means 14.4 vs 16.6 days, 95% CI -4.7 to 0.3, p=0.087",acute-lung-injury,curated,21562125,2011,1
+avoided-intubation,reduced-icu-mortality,BENEFICIAL,0.87,HIGH,"6% vs 53% ICU mortality, p<0.001",ards,curated,17133177,2007,1
+corticosteroids-prevention-ards,increased-ards-odds,TREND,0.87,MEDIUM,"OR 1.55 (0.58-4.05), P(OR>=1)=86.6%",critical-illness,curated,18434379,2008,1
+awake-prone-positioning,reduced-treatment-failure-intubation-or-death-28d,BENEFICIAL,0.86,HIGH,RR 0.86 (0.75-0.98),COVID-19-acute-hypoxaemic-respiratory-failure,curated,34425070,2021,1
+cuff-leak-test,reintubation-for-upper-airway-obstruction,DIAGNOSTIC,0.86,MEDIUM,Pooled specificity 0.86 (0.81-0.90),,curated,19399474,2009,1
+adjunctive-corticosteroid-therapy,increased-hyperglycemia-requiring-treatment,HARMFUL,0.85,HIGH,"RR 1.49 (1.01-2.19), ARD +3.5%",community-acquired-pneumonia,curated,26258555,2015,1
+aerosolized-albuterol,mortality-before-hospital-discharge,NULL,0.85,HIGH,"23.0% vs 17.7%, 95% CI -4.0% to 14.7%, p=0.30",acute-lung-injury,curated,21562125,2011,1
+aerosolized-albuterol,atrial-fibrillation-incidence,NULL,0.85,HIGH,"10% in both groups, no significant difference",acute-lung-injury,curated,21562125,2011,1
+avoided-intubation,reduced-vap,BENEFICIAL,0.85,HIGH,"2% vs 20% VAP, p<0.001",ards,curated,17133177,2007,1
+compliance-above-lip-recruitable-lung,alveolar-derecruitment-peep-decrement,MECHANISM,0.85,HIGH,Compliance above LIP reflects recruitable lung in ALI,acute-lung-injury,curated,11549535,2001,1
+computer-driven-weaning-protocol,reduced-weaning-duration,BENEFICIAL,0.85,HIGH,"Median weaning duration 3d vs 5d, p=0.01",mechanical-ventilation,curated,16840741,2006,1
+cooling-febrile-critically-ill,reduced-oxygen-consumption,BENEFICIAL,0.85,HIGH,"VO2 decreased from 359.0 ± 65.0 to 295.1 ± 57.3 ml/min, p<0.01",febrile-critically-ill,curated,7812538,1995,1
+covid-19-induced-procoagulant-state,covid-19-ards-associated-thrombosis,HARMFUL,0.85,HIGH,High rate of thrombotic complications (16.7% PE) despite anticoagulation,COVID-19-ARDS,curated,32367170,2020,1
+inhaled-nitric-oxide,improved-pao2-fio2,BENEFICIAL,0.85,HIGH,Increased PaO2/FiO2 from 115 to 144 mmHg,ards,curated,8630585,1996,1
+ketoconazole-treatment-ali-ards,no-change-mortality-ventilator-free-days,NULL,0.85,HIGH,"Mortality 34.1% vs 35.2%, p=0.85. Ventilator-free days 9 vs 10, p=0.89.",ALI|ARDS,curated,10789668,2000,1
+non-invasive-positive-pressure-ventilation-nppv,improved-respiratory-parameters-copd-exacerbation,BENEFICIAL,0.85,HIGH,"pH +0.03 (0.02-0.04), PaCO2 -0.40 kPa (-0.78 to -0.03), RR -3.08 bpm (-4.26 to -1.89)",respiratory-failure-COPD-exacerbation,curated,12543832,2003,1
+noninvasive-ventilation-niv,improved-hypoxemia-and-tachypnea,BENEFICIAL,0.85,HIGH,"Higher in NIV group with time, p=0.029 each",severe-acute-hypoxemic-respiratory-failure,curated,14500259,2003,1
+partial-liquid-ventilation-plv,ventilator-free-days-28d,NULL,0.85,HIGH,"No significant difference in ventilator-free days at 28 days (CMV 6.7 ± 1.8 vs PLV 6.3 ± 1.0, p=0.85)",ARDS,curated,11897644,2002,1
+protective-ventilation-intraoperative,reduced-postoperative-respiratory-complications,BENEFICIAL,0.85,MEDIUM,"OR 0.90 (0.82-0.98), p=0.013",non-cardiac-surgery|general-anesthesia|endotracheal-intubation,curated,26174419,2015,1
+pulmonary-artery-catheter-pac,no-impact-on-mortality,NULL,0.85,HIGH,"OR 1.04 (0.90-1.20), P=0.59",critical-illness,curated,16204666,2005,1
+pulmonary-artery-catheter-pac,increased-inotrope-use,HARMFUL,0.85,HIGH,"OR 1.58 (1.19-2.12), P=0.002",critical-illness,curated,16204666,2005,1
+reduced-alveolar-overdistention,reduced-ventilator-induced-lung-injury,MECHANISM,0.85,HIGH,Proposed: Preventing overdistention reduces VILI,,curated,8084064,1994,1
+reintubation-after-extubation,increased-mortality,HARMFUL,0.85,HIGH,"OR 5.18 (3.38-7.94), P<0.001",postoperative-extubation,curated,21376523,2011,1
+sars-cov-2-induced-respiratory-failure,biological-changes-underpin-critical-illness,MECHANISM,0.85,HIGH,Proposed: SARS-CoV-2 research supports focusing on underlying biology,critical-illness,curated,35715504,2022,1
+temporal-trend-improved-ali-mortality,reduced-ali-mortality,BENEFICIAL,0.85,HIGH,"35% to 26% over 1996-2005, p<0.0005",ALI|ARDS-Network-centers,curated,19325464,2009,1
+dexamethasone-covid19-ards-treatment,increased-ventilator-free-days-28d,BENEFICIAL,0.84,HIGH,"Mean diff 2.26 days (95% CI 0.2-4.38), p=0.04",COVID19-ARDS,curated,32876695,2020,1
+haloperidol,delirium-incidence,MECHANISM,0.84,moderate,,,curated,30484283,2018,1
+high-frequency-oscillation,improved-oxygenation-index,BENEFICIAL,0.84,HIGH,16-24% higher PaO2/FiO2 vs conventional ventilation,acute-lung-injury|ARDS,curated,20483951,2010,1
+lymphopenia-on-admission,severe-covid-19-outcomes,HARMFUL,0.84,HIGH,"Mean diff -361.06 μL (95% CI -439.18 to -282.95), p<0.001",COVID-19,curated,32483488,2020,1
+methylprednisolone-therapy,reduced-treatment-failure-severe-pneumonia,BENEFICIAL,0.84,HIGH,"OR 0.34 (0.14-0.87), ARD 18% (3-32%)",severe-community-acquired-pneumonia|high-inflammatory-response,curated,25688779,2015,1
+noninvasive-ventilation-niv,reduced-need-for-intubation,BENEFICIAL,0.84,HIGH,"RR 0.29, P=0.002",solid-organ-transplantation|acute-respiratory-failure,curated,10634340,2000,1
+hydrocortisone-treatment-sepsis-ards,no-change-28d-mortality,NULL,0.83,HIGH,"HR 0.80 (0.46-1.41), p=0.44",sepsis-associated-ards,curated,27741949,2016,1
+intraoperative-high-dose-dexamethasone,reduced-composite-major-adverse-events-30d,NULL,0.83,HIGH,"RR 0.83 (0.67-1.01), ARD -1.5%",cardiac-surgery|cardiopulmonary-bypass,curated,23117776,2012,1
+lower-tidal-volume-ventilation-olv-ecco2r,90-day-mortality,NULL,0.83,HIGH,"RR 1.05 (0.83-1.33), ARD 2.0% (-7.6% to 11.5%)",acute-hypoxemic-respiratory-failure,curated,34463700,2021,1
+ventilatory-ratio,dead-space-fraction-vd-vt,MECHANISM,0.83,HIGH,Ventilatory ratio positively correlates with Vd/Vt,acute-respiratory-distress-syndrome,curated,30211618,2019,1
+ards-subphenotype-identification,differential-peep-response-by-phenotype,BENEFICIAL,0.82,MEDIUM,"Effects of high vs low PEEP on mortality, VFDs, OFFDs differed by ARDS subphenotype (p=0.049, 0.018, 0.003)",acute-respiratory-distress-syndrome,curated,24853585,2014,1
+bilevel-positive-airway-pressure-bpv-one-lung-ventilation,reduced-hospitalization-rate-acute-asthma,BENEFICIAL,0.82,MEDIUM,17.6% vs 62.5% hospitalization rate,acute-asthma,curated,12684289,2003,1
+delphi-ards-definition,ards-diagnosis-accuracy,MECHANISM,0.82,MEDIUM,"Sensitivity 0.69, Specificity 0.82",critical-care,curated,16215375,2005,1
+inspiratory-muscle-strength-training-imst,improved-weaning-outcome,BENEFICIAL,0.82,MEDIUM,"71% vs 47% weaned, ARD 24% (2-80)",failure-to-wean-ventilation,curated,21385346,2011,1
+nasal-high-flow-oxygen-therapy-nhf,reduced-patient-discomfort,BENEFICIAL,0.82,MEDIUM,Lower interface and airway dryness discomfort scores at 24h,postextubation,curated,25003980,2014,1
+niv-algorithm-compensation,reduced-auto-triggering,MECHANISM,0.82,MEDIUM,Proposed: NIV algorithms minimize auto-triggering and delayed cycling,noninvasive-ventilation,curated,22406958,2012,1
+prone-positioning-severe-ards,increased-pressure-ulcers,HARMFUL,0.82,MEDIUM,OR 1.54 (P=0.065),severe-ARDS,curated,24352484,2014,1
+reduced-ventilator-induced-lung-injury,reduced-ards-mortality,BENEFICIAL,0.82,HIGH,Observed: Hospital mortality 26.4% vs 53.3% predicted by APACHE II (p=0.004),,curated,7924367,1994,1
+prone-positioning-in-acute-respiratory-failure,no-survival-benefit,NULL,0.81,HIGH,RR 0.84 (0.56-1.27) for 10-day mortality,acute-respiratory-failure,curated,11529210,2001,1
+adjunctive-corticosteroid-therapy,reduced-ards,BENEFICIAL,0.8,MEDIUM,"RR 0.24 (0.10-0.56), ARD -6.2%",community-acquired-pneumonia,curated,26258555,2015,1
+aerosolized-albuterol,heart-rate-increase,HARMFUL,0.8,HIGH,Significantly higher by ~4 beats/min in first 2 days,acute-lung-injury,curated,21562125,2011,1
+aerosolized-prostacyclin,improved-pao2-fio2,BENEFICIAL,0.8,HIGH,Increased PaO2/FiO2 from 114 to 135 mmHg,ards,curated,8630585,1996,1
+aerosolized-synthetic-surfactant,no-effect-on-30d-survival-ards,NULL,0.8,HIGH,"No significant effect on 30-day survival, APACHE III score, ICU stay, or ventilation duration",sepsis-induced-ards,curated,8618579,1996,1
+ards-survival,reduced-hrql,HARMFUL,0.8,HIGH,"Clinically and statistically significant reductions in 7/8 SF-36 and 3/3 SGRQ domains, p<0.001",ARDS,curated,9929089,1999,1
+assisted-coughing-and-noninvasive-ventilation,successful-extubation,BENEFICIAL,0.8,MEDIUM,"23/28 (82.1%) vs 2/20 (10%), p<0.001",respiratory-failure-SMA1,curated,10767247,2000,1
+berlin-definition-ards-severity-criteria,improved-ards-diagnosis,BENEFICIAL,0.8,MEDIUM,Berlin definition has greater predictive validity for mortality than prior criteria,ards,curated,29466596,2018,1
+covid-19-infection,increased-severe-illness,HARMFUL,0.8,MEDIUM,"More frequent acute respiratory failure, pulmonary embolism, septic shock, hemorrhagic stroke",COVID-19,curated,33341155,2021,1
+daily-screening-trials-spontaneous-breathing,reduced-icu-costs,BENEFICIAL,0.8,MEDIUM,"Median $15,740 vs $20,890, p=0.03",respiratory-failure-requiring-mechanical-ventilation,curated,8948561,1996,1
+days-breathing-without-assistance,discharged-alive-within-28-days,ASSOCIATION,0.8,4,Outcome,,curated,18191684,2008,1
+driving-pressure-reduction,reduced-mortality-ards,BENEFICIAL,0.8,HIGH,ΔP impact 4x larger than RR on mortality,ards,curated,33784486,2021,1
+early-corticosteroid-therapy-icu-admission,increased-icu-mortality,HARMFUL,0.8,HIGH,"OR 3.8 (2.1-7.2), p<0.01",severe-pandemic-H1N1-influenza-infection,curated,21107529,2011,1
+early-predictors-respiratory-failure-guillain-barre,close-monitoring-early-ventilation-guillain-barre,BENEFICIAL,0.8,MEDIUM,Proposed: Identify high-risk patients for intensive monitoring and early ventilatory support,guillain-barre-syndrome,curated,12545029,2003,1
+epidural-anaesthesia-and-analgesia,no-difference-in-major-adverse-outcomes,NULL,0.8,HIGH,"57.1% vs 60.7% had morbidity/mortality, p=0.29",major-abdominal-surgery|high-risk-population,curated,11965272,2002,1
+helmet-noninvasive-ventilation,days-free-respiratory-support-28d,NULL,0.8,HIGH,"No significant difference in days free of respiratory support (median 20 vs 18 days, p=0.26)",COVID-19|hypoxemic-respiratory-failure,curated,33764378,2021,1
+high-driving-pressure-delta-prs,increased-mortality-ards,HARMFUL,0.8,MEDIUM,"HR 1.05 (1.02-1.08), P=0.005",low-tidal-volume-ventilation,curated,27894328,2016,1
+high-flow-nasal-cannula-oxygen-therapy-postextubation,reduced-postextubation-respiratory-failure,BENEFICIAL,0.8,MEDIUM,8.3% vs 14.4%,low-risk-extubation,curated,26975498,2016,1
+high-flow-oxygen-therapy-severe-covid-19,reduced-intubation-rate,BENEFICIAL,0.8,HIGH,"HR 0.62 (0.39-0.96), p=0.03",severe-COVID-19,curated,34874419,2021,1
+high-frequency-oscillatory-ventilation-hfov,survival-without-oxygen-or-ventilator-30d,NULL,0.8,HIGH,OR 0.80 (0.22-2.97),ards,curated,16137357,2005,1
+high-plateau-pressure-pplat-rs,increased-mortality-ards,HARMFUL,0.8,MEDIUM,"HR 1.05 (1.01-1.08), P=0.008",low-tidal-volume-ventilation,curated,27894328,2016,1
+high-pressure-barotrauma,ards-severity,MECHANISM,0.8,HIGH,Proposed: High airway pressure causes alveolar trauma,,curated,9847275,1998,1
+high-vt-volutrauma,ards-severity,MECHANISM,0.8,HIGH,Proposed: High VT causes lung stretch and injury,,curated,9847275,1998,1
+higher-peep-ventilation,reduced-need-rescue-therapy,BENEFICIAL,0.8,MEDIUM,"OR 0.51 (0.36-0.71), p<0.001",ARDS|acute-lung-injury,curated,19841457,2009,1
+higher-peep-ventilation,reduced-mortality-rescue-therapy,BENEFICIAL,0.8,MEDIUM,"OR 0.51 (0.36-0.71), p<0.001",ARDS|acute-lung-injury,curated,19841457,2009,1
+hypercapnic-acidosis,null-effect-6ml-group,NULL,0.8,MEDIUM,"OR 1.18 (95% CI 0.59-2.35), p=0.639",6mL-kg-tidal-volume,curated,16374149,2006,1
+inhaled-nitric-oxide-ino,improved-oxygenation-ards,BENEFICIAL,0.8,MEDIUM,"Increased PaO2/FiO2 at 1h, 12h, 24h vs conventional",acute-respiratory-distress-syndrome,curated,9603111,1998,1
+inspiratory-pressure-augmentation-sbt,improved-ventilator-liberation-outcomes,BENEFICIAL,0.8,MEDIUM,Conditional recommendation,critical-illness|mechanical-ventilation,curated,27818331,2017,1
+interruption-of-inhaled-nitric-oxide,worsening-oxygenation-ards,HARMFUL,0.8,HIGH,"Decrease in PaO2/FiO2 by 81 ± 4 mmHg, increase in QVA/QT by 8.3 ± 0.4%, and increase in PAP by 5.3 ± 0.3 mmHg upon NO interruption",severe-ards,curated,7705124,1995,1
+low-tidal-volume-ventilation,no-difference-in-ventilator-free-days-28d,NULL,0.8,HIGH,"Mean diff -0.27 days (95% CI -1.74 to 1.19), p=0.71",icu-patients-without-ards,curated,30357256,2018,1
+lower-tidal-volume-ventilation,reduced-lung-injury-development,BENEFICIAL,0.8,HIGH,"13.5% vs 2.6%, P=0.01",mechanical-ventilation|without-acute-lung-injury,curated,20055989,2010,1
+lower-tidal-volume-ventilation-olv-ecco2r,ventilator-free-days-28d,HARMFUL,0.8,HIGH,"Fewer ventilator-free days (-2.1 days, 95% CI -3.8 to -0.3)",acute-hypoxemic-respiratory-failure,curated,34463700,2021,1
+minimise-ventilator-induced-lung-injury,reduced-ards-mortality,BENEFICIAL,0.8,HIGH,Cornerstone of ARDS management remains lung-protective ventilation to minimize VILI,ards,curated,29466596,2018,1
+nasal-mask-nimv,improved-patient-tolerance,BENEFICIAL,0.8,HIGH,Better tolerated than full-face or nasal plugs,chronic-hypercapnic-respiratory-failure,curated,10890620,2000,1
+nasal-positive-pressure-ventilation-plus-oxygen-npsv-ltot,improved-quality-of-life-hypercapnic-copd,BENEFICIAL,0.8,MEDIUM,Significantly better quality of life with NPSV+LTOT vs LTOT alone,hypercapnic-COPD,curated,7633704,1995,1
+nava-ventilation-mode,reduced-patient-ventilator-asynchrony,BENEFICIAL,0.8,MEDIUM,"Asynchrony index >10% in 5/14 (36%) with PSV vs 0/14 (0%) with NAVA, p<0.05",acute-respiratory-failure,curated,18629471,2008,1
+new-ventilatory-approach-na,no-difference-in-mortality,NULL,0.8,MEDIUM,p=0.45,acute-respiratory-distress-syndrome,curated,8520744,1995,1
+nipsv-for-acute-cardiogenic-pulmonary-edema,faster-clinical-resolution,BENEFICIAL,0.8,MEDIUM,"Median time 30 vs 105 min, p=0.002",acute-cardiogenic-pulmonary-edema,curated,11191538,2000,1
+niv,reduced-duration-invasive-ventilation,BENEFICIAL,0.8,HIGH,"-10.6 days, p=0.003",persistent-weaning-failure,curated,12689847,2003,1
+niv,reduced-icu-stay,BENEFICIAL,0.8,HIGH,"-10.9 days, p=0.002",persistent-weaning-failure,curated,12689847,2003,1
+niv,reduced-hospital-stay,BENEFICIAL,0.8,HIGH,"-13.0 days, p=0.026",persistent-weaning-failure,curated,12689847,2003,1
+niv,reduced-nosocomial-pneumonia,BENEFICIAL,0.8,HIGH,"24% vs 59%, p=0.042",persistent-weaning-failure,curated,12689847,2003,1
+niv,reduced-septic-shock,BENEFICIAL,0.8,HIGH,"10% vs 41%, p=0.045",persistent-weaning-failure,curated,12689847,2003,1
+niv,improved-icu-survival,BENEFICIAL,0.8,HIGH,"90% vs 59%, p=0.045",persistent-weaning-failure,curated,12689847,2003,1
+niv,improved-90-day-survival,BENEFICIAL,0.8,HIGH,p=0.044,persistent-weaning-failure,curated,12689847,2003,1
+non-invasive-ventilation-niv,improved-survival-als,BENEFICIAL,0.8,HIGH,Median survival benefit of 205 days (p=0.006),amyotrophic-lateral-sclerosis|without-severe-bulbar-dysfunction,curated,16426990,2006,1
+non-invasive-ventilation-niv,improved-quality-of-life-als,BENEFICIAL,0.8,HIGH,"Improved quality of life measures (T(i)MCS, T(i)sym, microMCS, microsym)",amyotrophic-lateral-sclerosis|without-severe-bulbar-dysfunction,curated,16426990,2006,1
+non-invasive-ventilation-niv-palliative,reduced-dyspnea-opioid-use,BENEFICIAL,0.8,MEDIUM,"Borg scale -0.58 (-0.92 to -0.23), p=0.0012; lower morphine use",end-stage-cancer|palliative-care,curated,23406914,2013,1
+noninvasive-mechanical-ventilation,reduced-mortality-ards,BENEFICIAL,0.8,HIGH,"RR 0.39 (0.28-0.56), mortality 42% vs 69%/77%",hematologic-malignancy|acute-respiratory-failure,curated,21666446,2011,1
+noninvasive-positive-pressure-ventilation-nppv,improved-hypercapnic-respiratory-failure,BENEFICIAL,0.8,HIGH,"Significant improvement in PaO2, PaCO2, pH, respiratory rate vs standard therapy",hypercapnic-acute-respiratory-failure,curated,9872200,1998,1
+noninvasive-positive-pressure-ventilation-nppv,well-tolerated,BENEFICIAL,0.8,HIGH,Only 2/17 required sedation,acute-respiratory-failure-in-asthma,curated,8797425,1996,1
+noninvasive-positive-pressure-ventilation-nppv,reduced-endotracheal-intubation-rate,BENEFICIAL,0.8,HIGH,"Rate ratio 0.30, p=0.002",acute-respiratory-failure,curated,10712326,2000,1
+noninvasive-pressure-support-ventilation,successful-weaning-60d,BENEFICIAL,0.8,MEDIUM,20% absolute difference in weaning success,COPD-respiratory-failure,curated,9556465,1998,1
+noninvasive-pressure-support-ventilation,reduced-intubation-rate-hypercapnic-subgroup,BENEFICIAL,0.8,HIGH,"Noninvasive pressure support ventilation reduced intubation rate in hypercapnic patients (2 vs 9, p=0.015)",acute-respiratory-failure|cardiogenic-pulmonary-edema|hypercapnia,curated,12958051,2003,1
+noninvasive-pressure-support-ventilation-nipsv,reduced-endotracheal-intubation,BENEFICIAL,0.8,MEDIUM,"36% vs 100%, p=0.02",acute-hypercapnic-respiratory-failure,curated,7874950,1995,1
+noninvasive-pressure-support-ventilation-nipsv,reduced-icu-length-of-stay,BENEFICIAL,0.8,MEDIUM,"13 ± 15 days vs 32 ± 30 days, p=0.04",acute-hypercapnic-respiratory-failure,curated,7874950,1995,1
+noninvasive-pressure-support-ventilation-nipsv,reduced-mortality,BENEFICIAL,0.8,MEDIUM,"9% vs 66%, p=0.06",acute-hypercapnic-respiratory-failure,curated,7874950,1995,1
+noninvasive-ventilation-niv,reduced-icu-mortality,BENEFICIAL,0.8,HIGH,"Reduction in ICU mortality risk, p<0.01",solid-organ-transplantation|acute-respiratory-failure,curated,10634340|16276167,2005|2000,2
+noninvasive-ventilation-niv,reduced-reintubation-rate,BENEFICIAL,0.8,HIGH,"4/48 vs 12/49, p=0.027",high-risk-postextubation-respiratory-failure,curated,16276167,2005,1
+noninvasive-ventilation-niv,reduced-mortality,BENEFICIAL,0.8,HIGH,"RD -8%, p=0.03",acute-respiratory-failure,curated,11990914,2002,1
+noninvasive-ventilation-niv,reduced-need-for-mechanical-ventilation,BENEFICIAL,0.8,HIGH,"RD -19%, p=0.001",acute-respiratory-failure,curated,11990914,2002,1
+noninvasive-ventilation-niv,shorter-hospital-length-of-stay,BENEFICIAL,0.8,HIGH,"Mean diff -2.74 days, p=0.004",acute-respiratory-failure,curated,11990914,2002,1
+noninvasive-ventilation-niv-postextubation,reduced-duration-endotracheal-mechanical-ventilation,BENEFICIAL,0.8,MEDIUM,"Significantly shorter ETMV duration with NIV (4.56 vs 7.69 days, p=0.004)",acute-on-chronic-respiratory-failure,curated,10390384,1999,1
+optoelectronic-plethysmography-technique,chest-wall-volume-changes-measurement-intensive-care,BENEFICIAL,0.8,HIGH,Feasible and provides unique data,intensive-care|ALI-ARDS,curated,10806152,2000,1
+prolonged-low-to-moderate-dose-corticosteroids,reduced-mortality-ards,BENEFICIAL,0.8,HIGH,"RR 0.62 (0.43-0.91), p=0.01",acute-lung-injury|acute-respiratory-distress-syndrome,curated,19325471,2009,1
+prolonged-methylprednisolone-therapy,reduced-mortality-ards,BENEFICIAL,0.8,HIGH,"ICU mortality 0% vs 62%, p=0.002; hospital mortality 12% vs 62%, p=0.03",unresolving-ARDS,curated,9669790,1998,1
+prolonged-methylprednisolone-therapy,improved-lung-function-ards,BENEFICIAL,0.8,HIGH,"Improved LIS, PaO2/FiO2, MODS scores vs placebo, p<0.001",unresolving-ARDS,curated,9669790,1998,1
+prone-positioning,reduced-mortality-ards-60d,BENEFICIAL,0.8,MEDIUM,"RR 0.83 (0.68-1.02), p=0.073",ards,curated,24435203,2014,1
+prone-positioning-ards,reduced-ards-mortality,BENEFICIAL,0.8,MEDIUM,Prone positioning associated with mortality benefit in severe ARDS,ards,curated,29466596,2018,1
+protective-mechanical-ventilation,higher-rate-weaning-ventilation,BENEFICIAL,0.8,MEDIUM,"66% vs 29%, p=0.005",acute-respiratory-distress-syndrome,curated,9449727,1998,1
+protective-mechanical-ventilation,reduced-barotrauma,BENEFICIAL,0.8,MEDIUM,"7% vs 42%, p=0.02",acute-respiratory-distress-syndrome,curated,9449727,1998,1
+pulmonary-artery-catheter-guided-hemodynamic-management,no-improvement-in-survival-or-organ-function,NULL,0.8,HIGH,Rates of death and other outcomes similar between PAC and CVC groups,acute-lung-injury,curated,16714768,2006,1
+pulmonary-artery-catheter-guided-hemodynamic-management,increased-catheter-related-complications,HARMFUL,0.8,HIGH,PAC group had ~2x more catheter-related complications,acute-lung-injury,curated,16714768,2006,1
+pulmonary-artery-catheter-pac,no-impact-on-hospital-length-of-stay,NULL,0.8,HIGH,"Mean diff 0.11 days (-0.51 to 0.74), P=0.73",critical-illness,curated,16204666,2005,1
+pulmonary-vasodilation,improved-ventilation-perfusion,MECHANISM,0.8,HIGH,Proposed: Selective pulmonary vasodilation redistributes bloodflow,ards,curated,8630585,1996,1
+respiratory-intensive-care-transfer,increased-ambulation,BENEFICIAL,0.8,HIGH,"Substantial increase, p<.0001",respiratory-failure|prolonged-mechanical-ventilation,curated,18379236,2008,1
+restrictive-red-blood-cell-transfusion-strategy,similar-30d-mortality-severe-morbidity-vs-liberal,NULL,0.8,HIGH,"1% difference (95% CI -6% to 4%), P=0.85",cardiac-surgery-with-cardiopulmonary-bypass,curated,20940381,2010,1
+resuscitation-guided-by-fluid-responsiveness-assessment,reduced-positive-fluid-balance-72h,BENEFICIAL,0.8,HIGH,"Mean diff -1.37 L, p=0.021",septic-shock,curated,32353418,2020,1
+sars-cov-2-induced-hypercoagulability,covid-19-ards-associated-thrombosis,MECHANISM,0.8,HIGH,Proposed: SARS-CoV-2 infection causes a procoagulant state,COVID-19-ARDS,curated,32367170,2020,1
+sedation-minimization-protocols,improved-ventilator-liberation-outcomes,BENEFICIAL,0.8,MEDIUM,Conditional recommendation,critical-illness|mechanical-ventilation,curated,27818331,2017,1
+sepsis-phenotypes,sepsis-phenotypes-treatment-response-heterogeneity,MECHANISM,0.8,MEDIUM,Sepsis phenotypes associated with differential treatment responses in trials,sepsis|pharmacotherapy,curated,37633303,2023,1
+simvastatin-intervention,no-improvement-ards-outcomes,NULL,0.8,HIGH,"No significant difference in ventilator-free days, non-pulmonary organ failure, or mortality",acute-respiratory-distress-syndrome,curated,25268516,2014,1
+tocilizumab-early-treatment-in-covid-icu,reduced-mortality-in-covid-icu,BENEFICIAL,0.8,HIGH,HR 0.71 (0.56-0.92),critical-illness|COVID-19,curated,33080002,2021,1
+trophic-enteral-feeding-first-6d,ventilator-free-days-28d,NULL,0.8,HIGH,"Mean diff -0.1 days (95% CI -1.4 to 1.2), P=0.89",acute-lung-injury,curated,22307571,2012,1
+ultrasound-profile-integration,acute-respiratory-failure-diagnosis,MECHANISM,0.8,HIGH,Combining ultrasound findings into diagnostic profiles achieved 90.5% accuracy,acute-respiratory-failure,curated,18403664,2008,1
+ventilation-guided-esophageal-pressure,improved-oxygenation,BENEFICIAL,0.8,HIGH,"88 mmHg higher PaO2/FiO2 at 72h, p=0.002",acute-lung-injury|ARDS,curated,19001507,2008,1
+ventilation-guided-esophageal-pressure,improved-respiratory-compliance,BENEFICIAL,0.8,HIGH,"Significantly better at 24-72h, p=0.01",acute-lung-injury|ARDS,curated,19001507,2008,1
+atypical-antipsychotics,delirium-incidence,MECHANISM,0.79,low,,,curated,30484283,2018,1
+regional-lung-ultrasound-score,regional-lung-aeration-assessment,BENEFICIAL,0.79,HIGH,"Strong correlation with tissue density (rs=0.79, p<0.0001)",ARDS,curated,30048331,2018,1
+48-hr-neuromuscular-blocking-agents-nmba,improved-oxygenation-ards,BENEFICIAL,0.78,MEDIUM,p=0.021 for PaO2/FiO2 ratio over 120 hrs,acute-respiratory-distress-syndrome,curated,14707568,2004,1
+ace2-repletion-rhace2,ras-peptide-modulation,MECHANISM,0.78,HIGH,"Rapid decrease in Ang II, increase in Ang-(1-7) and Ang-(1-5)",ards,curated,28877748,2017,1
+activated-protein-c-administration,improved-ventilator-free-days,NULL,0.78,MEDIUM,No significant difference in ventilator-free days,acute-lung-injury,curated,18565951,2008,1
+activated-protein-c-administration,decreased-pulmonary-dead-space-fraction,MECHANISM,0.78,MEDIUM,APC decreased pulmonary dead space fraction (P = 0.02),acute-lung-injury,curated,18565951,2008,1
+adjunctive-corticosteroid-therapy,reduced-mortality,BENEFICIAL,0.78,MEDIUM,"RR 0.67 (0.45-1.01), ARD -2.8%",community-acquired-pneumonia,curated,26258555,2015,1
+alveolar-cell-repair-mechanisms,ventilator-associated-lung-injury-prevention,MECHANISM,0.78,MEDIUM,Proposed: Alveolar cell repair mechanisms protect against injury,mechanical-ventilation,curated,15695492,2005,1
+alveolar-epithelial-barrier-disruption,ventilator-associated-lung-injury,MECHANISM,0.78,MEDIUM,Proposed: Mechanical stretch disrupts alveolar epithelial barrier,mechanical-ventilation,curated,15695492,2005,1
+alveolar-recruitment-pressure-support,reduced-alveolar-derecruitment-suctioning,MECHANISM,0.78,MEDIUM,Proposed: Recruitment maneuvers restore alveolar volume during suctioning,acute-lung-injury,curated,12615633,2003,1
+alveolar-strain-minimization,reduced-opening-closing-lung-tissue-ards,MECHANISM,0.78,MEDIUM,"Proposed: Higher PEEP increases alveolar strain, counteracting benefit of reduced opening/closing",ards-lung-physiology,curated,19910610,2010,1
+ards-condition,increased-mortality-ards,HARMFUL,0.78,MEDIUM,"60% mortality in ARDS vs 31% in non-ARDS, p<0.01",hypoxemic-ventilated-patients,curated,10501746,1999,1
+awake-prone-positioning,improved-oxygenation,MECHANISM,0.78,MEDIUM,Proposed: Prone position improves oxygenation in COVID-19 ARDS,COVID-19-acute-hypoxaemic-respiratory-failure,curated,34425070,2021,1
+benzodiazepine-withdrawal,acute-withdrawal-syndrome,MECHANISM,0.78,MEDIUM,Higher benzodiazepine exposure associated with withdrawal,adult-ICU-stay,curated,9559604,1998,1
+bispectral-index-monitoring,sedation-depth-assessment,MECHANISM,0.78,HIGH,"BIS and SAS correlate well (r2=0.21, p<0.001) to describe sedation depth",mechanically-ventilated-icu-patients,curated,10470756,1999,1
+bovine-surfactant-therapy-ards,improved-oxygenation-120h,BENEFICIAL,0.78,MEDIUM,"FiO2 decrease in 100 mg/kg group, p=0.011",ards,curated,9105072,1997,1
+cardiovascular-evaluation-lung-cancer,preop-risk-assessment-lung-cancer-resection,MECHANISM,0.78,HIGH,Recommended preop evaluation,lung-cancer|lung-cancer-resection,curated,17873167,2007,1
+chronic-alcohol-abuse,increased-ards-incidence,HARMFUL,0.78,HIGH,"OR 3.70 (1.83-7.71), p<0.001",septic-shock,curated,12626999,2003,1
+conservative-or-deresuscitative-fluid-strategy,increased-ventilator-free-days,BENEFICIAL,0.78,HIGH,Mean diff 1.82 days (0.53-3.10),ARDS|sepsis|SIRS,curated,27734109,2017,1
+cpet-vo2max-risk-prediction,preop-risk-assessment-lung-cancer-resection,MECHANISM,0.78,HIGH,Recommended preop evaluation,lung-cancer|lung-cancer-resection,curated,17873167,2007,1
+decreased-tidal-volumes-ards,improved-ards-outcomes,BENEFICIAL,0.78,MEDIUM,"Decreased Vt from 9.1 to 7.4 mL/kg in ARDS, p<0.001",ards,curated,17962636,2008,1
+decreased-use-simv,improved-ventilation-practices,BENEFICIAL,0.78,MEDIUM,"Decreased use of SIMV from 11% to 1.6%, p<0.001",,curated,17962636,2008,1
+dlco-assessment-lung-cancer,preop-risk-assessment-lung-cancer-resection,MECHANISM,0.78,HIGH,Recommended preop evaluation,lung-cancer|lung-cancer-resection,curated,17873167,2007,1
+elevated-interleukin-6-interleukin-8,decreased-ventilator-free-days,HARMFUL,0.78,MEDIUM,Associated with fewer ventilator-free days,acute-lung-injury,curated,15644641,2005,1
+elevated-interleukin-6-interleukin-8,decreased-organ-failure-free-days,HARMFUL,0.78,MEDIUM,Associated with fewer organ failure-free days,acute-lung-injury,curated,15644641,2005,1
+endothelial-barrier-dysfunction,ventilator-associated-lung-injury,MECHANISM,0.78,MEDIUM,Proposed: Mechanical stretch impairs endothelial barrier,mechanical-ventilation,curated,15695492,2005,1
+enteral-feeding-epa-gla-antioxidants,reduced-pulmonary-neutrophil-recruitment,BENEFICIAL,0.78,MEDIUM,Approx 2.5-fold decrease in total cells and neutrophils in BAL fluid,ards,curated,10470743,1999,1
+enteral-nutrition-optimization,improved-clinical-outcomes,MECHANISM,0.78,MEDIUM,Proposed: Increased enteral nutrition use improves outcomes,critical-illness,curated,15078758,2004,1
+epithelial-cell-apoptosis-intestine,organ-dysfunction-ards,MECHANISM,0.78,MEDIUM,Intestinal epithelial cell apoptosis leads to organ dysfunction in ARDS,ards,curated,12709468,2003,1
+epithelial-cell-apoptosis-kidney,organ-dysfunction-ards,MECHANISM,0.78,MEDIUM,Kidney epithelial cell apoptosis leads to organ dysfunction in ARDS,ards,curated,12709468,2003,1
+furosemide-with-albumin-therapy,improved-oxygenation,BENEFICIAL,0.78,MEDIUM,"Mean change in PaO2/FiO2 +43 vs -24 mmHg at 24h, p<0.05",hypoproteinemic-ARDS,curated,16096441,2005,1
+furosemide-with-albumin-therapy,increased-serum-protein,BENEFICIAL,0.78,MEDIUM,"Serum protein 1.5 vs 0.5 g/dL at day 3, p<0.05",hypoproteinemic-ARDS,curated,16096441,2005,1
+furosemide-with-albumin-therapy,improved-fluid-balance,BENEFICIAL,0.78,MEDIUM,"Net fluid loss -5480 vs -1490 mL at day 3, p<0.05",hypoproteinemic-ARDS,curated,16096441,2005,1
+global-lung-ultrasound-score,global-lung-aeration-assessment,BENEFICIAL,0.78,HIGH,"Strong correlation with average lung density (R=0.78, p<0.0001)",ARDS,curated,30048331,2018,1
+glutathione-repletion-nac-otz,acute-lung-injury-duration-reduction,MECHANISM,0.78,MEDIUM,Proposed: Glutathione repletion by NAC/OTZ shortens acute lung injury,ards,curated,9228372,1997,1
+gm-csf-therapy,improved-gas-exchange,BENEFICIAL,0.78,MEDIUM,"Improved Pa(O2)/FiO2 over 5 days, p=0.02",severe-sepsis-respiratory-dysfunction,curated,12119223,2002,1
+haematological-cancer,increased-severe-illness-ards-sepsis-renal-failure,HARMFUL,0.78,HIGH,"Haematological cancer patients more severely ill, higher rates of ARDS, sepsis, renal failure",cancer-patients|ICU-admission,curated,19200368,2009,1
+haematological-cancer,increased-hospital-mortality,HARMFUL,0.78,HIGH,Haematological cancer patients had 58% hospital mortality,cancer-patients|ICU-admission,curated,19200368,2009,1
+high-airway-pressure-barotrauma,barotrauma-incidence-ards,MECHANISM,0.78,MEDIUM,Proposed: High Pplat >35 cmH2O associated with increased barotrauma,ards,curated,11967593,2002,1
+high-frequency-oscillatory-ventilation-hfov,improved-oxygenation-24h,BENEFICIAL,0.78,MEDIUM,PaO2/FIO2 increased from 95 to 165 at 24h,ards,curated,12897997,2003,1
+high-mean-airway-pressure-with-hfo,increased-oxygenation-index,MECHANISM,0.78,MEDIUM,"22-33% higher mean airway pressure with HFO, P≤0.01",acute-lung-injury|ARDS,curated,20483951,2010,1
+high-peep-with-recruitment-olv,prevent-dependent-lung-atelectasis,MECHANISM,0.78,MEDIUM,Proposed: Recruitment maneuver and PEEP counteract gravity-induced compression atelectasis,open-abdominal-surgery|general-anesthesia,curated,24894577,2014,1
+higher-positive-end-expiratory-pressures,reduced-death-refractory-hypoxemia-ards,BENEFICIAL,0.78,MEDIUM,"4.2% vs 8.9%, RR 0.56 (0.34-0.93), P=0.03",acute-lung-injury|acute-respiratory-distress-syndrome,curated,18270352,2008,1
+hydrocortisone-treatment-sepsis-ards,improved-pulmonary-physiology,MECHANISM,0.78,HIGH,Significant improvement in PaO2/FiO2 and lung injury score,sepsis-associated-ards,curated,27741949,2016,1
+hyperinflammatory-ards-phenotype,multiorgan-failure-in-ards,MECHANISM,0.78,MEDIUM,Proposed: Hyperinflammatory ARDS phenotype associated with increased multiorgan failure,ards,curated,32861275,2020,1
+hyperinflammatory-ards-phenotype,mortality-risk-in-ards,MECHANISM,0.78,MEDIUM,Proposed: Hyperinflammatory ARDS phenotype associated with increased mortality,ards,curated,32861275,2020,1
+hyperoxia-mechanical-ventilation,increased-serious-adverse-events,HARMFUL,0.78,HIGH,"85% vs 76%, p=0.02",septic-shock,curated,28219612,2017,1
+hypoinflammatory-ards-phenotype,multiorgan-failure-in-ards,MECHANISM,0.78,MEDIUM,Proposed: Hypoinflammatory ARDS phenotype associated with reduced multiorgan failure,ards,curated,32861275,2020,1
+hypoinflammatory-ards-phenotype,mortality-risk-in-ards,MECHANISM,0.78,MEDIUM,Proposed: Hypoinflammatory ARDS phenotype associated with reduced mortality,ards,curated,32861275,2020,1
+increased-first-attempt-extubation-success,improved-weaning-outcomes,BENEFICIAL,0.78,MEDIUM,"Increased first-attempt extubation success from 62% to 77%, p<0.001",,curated,17962636,2008,1
+increased-use-noninvasive-ventilation,improved-ards-outcomes,BENEFICIAL,0.78,MEDIUM,"Increased use of NIV from 4.4% to 11.1%, p<0.001",ards,curated,17962636,2008,1
+increasing-hfnc-flow-rate,reduced-inspiratory-effort,MECHANISM,0.78,MEDIUM,Reduced ΔPes and PTPPes (p<0.001),acute-hypoxemic-respiratory-failure,curated,28762180,2017,1
+increasing-hfnc-flow-rate,improved-lung-aeration,MECHANISM,0.78,MEDIUM,"Increased EELV, Vt/ΔPes (p<0.01)",acute-hypoxemic-respiratory-failure,curated,28762180,2017,1
+increasing-hfnc-flow-rate,improved-oxygenation,MECHANISM,0.78,MEDIUM,Improved oxygenation (p<0.01),acute-hypoxemic-respiratory-failure,curated,28762180,2017,1
+individualised-alveolar-recruitment-peep-titration-ards,dependent-lung-atelectasis-prevention,MECHANISM,0.78,MEDIUM,Proposed: Crs-guided PEEP prevents gravity-compression atelectasis,ARDS,curated,9310799,1997,1
+individualised-peep-titration-best-compliance-olv,dependent-lung-atelectasis-prevention,MECHANISM,0.78,MEDIUM,Proposed mechanism: Crs-guided PEEP prevents gravity-compression atelectasis in OLV,,curated,19762075|11445688|12574072|38065200|16352797,2005|2003|2024|2009|2001,5
+individualized-peep-titration-best-compliance-olv,dependent-lung-atelectasis-prevention,MECHANISM,0.78,MEDIUM,Proposed: Crs-guided PEEP prevents gravity-compression atelectasis,one-lung-ventilation,curated,22491953,2012,1
+infection-icu-acquired,increased-risk-arf-development,MECHANISM,0.78,HIGH,OR 7.59 (95% CI 5.08-11.33),critical-illness,curated,12006450,2002,1
+inflammasome-activation,inflammasome-cytokine-production,MECHANISM,0.78,MEDIUM,Proposed: Inflammasome regulates maturation and secretion of proinflammatory cytokines,acute-lung-injury-pathogenesis,curated,22461369,2012,1
+inflammasome-cytokine-production,acute-lung-injury-pathogenesis,MECHANISM,0.78,MEDIUM,Proposed: Inflammasome-regulated cytokines are critical mediators of ARDS development,,curated,22461369,2012,1
+inflammatory-lung-injury-ards,surfactant-pool-depletion,MECHANISM,0.78,HIGH,Decreased lavageable PL pool in ARDS/PNEU groups,acute-respiratory-failure,curated,8542113,1996,1
+inflammatory-lung-injury-ards,surfactant-aggregate-dysfunction,MECHANISM,0.78,HIGH,Reduced LSA content in BALF in ARDS/PNEU groups,acute-respiratory-failure,curated,8542113,1996,1
+inflammatory-lung-injury-ards,alveolar-protein-leak,MECHANISM,0.78,HIGH,Manifold increase in alveolar protein load in ARDS/PNEU groups,acute-respiratory-failure,curated,8542113,1996,1
+inflammatory-lung-injury-ards,altered-surfactant-composition,MECHANISM,0.78,HIGH,"Decreased PC and PG, increased PI and SPH in ARDS/PNEU groups",acute-respiratory-failure,curated,8542113,1996,1
+inflammatory-lung-injury-ards,sp-a-deficiency,MECHANISM,0.78,HIGH,Decreased SP-A concentrations in BALF in ARDS/PNEU groups,acute-respiratory-failure,curated,8542113,1996,1
+inhaled-nitric-oxide,improved-oxygenation,BENEFICIAL,0.78,MEDIUM,"Increased PaO2/FiO2 ratio (13%, 4-23%), decreased oxygenation index (14%, 2-25%)",ALI|ARDS,curated,17383982,2007,1
+inhaled-nitric-oxide-inhno,improved-gas-exchange-ards,BENEFICIAL,0.78,MEDIUM,"Increased hypoxia score (+70.4 mmHg, p=0.02), decreased venous admixture",ards,curated,9603127,1998,1
+inhaled-sevoflurane,improved-oxygenation-ards,BENEFICIAL,0.78,MEDIUM,"Mean PaO2/FiO2 205 vs 166, p=0.04",ARDS,curated,27611637,2017,1
+injurious-effects-of-hypocapnia,organ-injury,MECHANISM,0.78,MEDIUM,Proposed: Low CO2 concentrations are injurious,critical-illness,curated,10520649,1999,1
+injurious-ventilation-strategy,epithelial-cell-apoptosis-kidney,MECHANISM,0.78,MEDIUM,Injurious ventilation increases kidney epithelial cell apoptosis,ards,curated,12709468,2003,1
+injurious-ventilation-strategy,epithelial-cell-apoptosis-intestine,MECHANISM,0.78,MEDIUM,Injurious ventilation increases intestinal epithelial cell apoptosis,ards,curated,12709468,2003,1
+intensive-insulin-therapy-prevention-critical-illness-polyneuropathy,reduced-incidence-critical-illness-polyneuropathy-myopathy,BENEFICIAL,0.78,MEDIUM,"50.5% vs 38.9%, p=0.02",critical-illness,curated,17138955,2007,1
+intrathoracic-pressure-change,ivc-diameter-respiratory-variation,MECHANISM,0.78,MEDIUM,Proposed: IVC changes reflect intrathoracic pressure variations,mechanical-ventilation,curated,15034650,2004,1
+lisofylline-early-treatment-ali-ards,no-mortality-difference-28d,NULL,0.78,HIGH,"31.9% vs 24.7%, p=0.215",acute-lung-injury|acute-respiratory-distress-syndrome,curated,11902249,2002,1
+lower-tidal-volume-ventilation,decreased-interleukin-6,BENEFICIAL,0.78,MEDIUM,26% reduction in IL-6 by day 3,acute-lung-injury,curated,15644641,2005,1
+lung-protective-ventilation-parameters,improved-lung-function-ards,MECHANISM,0.78,MEDIUM,Proposed: Minimizing alveolar overdistension and cyclic reopening,acute-respiratory-distress-syndrome,curated,8520744,1995,1
+manually-mechanically-assisted-coughing,reduced-hospitalization-rates,MECHANISM,0.78,MEDIUM,Proposed: Prevents/reverses respiratory distress episodes,neuromuscular-disease,curated,11083691,2000,1
+methylprednisolone-infusion,reduced-systemic-inflammation,MECHANISM,0.78,MEDIUM,Proposed: Down-regulates systemic inflammation,early-severe-ards,curated,17426195,2007,1
+n-3-fatty-acid-gamma-linolenic-acid-antioxidant-enteral-supplementation,increased-60-day-mortality,HARMFUL,0.78,MEDIUM,"Trend towards higher 60-day mortality: 26.6% vs 16.3%, p=0.054",acute-lung-injury,curated,21976613,2011,1
+nasal-positive-pressure-ventilation-npsv,improved-gas-exchange-hypercapnic-copd,MECHANISM,0.78,MEDIUM,Proposed: NPSV improves ventilation and gas exchange in stable hypercapnic COPD,hypercapnic-COPD,curated,7633704,1995,1
+nasal-positive-pressure-ventilation-npsv,improved-sleep-quality-hypercapnic-copd,MECHANISM,0.78,MEDIUM,Proposed: NPSV enhances sleep quality in stable hypercapnic COPD,hypercapnic-COPD,curated,7633704,1995,1
+neutrophil-elastase-inhibition,reduced-acute-lung-injury,MECHANISM,0.78,MEDIUM,"Proposed: Sivelestat inhibits neutrophil elastase, a key mediator of ALI",acute-lung-injury,curated,15286546,2004,1
+nf-kappa-b-activation,multi-cytokine-expression,MECHANISM,0.78,MEDIUM,Proposed: NF-kappa B activation drives simultaneous upregulation of multiple proinflammatory cytokines,acute-respiratory-distress-syndrome,curated,8706481,1996,1
+niv-failure,increased-icu-mortality-de-novo,HARMFUL,0.78,HIGH,OR 3.24 (95% CI 1.61-6.53),de-novo-acute-respiratory-failure,curated,17019559,2006,1
+non-invasive-ventilation-niv,improved-arterial-blood-gases,BENEFICIAL,0.78,MEDIUM,Improved in 15/22 prophylactic and 4/7 therapeutic studies,postoperative,curated,21424246,2011,1
+noninvasive-positive-pressure-ventilation-nppv,reduced-need-for-endotracheal-mechanical-ventilation,BENEFICIAL,0.78,MEDIUM,"RR 0.42, 50% vs 20.8% (p=0.035)",acute-respiratory-insufficiency-after-lung-resection,curated,11673215,2001,1
+noninvasive-positive-pressure-ventilation-nppv,reduced-in-hospital-mortality,BENEFICIAL,0.78,MEDIUM,37.5% vs 12.5% (p=0.045),acute-respiratory-insufficiency-after-lung-resection,curated,11673215,2001,1
+noninvasive-positive-pressure-ventilation-nppv,avoided-intubation-in-copd,BENEFICIAL,0.78,HIGH,48% of NPPV group avoided intubation,COPD|acute-respiratory-failure,curated,12447511,2002,1
+noninvasive-positive-pressure-ventilation-nppv,improved-gas-exchange,BENEFICIAL,0.78,MEDIUM,"Improved pH, PaCO2, PaO2/FiO2 within 12-24h",acute-respiratory-failure-in-asthma,curated,8797425,1996,1
+noninvasive-positive-pressure-ventilation-nppv,reduced-endotracheal-intubation,BENEFICIAL,0.78,MEDIUM,ARD -23% (-35% to -10%),acute-hypoxemic-respiratory-failure,curated,15599160,2004,1
+noninvasive-positive-pressure-ventilation-nppv,reduced-icu-mortality,BENEFICIAL,0.78,MEDIUM,ARD -17% (-26% to -8%),acute-hypoxemic-respiratory-failure,curated,15599160,2004,1
+noninvasive-pressure-support-ventilation,reduced-duration-mechanical-ventilation,BENEFICIAL,0.78,MEDIUM,"6.4 day reduction in MV duration, p=0.021",COPD-respiratory-failure,curated,9556465,1998,1
+noninvasive-pressure-support-ventilation,reduced-icu-length-of-stay,BENEFICIAL,0.78,MEDIUM,"8.9 day reduction in ICU LOS, p=0.005",COPD-respiratory-failure,curated,9556465,1998,1
+noninvasive-pressure-support-ventilation,improved-60d-survival,BENEFICIAL,0.78,MEDIUM,"20% absolute increase in 60-day survival, p=0.009",COPD-respiratory-failure,curated,9556465,1998,1
+noninvasive-pressure-support-ventilation,avoidance-of-intubation-complications,MECHANISM,0.78,MEDIUM,Proposed: Avoids intubation-related adverse events,COPD-respiratory-failure,curated,9556465,1998,1
+noninvasive-pressure-support-ventilation,alveolar-recruitment,MECHANISM,0.78,MEDIUM,"Proposed: Recruits atelectatic alveoli, improves mechanics and gas exchange",COPD-respiratory-failure,curated,9556465,1998,1
+noninvasive-pressure-support-ventilation-peep,reduced-inspiratory-muscle-effort,MECHANISM,0.78,MEDIUM,Proposed: Pressure support plus PEEP reduces respiratory muscle loading in ALI,acute-lung-injury,curated,16081548,2005,1
+noninvasive-ventilation-for-respiratory-distress,reduced-hospitalization-rates,MECHANISM,0.78,MEDIUM,Proposed: Prevents/reverses oxyhemoglobin desaturation episodes,neuromuscular-disease,curated,11083691,2000,1
+nppv-early-ards,avoided-intubation,BENEFICIAL,0.78,MEDIUM,"54% avoided intubation, p<0.001",ards,curated,17133177,2007,1
+omega-3-fatty-acids-supplementation,reduced-mortality-ards,BENEFICIAL,0.78,MEDIUM,"Mortality, infections and LOS significantly lower in ICU patients receiving FO IMD",ards|icu-setting,curated,18626628,2008,1
+opioid-withdrawal,acute-withdrawal-syndrome,MECHANISM,0.78,MEDIUM,Higher opioid exposure associated with withdrawal,adult-ICU-stay,curated,9559604,1998,1
+optimal-alveolar-recruitment-pressure,reduced-opening-closing-lung-tissue-ards,MECHANISM,0.78,MEDIUM,Proposed: Higher PEEP reduces intratidal alveolar opening/closing in ARDS patients with recruitability,ards-lung-physiology|lung-recruitability,curated,19910610,2010,1
+optimal-alveolar-recruitment-pressure,improved-oxygenation-and-ventilation-distribution,MECHANISM,0.78,MEDIUM,Proposed: Individualized PEEP titrated to best Crs recruits maximum alveoli,covid-19-ards,curated,32697482,2020,1
+optimal-alveolar-recruitment-pressure,improved-lung-mechanics-peep,MECHANISM,0.78,MEDIUM,Proposed: PEEP recruits maximally open alveoli,acute-lung-injury,curated,7633703,1995,1
+pao2-fio2-less-than-equal-to-200-mmhg,increased-intubation-risk-niv,HARMFUL,0.78,HIGH,"aOR 4.26 (1.62-11.16), p=0.003",noninvasive-ventilation,curated,29099420,2018,1
+postop-pulmonary-reserve-estimation,preop-risk-assessment-lung-cancer-resection,MECHANISM,0.78,HIGH,Recommended preop evaluation,lung-cancer|lung-cancer-resection,curated,17873167,2007,1
+pressure-limitation-hypercapnia,reduced-alveolar-overdistention,MECHANISM,0.78,MEDIUM,Proposed: Pressure/volume limitation minimizes overdistention,,curated,8084064,1994,1
+procollagen-iii-levels-elevated-in-ards-balf,increased-risk-of-death-in-ards,HARMFUL,0.78,HIGH,RR 2.4 (1.3-4.3) for BALF procollagen III ≥1.75 U/mL,adult-respiratory-distress-syndrome,curated,7985891,1995,1
+proinflammatory-signaling-cascades,ventilator-associated-lung-injury,MECHANISM,0.78,MEDIUM,Proposed: Mechanical stress activates proinflammatory signaling,mechanical-ventilation,curated,15695492,2005,1
+prone-positioning-covid-19-respiratory-failure,improved-oxygenation-covid-19-ards,BENEFICIAL,0.78,MEDIUM,78% of patients were Oxygen Responders,COVID-19-respiratory-failure|invasive-mechanical-ventilation,curated,33823862,2021,1
+prone-positioning-in-acute-respiratory-failure,improved-oxygenation,BENEFICIAL,0.78,HIGH,Greater increase in PaO2/FiO2 ratio in prone group,acute-respiratory-failure,curated,11529210,2001,1
+protective-effects-of-hypercapnia,reduced-organ-injury,MECHANISM,0.78,MEDIUM,Proposed: Raised CO2 concentrations are protective against organ injury,critical-illness,curated,10520649,1999,1
+protective-mechanical-ventilation,alveolar-collapse-cyclic-reopening-prevention,MECHANISM,0.78,MEDIUM,Proposed: Protective ventilation minimizes cyclic alveolar collapse and reopening,acute-respiratory-distress-syndrome,curated,9449727,1998,1
+protective-mechanical-ventilation,alveolar-overdistention-prevention,MECHANISM,0.78,MEDIUM,Proposed: Protective ventilation minimizes alveolar overdistention,acute-respiratory-distress-syndrome,curated,9449727,1998,1
+recruitment-maneuver-rm,improved-oxygenation-10min,BENEFICIAL,0.78,MEDIUM,"SpO2 increase 1.7% vs 0.6%, p<0.01",ards-patients|high-peep,curated,14605529,2003,1
+recruitment-maneuvers,reduced-refractory-hypoxemia-ards,BENEFICIAL,0.78,MEDIUM,"4.6% vs 10.2%, RR 0.54 (0.34-0.86), P=0.01",acute-lung-injury|acute-respiratory-distress-syndrome,curated,18270352,2008,1
+respiratory-system-compliance-in-covid-ards,hypoxemia-in-covid-ards,MECHANISM,0.78,MEDIUM,Proposed: Compliance reduction is related to degree of hypoxemia,COVID-19-ARDS,curated,32859264,2020,1
+sedative-withdrawal,acute-withdrawal-syndrome,MECHANISM,0.78,MEDIUM,Sedative exposure associated with withdrawal,adult-ICU-stay,curated,9559604,1998,1
+sp02-to-pao2-ratio-correlation,ali-diagnosis-threshold,MECHANISM,0.78,MEDIUM,S/F ratio of 315 corresponds to P/F ratio of 300 (ALI),,curated,17573487,2007,1
+spirometry-fev1-lung-cancer,preop-risk-assessment-lung-cancer-resection,MECHANISM,0.78,HIGH,Recommended preop evaluation,lung-cancer|lung-cancer-resection,curated,17873167,2007,1
+spontaneous-breathing-during-aprv,improved-cardiopulmonary-function,MECHANISM,0.78,MEDIUM,Proposed: Spontaneous breathing during APRV recruits atelectatic lung units,acute-lung-injury,curated,11435237,2001,1
+spontaneous-breathing-during-aprv,reduced-sedation-requirements,MECHANISM,0.78,MEDIUM,Proposed: Spontaneous breathing during APRV reduces need for sedation,acute-lung-injury,curated,11435237,2001,1
+syndrome-based-critical-illness-framework,biological-changes-underpin-critical-illness,MECHANISM,0.78,MEDIUM,"Proposed: Deemphasize syndromes, focus on underlying biology",critical-illness,curated,35715504,2022,1
+tak-242-intervention,increased-methemoglobin,HARMFUL,0.78,HIGH,"Transient, dose-related methemoglobin increases in 30.1% of patients",severe-sepsis|shock-or-respiratory-failure,curated,20562702,2010,1
+tidal-volume-greater-than-9-ml-per-kg-ibw,increased-intubation-risk-niv,HARMFUL,0.78,HIGH,"aOR 3.14 (1.22-8.06), p=0.02",noninvasive-ventilation,curated,29099420,2018,1
+tidal-volume-greater-than-9-ml-per-kg-ibw,increased-90d-mortality,HARMFUL,0.78,HIGH,Independently associated with 90-day mortality,noninvasive-ventilation,curated,29099420,2018,1
+trauma-associated-acute-lung-injury,less-severe-lung-epithelial-injury,MECHANISM,0.78,MEDIUM,"Lower levels of ICAM-1, vWF, SP-D, sTNFR-1 vs other ALI",acute-lung-injury,curated,17944012,2007,1
+trauma-associated-acute-lung-injury,less-severe-lung-endothelial-injury,MECHANISM,0.78,MEDIUM,"Lower levels of ICAM-1, vWF, SP-D, sTNFR-1 vs other ALI",acute-lung-injury,curated,17944012,2007,1
+upper-inflection-point-identification,lung-overdistension-detection,MECHANISM,0.78,MEDIUM,"P-V curve UIP identifies overdistension risk, enables titration",one-lung-ventilation,curated,7599810,1995,1
+variable-alveolar-recruitment-peep,lung-compliance-optimization,MECHANISM,0.78,MEDIUM,Proposed: PEEP titrated to best compliance recruits maximum alveoli,ards,curated,8111581,1994,1
+venous-return-change,ivc-diameter-respiratory-variation,MECHANISM,0.78,MEDIUM,Proposed: IVC changes reflect venous return variations,mechanical-ventilation,curated,15034650,2004,1
+ventilatory-ratio,increased-mortality-risk-ards,HARMFUL,0.78,MEDIUM,"OR 1.51 (p=0.024), OR 1.59 (p=0.04) for in-hospital mortality",acute-respiratory-distress-syndrome,curated,30211618,2019,1
+hfnc-initial-management,reduced-intubation-rate,BENEFICIAL,0.77,MEDIUM,"HR 0.77 (0.59-1.00), p=0.05",acute-hypoxemic-respiratory-failure|immunocompromised-population,curated,28948369,2017,1
+lung-injury-score,ards-diagnosis-accuracy,MECHANISM,0.77,MEDIUM,"Sensitivity 0.74, Specificity 0.77",critical-care,curated,16215375,2005,1
+neuromuscular-blockade,sustained-improvement-pao2fio2-ratio,BENEFICIAL,0.77,HIGH,"Sustained improvement in P/F ratio, p<0.001",acute-respiratory-distress-syndrome,curated,16932229,2006,1
+dexamethasone-covid19-ards-treatment,improved-sofa-score-7d,BENEFICIAL,0.76,MEDIUM,"Mean SOFA 6.1 vs 7.5, diff -1.16 (95% CI -1.94 to -0.38), p=0.004",COVID19-ARDS,curated,32876695,2020,1
+pulse-pressure-variation-deltapp,fluid-responsiveness-prediction,BENEFICIAL,0.76,HIGH,DeltaPP better predicted fluid responsiveness than PAOP and RAP,tidal-volume-gt8mL-kg,curated,15754196,2005,1
+resolving-muscle-weakness,worse-5y-survival,HARMFUL,0.76,MEDIUM,HR 3.14 (1.40-7.03) vs no weakness,ARDS-survivor,curated,28067712,2017,1
+30-minute-spontaneous-breathing-trial,successful-extubation-48h,NULL,0.75,HIGH,"75.9% vs 73.0%, p=0.43",mechanical-ventilation-weaning,curated,9927366,1999,1
+alveolar-consolidation-detection,acute-respiratory-failure-diagnosis,MECHANISM,0.75,MEDIUM,Alveolar consolidation indicates pneumonia,acute-respiratory-failure,curated,18403664,2008,1
+alveolar-derecruitment-peep-decrement,alveolar-opening-pressure-heterogeneity,MECHANISM,0.75,MEDIUM,PEEP decrements induce derecruitment over wide pressure range,acute-lung-injury,curated,11549535,2001,1
+aprv-ventilation,lower-airway-pressures,BENEFICIAL,0.75,MEDIUM,Pawmax 30% lower and decreased further within 24h with APRV,,curated,8004312,1994,1
+conservative-fluid-management,improved-lung-function,BENEFICIAL,0.75,HIGH,Improved oxygenation index and lung injury score,acute-lung-injury,curated,16714767,2006,1
+conservative-fluid-management,reduced-mechanical-ventilation-duration,BENEFICIAL,0.75,HIGH,Increased ventilator-free days (14.6 vs 12.1),acute-lung-injury,curated,16714767,2006,1
+conservative-fluid-management,reduced-icu-stay-duration,BENEFICIAL,0.75,HIGH,Increased days not spent in ICU (13.4 vs 11.2),acute-lung-injury,curated,16714767,2006,1
+conservative-fluid-management,no-change-in-nonpulmonary-organ-failures,BENEFICIAL,0.75,HIGH,No increase in shock or dialysis,acute-lung-injury,curated,16714767,2006,1
+criteria-defined-clinical-algorithm-ards-treatment,improved-survival-ards,BENEFICIAL,0.75,HIGH,"Survival 75% overall, 89% vs 55% in algorithm vs ECMO groups",ARDS,curated,9310799,1997,1
+cuff-leak-test,identify-high-risk-extubation,BENEFICIAL,0.75,MEDIUM,Conditional recommendation for cuff leak test,mechanical-ventilation-liberation,curated,27762595,2017,1
+diaphragm-ultrasonography,detect-diaphragmatic-dysfunction,BENEFICIAL,0.75,HIGH,"Feasible, reproducible, accurate tool to detect diaphragmatic dysfunction in ICU patients",critical-illness,curated,27620292,2017,1
+elevated-pulmonary-artery-pressure,increased-right-ventricular-afterload,MECHANISM,0.75,HIGH,ALI can elevate PA pressure and RV afterload,acute-lung-injury,curated,20558628,2010,1
+exogenous-surfactant-protein-c-based,improved-oxygenation-24h,BENEFICIAL,0.75,MEDIUM,Greater oxygenation improvement in surfactant group during initial 24h,acute-respiratory-distress-syndrome,curated,15329426,2004,1
+extracellular-matrix-turnover-ards,92-kda-gelatinase-elevation-ards,MECHANISM,0.75,MEDIUM,Proposed: Increased 92 G'ase reflects ECM turnover in acute lung injury,ards,curated,8756805,1996,1
+fluid-overload,increased-mortality-surgery,HARMFUL,0.75,MEDIUM,RR 6.17 (4.81-7.97),surgery,curated,33009098,2020,1
+full-face-mask-nimv,improved-arterial-blood-gases,BENEFICIAL,0.75,MEDIUM,PaCO2 significantly lower vs nasal mask,chronic-hypercapnic-respiratory-failure,curated,10890620,2000,1
+global-muscle-weakness-assessment,icuap-diagnosis,BENEFICIAL,0.75,MEDIUM,MRC score <4 indicates ICUAP,critical-illness,curated,18511703,2008,1
+gm-csf-therapy,preserved-alveolar-neutrophil-function,MECHANISM,0.75,MEDIUM,"Decreased alveolar neutrophils, p=0.02",severe-sepsis-respiratory-dysfunction,curated,12119223,2002,1
+handgrip-dynamometry,icuap-diagnosis,BENEFICIAL,0.75,MEDIUM,Good diagnostic performance for ICUAP,critical-illness,curated,18511703,2008,1
+helmet-noninvasive-ventilation,reduced-endotracheal-intubation-28d,BENEFICIAL,0.75,MEDIUM,Significantly lower intubation rate in helmet group (30% vs 50%),COVID-19|hypoxemic-respiratory-failure,curated,33764378,2021,1
+high-flow-nasal-oxygen-physiological-support,pre-intubation-ards-recognition,MECHANISM,0.75,MEDIUM,Proposed: HFNO can support patients with ARDS-like physiology prior to intubation,high-flow-nasal-oxygen-therapy|acute-respiratory-distress-syndrome,curated,33915103,2021,1
+inspiratory-muscle-strength-improvement,reduced-ventilator-dependence,MECHANISM,0.75,MEDIUM,Proposed: IMST mitigates MV-induced inspiratory muscle weakness,failure-to-wean-ventilation,curated,21385346,2011,1
+intravenous-nac-treatment,reduced-ventilatory-support,BENEFICIAL,0.75,MEDIUM,17% vs 48% at day 3 (p=0.01),acute-lung-injury,curated,8275731,1994,1
+intravenous-nac-treatment,reduced-fio2-requirements,BENEFICIAL,0.75,MEDIUM,0.37 vs 0.20 decrease (p<0.04),acute-lung-injury,curated,8275731,1994,1
+intravenous-nac-treatment,lung-injury-score-improvement,BENEFICIAL,0.75,MEDIUM,Significant regression in NAC group (p=0.003),acute-lung-injury,curated,8275731,1994,1
+low-dose-corticosteroids,reduced-mortality-ards-nonresponders,BENEFICIAL,0.75,HIGH,"HR 0.57 (0.36-0.89), RR 0.71 (0.54-0.94)",septic-shock-ards,curated,16374152,2006,1
+lower-tidal-volume-ventilation,reduced-plasma-il6-levels,MECHANISM,0.75,MEDIUM,"Plasma IL-6 decreased more strongly, P=0.01",mechanical-ventilation|without-acute-lung-injury,curated,20055989,2010,1
+lung-expansion-interventions,reduced-postoperative-pulmonary-complications,BENEFICIAL,0.75,HIGH,"Good evidence from 2 SRs, 5 RCTs",noncardiothoracic-surgery,curated,16618957,2006,1
+lung-sliding-assessment,acute-respiratory-failure-diagnosis,MECHANISM,0.75,MEDIUM,Presence/absence of lung sliding differentiates conditions,acute-respiratory-failure,curated,18403664,2008,1
+lung-ultrasound-artifacts,acute-respiratory-failure-diagnosis,MECHANISM,0.75,MEDIUM,A lines or B lines indicate different respiratory conditions,acute-respiratory-failure,curated,18403664,2008,1
+matrix-metalloproteinase-balance-ards,lung-remodeling-ards,MECHANISM,0.75,MEDIUM,Proposed: Balance of 92 G'ase and TIMP regulates lung remodeling in ARDS,ards,curated,8756805,1996,1
+nasal-high-flow-oxygen-therapy-nhf,improved-oxygenation-pao2fio2set,BENEFICIAL,0.75,MEDIUM,"Higher PaO2/FiO2SET ratio at 24h (287 vs 247, p=0.03)",postextubation,curated,25003980,2014,1
+nava-ventilation-mode,prevention-of-over-assistance,MECHANISM,0.75,MEDIUM,Proposed: NAVA averted risk of over-assistance compared to PSV,acute-respiratory-failure,curated,18629471,2008,1
+noninvasive-positive-pressure-ventilation-nppv,reduced-hospital-length-of-stay,BENEFICIAL,0.75,MEDIUM,"11.7 vs 14.6 days, p<0.05",hypercapnic-acute-respiratory-failure,curated,9872200,1998,1
+noninvasive-positive-pressure-ventilation-nppv,reduced-respiratory-rate,BENEFICIAL,0.75,MEDIUM,Decreased from 29 to 17 breaths/min,acute-respiratory-failure-in-asthma,curated,8797425,1996,1
+noninvasive-positive-pressure-ventilation-nppv,reduced-icu-length-of-stay,BENEFICIAL,0.75,MEDIUM,ARD -2 days (-3 to -1 days),acute-hypoxemic-respiratory-failure,curated,15599160,2004,1
+noninvasive-pressure-support-ventilation,accelerated-improvement-pao2fio2-paco2-dyspnea-rr,BENEFICIAL,0.75,MEDIUM,Noninvasive pressure support ventilation improved physiological variables significantly faster,acute-respiratory-failure|cardiogenic-pulmonary-edema,curated,12958051,2003,1
+noninvasive-ventilation-niv-postextubation,reduced-daily-ventilatory-support-duration,BENEFICIAL,0.75,MEDIUM,NIV reduced mean daily ventilatory support duration,acute-on-chronic-respiratory-failure,curated,10390384,1999,1
+noninvasive-ventilation-niv-postextubation,increased-total-weaning-duration,HARMFUL,0.75,MEDIUM,"NIV increased total duration of ventilatory support related to weaning (3.46 vs 11.54 days, p<0.0001)",acute-on-chronic-respiratory-failure,curated,10390384,1999,1
+partial-liquid-ventilation-plv,alveolar-recruitment-liquid-ventilation,MECHANISM,0.75,MEDIUM,Proposed: PLV with perflubron recruits and maintains alveolar patency,ARDS,curated,11897644,2002,1
+peep-titration-to-lower-inflection-point,overdistension-prevention,MECHANISM,0.75,MEDIUM,PEEP set to lower inflection point aims to prevent overdistension,one-lung-ventilation,curated,7599810,1995,1
+pleural-effusion-detection,acute-respiratory-failure-diagnosis,MECHANISM,0.75,MEDIUM,Pleural effusion indicates pulmonary embolism,acute-respiratory-failure,curated,18403664,2008,1
+proinflammatory-cytokine-upregulation,net-inflammatory-activity,MECHANISM,0.75,MEDIUM,Proposed: Bioactive IL-1beta and TNF-alpha drive net proinflammatory state,status-asthmaticus,curated,9927362,1999,1
+prophylactic-ncpap-10cmh2o-6h-postcardiac-surgery,reduced-pulmonary-complications-hypoxemia-pneumonia-reintubation,BENEFICIAL,0.75,MEDIUM,"12/232 (12%) vs 25/236 (25%), p=0.03",cardiac-surgery,curated,19017864,2009,1
+protocolized-rehabilitation-early-mobilization,improved-ventilator-liberation,BENEFICIAL,0.75,MEDIUM,Conditional recommendation for protocolized rehabilitation,mechanical-ventilation-liberation,curated,27762595,2017,1
+rosuvastatin-ards,no-benefit-mortality-60d,NULL,0.75,HIGH,"RR 1.14 (0.92-1.42), p=0.21",sepsis-associated-ARDS,curated,24835849,2014,1
+septic-shock-hypovolemia,svc-collapse-ventricular-underfilling,MECHANISM,0.75,MEDIUM,"Proposed: Septic shock causes hypovolemia, leading to SVC collapse during respiratory variation",septic-shock|mechanical-ventilation,curated,15375649,2004,1
+trauma-associated-acute-lung-injury,reduced-mortality-90d,BENEFICIAL,0.75,MEDIUM,"OR 0.44 (0.24-0.82), p=0.01",acute-lung-injury,curated,17944012,2007,1
+ventilator-liberation-protocol,improved-ventilator-liberation,BENEFICIAL,0.75,MEDIUM,Conditional recommendation for ventilator liberation protocol,mechanical-ventilation-liberation,curated,27762595,2017,1
+adjunctive-corticosteroid-therapy,reduced-need-for-mechanical-ventilation,BENEFICIAL,0.74,MEDIUM,"RR 0.45 (0.26-0.79), ARD -5.0%",community-acquired-pneumonia,curated,26258555,2015,1
+infection-on-icu-admission,increased-risk-arf-development,MECHANISM,0.74,HIGH,OR 2.30 (95% CI 1.68-3.16),critical-illness,curated,12006450,2002,1
+persistent-muscle-weakness,worse-5y-survival,HARMFUL,0.74,MEDIUM,HR 3.01 (1.12-8.04) vs no weakness,ARDS-survivor,curated,28067712,2017,1
+resp-score-prediction-ecmo-survival,improved-ecmo-survival-prediction,BENEFICIAL,0.74,HIGH,AUC 0.74 (95% CI 0.72-0.76),severe-acute-respiratory-failure|ECMO-treatment,curated,24693864,2014,1
+120-minute-spontaneous-breathing-trial,successful-extubation-48h,NULL,0.73,HIGH,"75.9% vs 73.0%, p=0.43",mechanical-ventilation-weaning,curated,9927366,1999,1
+corticosteroids-prevention-ards,increased-mortality-in-ards,TREND,0.73,MEDIUM,"OR 1.52 (0.30-5.94), P(OR>=1)=72.8%",critical-illness,curated,18434379,2008,1
+extravascular-lung-water-measurement,increased-evlw-ards-sepsis,ASSOCIATION,0.73,MEDIUM,11/15 (73%) ARDS sepsis had high EVLW,ards|severe-sepsis,curated,15774053,2005,1
+intensive-pt-program,no-difference-physical-function-1-3-6mo,NULL,0.73,HIGH,"No difference in CS-PFP-10 scores at 1, 3, 6 months",acute-respiratory-failure,curated,26651376,2016,1
+neuromuscular-blockade,reduced-inflammatory-cytokine-production,MECHANISM,0.73,MEDIUM,Proposed: NMBAs decrease proinflammatory cytokine levels in ARDS,acute-respiratory-distress-syndrome,curated,16932229,2006,1
+48-hr-neuromuscular-blocking-agents-nmba,peep-reduction-ards,BENEFICIAL,0.72,MEDIUM,Decrease in PEEP (p=0.036) only in NMBA group,acute-respiratory-distress-syndrome,curated,14707568,2004,1
+circulatory-shock-on-icu-admission,increased-risk-arf-mortality,MECHANISM,0.72,HIGH,Independent risk factor,critical-illness,curated,12006450,2002,1
+cooling-febrile-critically-ill,reduced-cardiac-output,BENEFICIAL,0.72,MEDIUM,"Cardiac output decreased from 8.4 ± 3.2 to 6.5 ± 1.8 L/min, p<0.01",febrile-critically-ill,curated,7812538,1995,1
+early-feeding-initiation,improved-clinical-outcomes,MECHANISM,0.72,MEDIUM,Proposed: Earlier feeding initiation improves outcomes,critical-illness,curated,15078758,2004,1
+ecmo-treatment,improved-survival-discharge,BENEFICIAL,0.72,MEDIUM,"OR 0.46 (0.22-0.97), p=0.036",respiratory-failure,curated,9315812,1997,1
+enteral-feeding-epa-gla-antioxidants,improved-oxygenation-reduced-ventilation,BENEFICIAL,0.72,MEDIUM,Significant improvements in PaO2/FiO2 and lower ventilation variables,ards,curated,10470743,1999,1
+hydrocortisone-treatment-sepsis-ards,increased-hyperglycemia,HARMFUL,0.72,MEDIUM,"80.6% vs 67.7%, p=0.04",sepsis-associated-ards,curated,27741949,2016,1
+infection,increased-risk-arf-mortality,MECHANISM,0.72,HIGH,Independent risk factor,critical-illness,curated,12006450,2002,1
+inhaled-nitric-oxide,increased-renal-dysfunction,HARMFUL,0.72,HIGH,RR 1.50 (1.11-2.02),ALI|ARDS,curated,17383982,2007,1
+inhaled-sevoflurane,reduced-inflammation-ards,BENEFICIAL,0.72,MEDIUM,Reduced cytokines and sRAGE vs midazolam,ARDS,curated,27611637,2017,1
+intensive-insulin-therapy-prevention-mechanical-ventilation-dependence,reduced-prolonged-mechanical-ventilation,BENEFICIAL,0.72,MEDIUM,"46.7% vs 34.6%, p=0.01",critical-illness,curated,17138955,2007,1
+morbid-obesity-bmi,increased-ventilator-free-days-ards,BENEFICIAL,0.72,MEDIUM,"MD 2.64 days (0.60-4.67), p=0.01",ARDS,curated,28222804,2017,1
+multiple-organ-failure-icu,increased-risk-arf-mortality,MECHANISM,0.72,HIGH,Independent risk factor,critical-illness,curated,12006450,2002,1
+nitric-oxide-inhalation,reduced-pulmonary-artery-pressure,BENEFICIAL,0.72,MEDIUM,"Decreased from 25.9 to 21.5 mmHg, p=0.001",COPD,curated,8618485,1996,1
+nonfocal-ards-pattern,increased-mortality,HARMFUL,0.72,MEDIUM,"Nonfocal ARDS associated with higher 28-day (31% vs 12%, p=0.038) and 90-day (46% vs 21%, p=0.026) mortality",ards,curated,27018314,2016,1
+noninvasive-positive-pressure-ventilation,shorter-ventilation-duration-icu-los,BENEFICIAL,0.72,MEDIUM,"Shorter in noninvasive group, p=0.006 and p=0.002",acute-respiratory-failure,curated,9700176,1998,1
+noninvasive-ventilation-niv,improved-pao2-fio2-ratio,BENEFICIAL,0.72,MEDIUM,"60% vs 25%, P=0.03",solid-organ-transplantation|acute-respiratory-failure,curated,10634340,2000,1
+noninvasive-ventilation-niv,reduced-fatal-complications,BENEFICIAL,0.72,MEDIUM,"20% vs 50%, P=0.05",solid-organ-transplantation|acute-respiratory-failure,curated,10634340,2000,1
+noninvasive-ventilation-niv,reduced-icu-length-of-stay,BENEFICIAL,0.72,MEDIUM,"5.5 vs 9 days, P=0.03",solid-organ-transplantation|acute-respiratory-failure,curated,10634340,2000,1
+nppv-after-extubation,no-reduction-reintubation-rate,NULL,0.72,HIGH,RR 1.04 (0.78-1.38),respiratory-distress-after-extubation,curated,12076220,2002,1
+pressure-and-volume-limited-ventilation,reduced-mortality-ards,NULL,0.72,HIGH,"RR 1.07 (0.72-1.57), p=0.72",at-high-risk-for-ARDS,curated,9449728,1998,1
+pressure-limited-ventilation,reduced-mortality-ards,BENEFICIAL,0.72,MEDIUM,35 ± 20% vs 54 ± 22% on volume-cycled or unspecified,,curated,8814466,1996,1
+prone-positioning-ards,no-mortality-benefit-ards,NULL,0.72,HIGH,"RR 0.97 (0.84-1.13), p=0.72",ARDS,curated,19903918,2009,1
+prone-positioning-ards,increased-complications,HARMFUL,0.72,HIGH,Significantly higher complication rates in prone group,ARDS,curated,19903918,2009,1
+reduced-oxygen-consumption,hypoxia-prevention,MECHANISM,0.72,MEDIUM,"Proposed: Reduces oxygen demand, may facilitate resuscitation and prevent hypoxic injury",febrile-critically-ill|limited-oxygen-delivery,curated,7812538,1995,1
+respiratory-system-compliance-optimisation,improved-lung-mechanics-peep,MECHANISM,0.72,MEDIUM,Proposed: PEEP titrated to best Crs recruits optimally,acute-lung-injury,curated,7633703,1995,1
+covid-19-critical-illness,ards,ASSOCIATION,0.71,HIGH,71.2% of COVID-19 ICU patients developed ARDS,critically-ill-COVID-19,curated,32410714,2020,1
+covid-19-critical-illness,lymphocytopenia,ASSOCIATION,0.71,HIGH,70.8% of COVID-19 ICU patients developed lymphocytopenia,critically-ill-COVID-19,curated,32410714,2020,1
+aerosolized-prostacyclin,reduced-shunt-flow,BENEFICIAL,0.7,MEDIUM,Decreased shunt flow from 33.5 to 26.0%,ards,curated,8630585,1996,1
+alveolar-collapse-cyclic-reopening,alveolar-injury-perpetuation,MECHANISM,0.7,MEDIUM,"Proposed: Conventional ventilation causes cyclic alveolar collapse and reopening, perpetuating injury",acute-respiratory-distress-syndrome,curated,9449727,1998,1
+alveolar-overdistention,alveolar-injury-perpetuation,MECHANISM,0.7,MEDIUM,"Proposed: Conventional ventilation causes alveolar overdistention, perpetuating injury",acute-respiratory-distress-syndrome,curated,9449727,1998,1
+alveolar-overdistention-minimization,reduced-pulmonary-and-systemic-cytokine-response,MECHANISM,0.7,MEDIUM,Proposed: Limiting alveolar overdistention reduces ventilation-induced cytokine response,ards,curated,10404912,1999,1
+alveolar-recruitment-liquid-ventilation,gravity-induced-alveolar-compression-prevention,MECHANISM,0.7,MEDIUM,Proposed: Prevents gravity-induced atelectasis,ARDS,curated,11897644,2002,1
+alveolar-recruitment-pressure-optimization,ventilator-induced-lung-injury-prevention,MECHANISM,0.7,MEDIUM,Proposed: Higher PEEP may recruit more alveoli and reduce VILI,ARDS,curated,15269312,2004,1
+ards-mortality-rates-us,increased-1979-1993,TREND,0.7,HIGH,ARDS mortality rates increased from 1979 to 1993,ards-mortality-US-1979-1996,curated,12163776,2002,1
+ards-mortality-rates-us,decreased-1993-1996,TREND,0.7,HIGH,ARDS mortality rates decreased from 1993 to 1996,ards-mortality-US-1979-1996,curated,12163776,2002,1
+arginine-supplementation,null-effect-mortality-icu-trauma-burn,NULL,0.7,MEDIUM,IMDs with arginine +/- glutamine or FO do not offer advantage over standard enteral formulas,icu|trauma|burn,curated,18626628,2008,1
+assisted-coughing-to-clear-airway-mucus,atelectasis-prevention,MECHANISM,0.7,MEDIUM,"Proposed: Assisted coughing clears mucus, preventing atelectasis",respiratory-failure-SMA1,curated,10767247,2000,1
+atelectasis,physiotherapy-target,BENEFICIAL,0.7,MEDIUM,Physiotherapy targets atelectasis in critically ill adults,critical-illness,curated,18283429,2008,1
+awake-prone-positioning-hfno,no-reduction-intubation-risk,NULL,0.7,MEDIUM,"RR 0.87 (0.53-1.43), p=0.60",COVID-19-acute-respiratory-failure|HFNO-treatment,curated,33023669,2020,1
+blunted-epo-response-critical-illness,epo-deficiency-critical-illness-anemia,MECHANISM,0.7,MEDIUM,Proposed: Inappropriately low EPO levels contribute to anemia in critical illness,critical-illness,curated,9069000,1997,1
+community-acquired-pneumonia,acute-chest-syndrome,MECHANISM,0.7,MEDIUM,Proposed: Community-acquired pneumonia is an underdiagnosed precipitant,sickle-cell-disease,curated,10861320,2000,1
+concave-v-p-curve-recruitment,enhanced-peep-benefit,MECHANISM,0.7,MEDIUM,"Proposed: Concave V-P curve indicates alveolar recruitment, enhancing PEEP benefit",ards,curated,8111581,1994,1
+congestive-heart-failure,high-risk-postextubation-respiratory-failure,MECHANISM,0.7,MEDIUM,Proposed risk factor for postextubation respiratory failure,,curated,16276167,2005,1
+conservative-or-deresuscitative-fluid-strategy,reduced-icu-length-of-stay,BENEFICIAL,0.7,MEDIUM,Mean diff -1.88 days (-0.12 to -3.64),ARDS|sepsis|SIRS,curated,27734109,2017,1
+covid-19-endothelial-dysfunction,covid-19-induced-procoagulant-state,MECHANISM,0.7,MEDIUM,Proposed: COVID-19 causes endothelial injury leading to hypercoagulability,COVID-19,curated,32367170,2020,1
+covid-19-infection,decreased-cardiovascular-complications,BENEFICIAL,0.7,MEDIUM,"Less frequent myocardial infarction, atrial fibrillation",COVID-19,curated,33341155,2021,1
+cpap-plus-oxygen-therapy,increased-adverse-events,HARMFUL,0.7,HIGH,"18 vs 6 events, p=0.01",acute-hypoxemic-nonhypercapnic-respiratory-insufficiency,curated,11066186,2000,1
+critical-illness-insults,delirium-pathophysiology,MECHANISM,0.7,MEDIUM,Proposed: Numerous interconnected insults contribute to delirium,critical-illness,curated,29508705,2018,1
+cumulative-positive-fluid-balance,increased-mortality-sepsis,HARMFUL,0.7,MEDIUM,RR 1.66 (1.39-1.98),sepsis,curated,33009098,2020,1
+daily-screening-of-patients,spontaneous-breathing-trials-consideration,BENEFICIAL,0.7,MEDIUM,"Patients passing screening more often had SBTs considered, p<0.001",respiratory-failure|weaning,curated,9927355,1999,1
+days-breathing-without-assistance,1-year-mortality,ASSOCIATION,0.7,4,Outcome,,curated,18191684,2008,1
+deconditioning,physiotherapy-target,BENEFICIAL,0.7,MEDIUM,Physiotherapy targets deconditioning in critically ill adults,critical-illness,curated,18283429,2008,1
+decreasing-hospital-acquired-ards,reduced-ards-incidence,MECHANISM,0.7,MEDIUM,"Hospital-acquired ARDS decreased, p<0.001",suburban-community,curated,20693377,2011,1
+delirium-pathophysiology,long-term-cognitive-impairment,MECHANISM,0.7,MEDIUM,Proposed: Delirium insults may individually contribute to long-term cognitive dysfunction,critical-illness,curated,29508705,2018,1
+dependent-lung-atelectasis-suctioning,reduced-alveolar-derecruitment-suctioning,MECHANISM,0.7,MEDIUM,Proposed: Ventilator disconnection causes obligatory derecruitment,acute-lung-injury,curated,12615633,2003,1
+depression-anxiety-post-ards,normal-emotional-function-post-ards,BENEFICIAL,0.7,MEDIUM,Patients did not have significant depression or anxiety symptoms,post-ARDS,curated,12493646,2003,1
+diaphragm-ultrasonography,predict-weaning-extubation-success,BENEFICIAL,0.7,MEDIUM,Can predict weaning and extubation success/failure based on diaphragm excursion and thickening,mechanical-ventilation|weaning,curated,27620292,2017,1
+early-activity-mobilization-respiratory-icu,increased-ambulation,BENEFICIAL,0.7,MEDIUM,"3-fold increase in ambulation, p<.0001",respiratory-failure|prolonged-mechanical-ventilation,curated,18379236,2008,1
+early-pac-use,no-effect-on-mortality-ards-shock,NULL,0.7,HIGH,"RR 0.97 (0.86-1.10), p=0.67",ARDS|shock,curated,14645314,2003,1
+ecco2r-co2-removal,ultra-protective-ventilation-parameters,MECHANISM,0.7,MEDIUM,"Proposed: ECCO2R enables ultra-low Vt, Pplat",moderate-ards,curated,30790030,2019,1
+education-program-vap-prevention,reduced-vap-rate,BENEFICIAL,0.7,MEDIUM,"57.6% decrease in VAP rate, p<0.001",intensive-care-unit,curated,12441746,2002,1
+expiratory-muscle-recruitment,weaning-failure-prevention,MECHANISM,0.7,MEDIUM,Greater recruitment of expiratory muscles in weaning failure patients,weaning-from-mechanical-ventilation,curated,12411288,2003,1
+extracorporeal-membrane-oxygenation-ecmo,reduced-in-hospital-mortality-h1n1-ards,BENEFICIAL,0.7,MEDIUM,Pooled in-hospital mortality 28% (95% CI 18-37%),acute-lung-injury-H1N1-influenza,curated,23406535,2013,1
+extrapulmonary-organ-dysfunction-ecmo-initiation,increased-mortality-ecmo,HARMFUL,0.7,MEDIUM,"Predictors of mortality: hospital LOS before ECMO, bilirubin, creatinine, hematocrit, MAP",ARDS-ECMO,curated,23160769,2013,1
+extrinsic-peep-titration-optimal,inefficient-inspiratory-efforts-reduction,MECHANISM,0.7,MEDIUM,Applying PEEP=0.75*PEEPi reduced inefficient inspiratory efforts (p<0.05),copd-acute-respiratory-failure,curated,8636518,1995,1
+fat-embolism,acute-chest-syndrome,MECHANISM,0.7,MEDIUM,Proposed: Fat embolism is an underdiagnosed precipitant,sickle-cell-disease,curated,10861320,2000,1
+gm-csf-therapy,preserved-systemic-neutrophil-function,MECHANISM,0.7,MEDIUM,"Increased peripheral blood neutrophils, p=0.08",severe-sepsis-respiratory-dysfunction,curated,12119223,2002,1
+gravity-induced-alveolar-compression,cephalocaudal-gradient-aeration,MECHANISM,0.7,MEDIUM,Observational: Gravity causes ventral-dorsal atelectasis gradient,acute-lung-injury,curated,9817720,1998,1
+hfnc-oxygen-therapy,improved-respiratory-parameters,BENEFICIAL,0.7,MEDIUM,"Significant improvements in RR, SpO2, PaO2, PaCO2",acute-respiratory-failure,curated,21958974,2012,1
+hypercapnia,high-risk-postextubation-respiratory-failure,MECHANISM,0.7,MEDIUM,Proposed risk factor for postextubation respiratory failure,,curated,16276167,2005,1
+hypercapnic-acidosis,ventilator-associated-lung-injury,MECHANISM,0.7,MEDIUM,Proposed: Protective against VALI in 12 mL/kg group,12mL-kg-tidal-volume,curated,16374149,2006,1
+hyperoxia-mechanical-ventilation,increased-28d-mortality-septic-shock,HARMFUL,0.7,MEDIUM,"HR 1.27 (0.94-1.72), p=0.12",septic-shock,curated,28219612,2017,1
+icu-admission,longer-survival,BENEFICIAL,0.7,MEDIUM,15.9 days in ICU group vs 12.5 days in non-ICU group (p=0.044),COVID-19-pneumonia,curated,32255382,2020,1
+immune-modulating-diets-imds,reduced-nosocomial-infections,BENEFICIAL,0.7,MEDIUM,"OR 0.63, 95% CI 0.47-0.86, P=0.004",critically-ill-patients,curated,18626628,2008,1
+impaired-airway-clearance,physiotherapy-target,BENEFICIAL,0.7,MEDIUM,Physiotherapy targets impaired airway clearance in critically ill adults,critical-illness,curated,18283429,2008,1
+inappropriate-neutrophil-adhesion-migration,ards-lung-injury,MECHANISM,0.7,MEDIUM,"Proposed: Proinflammatory cytokine-primed neutrophils cause inappropriate adhesion and transendothelial migration, contributing to ARDS lung injury",ards,curated,8810592,1996,1
+increased-peep-ards,improved-ards-outcomes,BENEFICIAL,0.7,MEDIUM,"Increased PEEP from 7.7 to 8.7 cmH2O in ARDS, p=0.02",ards,curated,17962636,2008,1
+ineffective-cough-excessive-secretions,high-risk-postextubation-respiratory-failure,MECHANISM,0.7,MEDIUM,Proposed risk factor for postextubation respiratory failure,,curated,16276167,2005,1
+infection,acute-chest-syndrome,MECHANISM,0.7,MEDIUM,Proposed: Infection is an underdiagnosed precipitant,sickle-cell-disease,curated,10861320,2000,1
+inflammatory-cytokine-signaling,ards-severity,MECHANISM,0.7,MEDIUM,Proposed: Inflammatory cytokines (IL-1beta) associated with worse ARDS,ards,curated,8810593,1996,1
+inhaled-nitric-oxide,reduced-shunt-flow,BENEFICIAL,0.7,MEDIUM,Decreased shunt flow from 33.1 to 26.6%,ards,curated,8630585,1996,1
+inhaled-nitric-oxide,improved-oxygenation-ards,BENEFICIAL,0.7,MEDIUM,Increased PaO2/FiO2 >=10 mmHg in 83% of patients,severe-ards,curated,7705124,1995,1
+inhaled-nitric-oxide,reduced-ventilation-perfusion-mismatch-ards,MECHANISM,0.7,MEDIUM,Reduced venous admixture (QVA/QT) >=10% in 87% of patients,severe-ards,curated,7705124,1995,1
+inhaled-nitric-oxide-ino,no-change-in-sustained-fio2-decrease-72h,NULL,0.7,MEDIUM,No difference in likelihood of FiO2 decrease >=0.15 at 72h,acute-respiratory-distress-syndrome,curated,9603111,1998,1
+intubation-avoidance,physiotherapy-target,BENEFICIAL,0.7,MEDIUM,Physiotherapy targets intubation avoidance in critically ill adults,critical-illness,curated,18283429,2008,1
+low-evlw,improved-ards-survival,BENEFICIAL,0.7,MEDIUM,4/15 ARDS with low EVLW had 100% 28-day survival vs 36% with high EVLW,ards,curated,15774053,2005,1
+low-respiratory-system-compliance-crs,increased-mortality-ards,BENEFICIAL,0.7,MEDIUM,"HR 0.985 (0.972-0.998), P=0.029",low-tidal-volume-ventilation,curated,27894328,2016,1
+low-vt-extracorporeal-co2-removal-ards,reduced-vili-ards,MECHANISM,0.7,MEDIUM,Proposed: Very low Vt + ECCO2R reduces VILI vs conventional LPV,severe-ARDS,curated,23306584,2013,1
+lung-compliance-optimization,ventilator-induced-lung-injury-prevention,MECHANISM,0.7,MEDIUM,Proposed: Higher PEEP may improve respiratory system compliance,ARDS,curated,15269312,2004,1
+lung-inflammation-ards,persistent-inflammation-ards,MECHANISM,0.7,MEDIUM,Proposed: Persistent inflammatory cytokine signaling in ARDS lungs,ards,curated,8810593,1996,1
+lung-protective-ventilation-strategy,reduced-pulmonary-and-systemic-cytokine-response,BENEFICIAL,0.7,MEDIUM,P<0.05 for pulmonary and systemic cytokines,ards,curated,10404912,1999,1
+mechanical-ventilation-outcomes,copd-exacerbation-mortality,BENEFICIAL,0.7,MEDIUM,22% mortality in COPD exacerbation patients,copd-exacerbation,curated,11790214,2002,1
+nippv-for-sars-arf,avoided-intubation-sars-arf,BENEFICIAL,0.7,HIGH,"70% avoided intubation, p<0.001",sars,curated,15364765,2004,1
+nippv-for-sars-arf,shorter-icu-stay-sars-arf,BENEFICIAL,0.7,HIGH,"3.1 vs 21.3 days, p<0.001",sars,curated,15364765,2004,1
+nippv-for-sars-arf,lower-cxr-score-sars-arf,BENEFICIAL,0.7,HIGH,"15.1 vs 22.5, p=0.005",sars,curated,15364765,2004,1
+niv-success,reduced-nosocomial-pneumonia,BENEFICIAL,0.7,MEDIUM,Less common in patients successful with NIV,,curated,17019559,2006,1
+no-preload-reserve,no-change-cardiac-index-with-prone,NULL,0.7,HIGH,No change in cardiac index in patients without preload reserve,acute-respiratory-distress-syndrome,curated,24102072,2013,1
+noninvasive-positive-pressure-ventilation-nppv,reduced-intubation-and-mechanical-ventilation,BENEFICIAL,0.7,MEDIUM,1 patient required intubation in NPPV group vs 6 in standard therapy,hypercapnic-acute-respiratory-failure,curated,9872200,1998,1
+noninvasive-positive-pressure-ventilation-nppv,reduced-rehospitalization-1y-copd,BENEFICIAL,0.7,HIGH,65% vs 100% rehospitalization rate at 1 year,COPD|acute-respiratory-failure,curated,12447511,2002,1
+noninvasive-positive-pressure-ventilation-nppv,reduced-new-oxygen-requirement-1y-copd,BENEFICIAL,0.7,HIGH,0% vs 36% new oxygen requirement at 1 year,COPD|acute-respiratory-failure,curated,12447511,2002,1
+noninvasive-ventilation-with-peep,gas-exchange-support,MECHANISM,0.7,MEDIUM,Proposed: NIPPV with PEEP supports gas exchange after extubation,respiratory-failure-SMA1,curated,10767247,2000,1
+old-age-70y,prolonged-mechanical-ventilation,HARMFUL,0.7,MEDIUM,"Median 19 days vs 10 days, p<0.001",critical-care|acute-lung-injury-ARDS,curated,11777361,2002,1
+optimal-alveolar-recruitment-pressure,reduced-barotrauma-ards,MECHANISM,0.7,MEDIUM,Proposed: Maintaining Pplat <35 cmH2O may prevent barotrauma,ards,curated,11967593,2002,1
+optoelectronic-plethysmography,spirometry-pneumotachography-correlation,MECHANISM,0.7,HIGH,Discrepancy <5% compared to standard methods,intensive-care|ALI-ARDS,curated,10806152,2000,1
+permissive-hypercapnia,reduced-mortality-ards,MECHANISM,0.7,MEDIUM,Proposed: Allowing hypercapnia reduces ventilator-induced lung injury,,curated,9847275,1998,1
+pharmacologic-interventions-ineffective-ards,no-benefit-ards-treatments,HARMFUL,0.7,MEDIUM,"Pharmacologic therapies (β2 agonists, statins, KGF) did not benefit ARDS and showed possible harm",ards,curated,29466596,2018,1
+physical-function-limitation-post-ards,decreased-quality-of-life-physical-function,ASSOCIATION,0.7,MEDIUM,Observed physical limitations correlated with decreased QoL domains,post-ARDS,curated,12493646,2003,1
+plateau-pressures-not-exceeding-40-cm-h2o,reduced-barotrauma-ards,BENEFICIAL,0.7,MEDIUM,"11.2% vs 9.1%, P=0.33",acute-lung-injury|acute-respiratory-distress-syndrome,curated,18270352,2008,1
+postoperative-lung-injury,increased-in-hospital-mortality,HARMFUL,0.7,HIGH,"Patients with postoperative lung injury had higher in-hospital mortality (20.3% vs 1.4%, p<0.0001)",postoperative-period,curated,25466352,2014,1
+preload-reserve,increased-cardiac-index-with-prone,BENEFICIAL,0.7,HIGH,Increased cardiac index in patients with preload reserve,acute-respiratory-distress-syndrome,curated,24102072,2013,1
+pressure-support-ventilation-spontaneous-breathing-trial,successful-extubation-48h,NULL,0.7,MEDIUM,"63% vs 70%, p=0.14",respiratory-failure|weaning-from-mechanical-ventilation,curated,9279224,1997,1
+prolonged-low-to-moderate-dose-corticosteroids,improved-ventilation-free-days,BENEFICIAL,0.7,MEDIUM,Improved ventilation-free days,acute-lung-injury|acute-respiratory-distress-syndrome,curated,19325471,2009,1
+prolonged-low-to-moderate-dose-corticosteroids,reduced-icu-stay,BENEFICIAL,0.7,MEDIUM,Reduced ICU stay,acute-lung-injury|acute-respiratory-distress-syndrome,curated,19325471,2009,1
+prolonged-low-to-moderate-dose-corticosteroids,improved-mods-score,BENEFICIAL,0.7,MEDIUM,Improved MODS score,acute-lung-injury|acute-respiratory-distress-syndrome,curated,19325471,2009,1
+prolonged-low-to-moderate-dose-corticosteroids,improved-lung-injury-score,BENEFICIAL,0.7,MEDIUM,Improved Lung Injury Scores,acute-lung-injury|acute-respiratory-distress-syndrome,curated,19325471,2009,1
+prolonged-low-to-moderate-dose-corticosteroids,improved-pao2-fio2-ratio,BENEFICIAL,0.7,MEDIUM,Improved PaO2/FiO2 ratio,acute-lung-injury|acute-respiratory-distress-syndrome,curated,19325471,2009,1
+prolonged-mechanical-ventilation,icuaw,MECHANISM,0.7,MEDIUM,Proposed: Prolonged mechanical ventilation is associated with ICUAW,critical-illness,curated,25496103,2014,1
+prolonged-mechanical-ventilation,high-1-year-mortality,ASSOCIATION,0.7,MEDIUM,59% (95% CI 56-62%) 1-year mortality,critically-ill-patients,curated,26003390,2015,1
+prone-positioning,increased-ratio-pao2-fio2,BENEFICIAL,0.7,HIGH,Increased ratio of arterial oxygen partial pressure over inspired oxygen fraction,acute-respiratory-distress-syndrome,curated,24102072,2013,1
+prone-positioning,increased-intra-abdominal-pressure,BENEFICIAL,0.7,HIGH,Increased intra-abdominal pressure,acute-respiratory-distress-syndrome,curated,24102072,2013,1
+prone-positioning,increased-cardiac-preload,MECHANISM,0.7,HIGH,Increased right and left cardiac preload,acute-respiratory-distress-syndrome,curated,24102072,2013,1
+prone-positioning,decreased-pulmonary-vascular-resistance,MECHANISM,0.7,HIGH,Decreased pulmonary vascular resistance,acute-respiratory-distress-syndrome,curated,24102072,2013,1
+prone-positioning,decreased-right-ventricular-afterload,MECHANISM,0.7,HIGH,Decreased ratio of right/left ventricular end-diastolic areas,acute-respiratory-distress-syndrome,curated,24102072,2013,1
+prone-positioning-ards,improved-28d-survival-ards,BENEFICIAL,0.7,MEDIUM,"RR 1.48 (1.07-2.05), p=0.01",acute-respiratory-distress-syndrome,curated,14668608,2003,1
+recombinant-factor-viia-rfviia,ards-incidence-reduction,BENEFICIAL,0.7,MEDIUM,RD -0.05 reduced risk,body-trauma,curated,21502651,2011,1
+recruitment-derecruitment-minimization,reduced-pulmonary-and-systemic-cytokine-response,MECHANISM,0.7,MEDIUM,Proposed: Limiting recruitment/derecruitment reduces ventilation-induced cytokine response,ards,curated,10404912,1999,1
+recruitment-maneuvers-ards,redistribution-of-ventilation-perfusion,MECHANISM,0.7,MEDIUM,RM caused regional alveolar overdistension and VQ mismatch,ARDS,curated,11790648,2002,1
+reduced-ventilator-induced-lung-injury,improved-survival,BENEFICIAL,0.7,MEDIUM,Uncontrolled trials show improved survival,,curated,8084064,1994,1
+reintubation-requirement,higher-mortality-risk,HARMFUL,0.7,MEDIUM,"Need for reintubation associated with higher mortality, p<0.01",high-risk-postextubation-respiratory-failure,curated,16276167,2005,1
+respiratory-rate-greater-than-equal-to-30-breaths-per-min,increased-intubation-risk-standard-oxygen,TREND,0.7,MEDIUM,"OR 2.76 (1.13-6.75), p=0.03",standard-oxygen-therapy,curated,29099420,2018,1
+respiratory-therapist-driven-protocol,increased-weaning-rate,BENEFICIAL,0.7,MEDIUM,"Weaning rate increased over implementation, p<0.001",respiratory-failure|weaning,curated,9927355,1999,1
+resuscitation-guided-by-fluid-responsiveness-assessment,reduced-renal-replacement-therapy,BENEFICIAL,0.7,MEDIUM,"5.1% vs 17.5%, p=0.04",septic-shock,curated,32353418,2020,1
+resuscitation-guided-by-fluid-responsiveness-assessment,reduced-mechanical-ventilation,BENEFICIAL,0.7,MEDIUM,"17.7% vs 34.1%, p=0.04",septic-shock,curated,32353418,2020,1
+rib-cage-muscle-recruitment,weaning-failure-prevention,MECHANISM,0.7,MEDIUM,Greater recruitment of rib cage muscles in weaning failure patients,weaning-from-mechanical-ventilation,curated,12411288,2003,1
+rosuvastatin-ards,fewer-organ-failure-free-days,HARMFUL,0.7,MEDIUM,Fewer renal and hepatic failure-free days,sepsis-associated-ARDS,curated,24835849,2014,1
+sepsis-induced-weakness,icuaw,MECHANISM,0.7,MEDIUM,Proposed: Severe sepsis is associated with ICUAW,critical-illness,curated,25496103,2014,1
+serial-blood-lactate-measurements,mortality-prediction,BENEFICIAL,0.7,HIGH,Consistent association of decreasing lactate with lower mortality,acute-illness,curated,27520452,2016,1
+severe-hypercapnia-ards,increased-icu-mortality,HARMFUL,0.7,MEDIUM,"OR 1.93 (1.32-2.81), p=0.001",ARDS,curated,28108768,2017,1
+supplemental-oxygen-masking,hypoventilation-detection-impairment,MECHANISM,0.7,HIGH,Proposed: Supplemental oxygen masks ability to detect hypoventilation by pulse oximetry,perioperative,curated,15539726,2004,1
+t-tube-spontaneous-breathing-trial,successful-extubation-48h,NULL,0.7,MEDIUM,"63% vs 70%, p=0.14",respiratory-failure|weaning-from-mechanical-ventilation,curated,9279224,1997,1
+tak-242-intervention,reduced-mortality-shock-rf,TREND,0.7,MEDIUM,Subset with shock+RF: 33% placebo vs 19% high-dose (p=0.10),severe-sepsis|shock-and-respiratory-failure,curated,20562702,2010,1
+time-cycled-inspiratory-pressure-support-ventilation-nipsvtc,improved-patient-ventilator-synchronization,BENEFICIAL,0.7,MEDIUM,"Reduced PTPes, delta Pes, delta RR(p-v) vs flow-cycled",acute-lung-injury|mask-air-leaks,curated,10470568,1999,1
+transpulmonary-pressure-monitoring,alveolar-recruitment-optimization,MECHANISM,0.7,MEDIUM,Proposed: Esophageal pressure enables finding optimal PEEP to prevent collapse/overdistension,acute-lung-injury|ARDS,curated,19001507,2008,1
+trophic-enteral-nutrition-initial-6d,reduced-gi-intolerance,BENEFICIAL,0.7,HIGH,"Fewer elevated gastric residuals (2% vs 8%, p<0.001)",acute-respiratory-failure|mechanical-ventilation,curated,21242788,2011,1
+ultra-protective-ventilation-parameters,feasible-ards-management,BENEFICIAL,0.7,MEDIUM,78-82% achieved protective targets,moderate-ards,curated,30790030,2019,1
+unilateral-lung-injury,reduced-mortality-vs-ards,BENEFICIAL,0.7,MEDIUM,"40.5% mortality in unilateral lung injury group, lower than ARDS",hypoxemic-ventilated-patients,curated,10501746,1999,1
+upper-airway-obstruction,high-risk-postextubation-respiratory-failure,MECHANISM,0.7,MEDIUM,Proposed risk factor for postextubation respiratory failure,,curated,16276167,2005,1
+ventilator-liberation-difficulty,icuaw,MECHANISM,0.7,MEDIUM,Proposed: Difficult ventilator liberation is associated with ICUAW,critical-illness,curated,25496103,2014,1
+ventilator-power-optimization,reduced-mortality-ards,MECHANISM,0.7,MEDIUM,"Proposed: Reducing ventilator power (ΔP, RR) mitigates VILI",ards,curated,33784486,2021,1
+weaning-failure,physiotherapy-target,BENEFICIAL,0.7,MEDIUM,Physiotherapy targets weaning failure in critically ill adults,critical-illness,curated,18283429,2008,1
+weaning-failure,high-risk-postextubation-respiratory-failure,MECHANISM,0.7,MEDIUM,Proposed risk factor for postextubation respiratory failure,,curated,16276167,2005,1
+critical-illness-covid-19,ards,ASSOCIATION,0.69,HIGH,68.6% ARDS incidence,COVID-19|critical-illness,curated,32631393,2020,1
+severe-ards-duration-over-72h,diffuse-alveolar-damage-at-autopsy,ASSOCIATION,0.69,HIGH,69% of severe ARDS >72h had DAD at autopsy,intensive-care-unit,curated,23370917,2013,1
+acute-lung-injury,increased-hospital-mortality,HARMFUL,0.68,MEDIUM,Adjusted OR 1.63 (95% CI 1.03-2.57),subarachnoid-hemorrhage,curated,16374174,2006,1
+ards,acute-withdrawal-syndrome,ASSOCIATION,0.68,MEDIUM,Withdrawal associated with ARDS presence,adult-ICU-stay,curated,9559604,1998,1
+dependent-lung-filling-perflubron,improved-gas-exchange,MECHANISM,0.68,MEDIUM,"Proposed: Perflubron fills dependent lung, improves oxygenation",ards,curated,8569018,1996,1
+elevated-plasma-srage,impaired-alveolar-fluid-clearance,MECHANISM,0.68,MEDIUM,Proposed: sRAGE associated with nonfocal ARDS phenotype suggests role of RAGE pathway in alveolar fluid clearance,ards,curated,27018314,2016,1
+epidural-anaesthesia-and-analgesia,reduced-postoperative-pain,BENEFICIAL,0.68,MEDIUM,Lower pain scores in first 3 postop days,major-abdominal-surgery,curated,11965272,2002,1
+hematologic-malignancy-history,increased-risk-arf-mortality,MECHANISM,0.68,HIGH,Independent risk factor,critical-illness,curated,12006450,2002,1
+high-frequency-oscillatory-ventilation-hfov,oxygenation-index-response,TREND,0.68,MEDIUM,"OI response higher in HFOV, but did not predict survival",ards,curated,16137357,2005,1
+low-tidal-volume-ventilation,reduced-ventilator-induced-lung-injury,MECHANISM,0.68,MEDIUM,Proposed: Low tidal volumes reduce regional overdistension,,curated,7924367,1994,1
+lower-tidal-volume-ventilation,decreased-interleukin-8,BENEFICIAL,0.68,MEDIUM,12% reduction in IL-8 by day 3,acute-lung-injury,curated,15644641,2005,1
+neurologic-failure-on-icu-admission,increased-risk-arf-development,MECHANISM,0.68,HIGH,OR 2.73 (95% CI 1.90-3.91),critical-illness,curated,12006450,2002,1
+nitric-oxide-inhalation,worsening-ventilation-perfusion-distributions,HARMFUL,0.68,MEDIUM,"logSD Q increased from 1.11 to 1.22, p=0.018",COPD,curated,8618485,1996,1
+nmba-withdrawal,acute-withdrawal-syndrome,MECHANISM,0.68,MEDIUM,NMBA use associated with withdrawal,adult-ICU-stay,curated,9559604,1998,1
+peak-inspiratory-pressure-limitation,reduced-ventilator-induced-lung-injury,MECHANISM,0.68,MEDIUM,Proposed: Limitation of peak pressure reduces regional overdistension,,curated,7924367,1994,1
+permissive-hypercapnia,reduced-ventilator-induced-lung-injury,MECHANISM,0.68,MEDIUM,Proposed: Permissive hypercapnia without bicarbonate further reduces injury,,curated,7924367,1994,1
+propofol-withdrawal,acute-withdrawal-syndrome,MECHANISM,0.68,MEDIUM,Propofol use associated with withdrawal,adult-ICU-stay,curated,9559604,1998,1
+recombinant-human-soluble-thrombomodulin,reduced-28d-mortality-sepsis-coagulopathy,NULL,0.68,HIGH,"ARD 2.55% (-3.68% to 8.77%), p=0.32",sepsis-coagulopathy,curated,31104069,2019,1
+reduced-inflammatory-cytokine-production,decreased-ards-lung-injury,MECHANISM,0.68,MEDIUM,Proposed: Lower cytokines mitigate ARDS-related lung injury,acute-respiratory-distress-syndrome,curated,16932229,2006,1
+corticosteroid-use-7d-before-icu,increased-invasive-pulmonary-aspergillosis,HARMFUL,0.67,MEDIUM,"OR 14.4 (2.0-101.6), p=0.007",critical-illness-H1N1,curated,22895826,2012,1
+high-flow-oxygen-therapy-severe-covid-19,improved-clinical-recovery,BENEFICIAL,0.67,MEDIUM,"Median time 11 vs 14 days, HR 1.39 (1.00-1.92), p=0.047",severe-COVID-19,curated,34874419,2021,1
+neuromuscular-dysfunction-icu-stay,delayed-dysphagia-recovery-ards-survivors,MECHANISM,0.67,MEDIUM,"Proposed: Longer ICU stay exacerbates neuromuscular dysfunction, delaying dysphagia recovery",ARDS|oral-intubation,curated,27983872,2017,1
+noninvasive-positive-pressure-ventilation,improved-pao2-fio2-ratio-1h,BENEFICIAL,0.67,MEDIUM,"62% vs 47%, p=0.21",acute-respiratory-failure,curated,9700176,1998,1
+noninvasive-positive-pressure-ventilation,reduced-pneumonia-sinusitis-related-to-intubation,BENEFICIAL,0.67,MEDIUM,"3% vs 31%, p=0.003",acute-respiratory-failure,curated,9700176,1998,1
+pharyngeal-injury-intubation,dysphagia-symptoms-ards-survivors,MECHANISM,0.67,MEDIUM,Proposed: Intubation causes pharyngeal/laryngeal injury leading to dysphagia,ARDS|oral-intubation,curated,27983872,2017,1
+acute-respiratory-failure,high-incidence-elderly,MECHANISM,0.65,MEDIUM,Incidence increased exponentially until age 85y,acute-respiratory-failure,curated,11035684,2000,1
+aerosolized-synthetic-surfactant,improved-physiology-ards,MECHANISM,0.65,MEDIUM,Proposed: Surfactant replacement improves physiology in ARDS,sepsis-induced-ards,curated,8618579,1996,1
+airway-resistance-reduction-tracheostomy,work-of-breathing-decrease,MECHANISM,0.65,MEDIUM,Proposed: Tracheostomy reduces resistive workload of artificial airway,ventilator-dependent-patients,curated,9927347,1999,1
+alcoholism,increased-evlw-ards,ASSOCIATION,0.65,MEDIUM,ARDS+alcoholism EVLW 19.9 ml/kg vs 8.7 ml/kg in non-alcoholic,ards,curated,15774053,2005,1
+alveolar-recruitment-niv-preoxygenation,dependent-lung-atelectasis-prevention,MECHANISM,0.65,MEDIUM,"Proposed: NIV recruits alveoli, improves oxygenation pre-intubation",hypoxaemic-respiratory-failure|intubation,curated,27730283,2016,1
+antiinflammatory-mediator-upregulation,net-inflammatory-activity,MECHANISM,0.65,MEDIUM,"Proposed: Increased IL-1Ra, IL-10, latent TGF-beta1 could not overcome proinflammatory drive",status-asthmaticus,curated,9927362,1999,1
+aprv-ventilation,improved-oxygenation-parameters,BENEFICIAL,0.65,MEDIUM,Significant improvement in AaDO2/FIO2 and venous admixture vs VC-IRV,,curated,8004312,1994,1
+ards-respiratory-illness-severity,elevated-ards-mortality,MECHANISM,0.65,MEDIUM,Proposed: ARDS severity associated with worse prognosis,ards,curated,9769263,1998,1
+ards-right-ventricle-dysfunction,elevated-ards-mortality,MECHANISM,0.65,MEDIUM,Proposed: Right ventricle dysfunction associated with worse prognosis,ards,curated,9769263,1998,1
+ards-triggering-risk-factor,elevated-ards-mortality,MECHANISM,0.65,MEDIUM,Proposed: Triggering risk factor associated with worse prognosis,ards,curated,9769263,1998,1
+chronic-alcohol-abuse,increased-nonpulmonary-organ-dysfunction-severity,HARMFUL,0.65,MEDIUM,"Higher SOFA score, p=0.01",septic-shock,curated,12626999,2003,1
+congestive-heart-failure-diagnosis,improved-survival-nppv,BENEFICIAL,0.65,MEDIUM,"CHF patients had better survival than COPD, cancer, pneumonia",respiratory-failure|do-not-intubate-order,curated,15483407,2004,1
+continuous-positive-airway-pressure,improved-oxygenation,BENEFICIAL,0.65,MEDIUM,CPAP improves oxygenation in ALI,acute-lung-injury,curated,16081548,2005,1
+continuous-positive-airway-pressure,no-respiratory-muscle-unloading,HARMFUL,0.65,MEDIUM,CPAP fails to reduce respiratory muscle effort in ALI,acute-lung-injury,curated,16081548,2005,1
+copd-intrinsic-peep,inefficient-inspiratory-efforts,MECHANISM,0.65,MEDIUM,COPD causes intrinsic PEEP that impairs ventilatory efficiency,copd-acute-respiratory-failure,curated,8636518,1995,1
+covid-19-associated-pulmonary-thrombosis,covid-19-associated-ards,MECHANISM,0.65,MEDIUM,Proposed: Pulmonary capillary thrombosis contributes to ARDS,severe-COVID-19-pneumonia,curated,33692022,2021,1
+covid-19-induced-alveolar-damage,covid-19-associated-ards,MECHANISM,0.65,MEDIUM,Proposed: Diffuse alveolar damage leads to ARDS,severe-COVID-19-pneumonia,curated,33692022,2021,1
+cumulative-corticosteroid-dose-icu,muscle-weakness-after-critical-illness,NULL,0.65,MEDIUM,Not associated with weakness,acute-lung-injury,curated,24247473,2014,1
+cytokine-primed-neutrophil-activation,inappropriate-neutrophil-adhesion-migration,MECHANISM,0.65,MEDIUM,Proposed: Cytokine priming leads to neutrophil activation and dysregulated adhesion/migration,ards,curated,8810592,1996,1
+decreased-bmi,increased-hospital-mortality,HARMFUL,0.65,MEDIUM,Lower BMI associated with higher mortality in mechanically ventilated ALI,mechanically-ventilated-ALI,curated,16521268,2006,1
+decreasing-ards-incidence-over-time,reduced-ards-incidence,BENEFICIAL,0.65,HIGH,"Decreased from 82.4 to 38.9 per 100,000 person-years, p<0.001",suburban-community,curated,20693377,2011,1
+delirium-duration,global-cognitive-impairment,MECHANISM,0.65,HIGH,Longer delirium duration associated with worse global cognition at 3 and 12 months (p=0.001 and p=0.04),critical-illness,curated,24088092,2013,1
+delirium-duration,executive-function-impairment,MECHANISM,0.65,HIGH,Longer delirium duration associated with worse executive function at 3 and 12 months (p=0.004 and p=0.007),critical-illness,curated,24088092,2013,1
+dependent-lung-atelectasis-olv,postoperative-pulmonary-complications,MECHANISM,0.65,HIGH,Proposed: OLV causes dependent lung atelectasis,one-lung-ventilation,curated,32479829,2020,1
+dexamethasone-treatment-severe-covid-19,reduced-mortality-severe-covid-19,BENEFICIAL,0.65,MEDIUM,Proposed: Dexamethasone improves mortality in severe COVID-19,severe-COVID-19-pneumonia,curated,33692022,2021,1
+diaphragm-ultrasonography,monitor-respiratory-workload,BENEFICIAL,0.65,MEDIUM,Diaphragm thickening is accurate index of respiratory muscle workload during assisted ventilation,assisted-mechanical-ventilation,curated,27620292,2017,1
+diaphragmatic-weakness,weaning-failure,MECHANISM,0.65,MEDIUM,Many weaning failure patients displayed diaphragmatic weakness,weaning-from-mechanical-ventilation,curated,12411288,2003,1
+early-pt-intervention,neuromuscular-weakness-prevention,MECHANISM,0.65,MEDIUM,Proposed: Early PT may prevent/attenuate neuromuscular weakness,acute-respiratory-failure,curated,26651376,2016,1
+extracorporeal-lung-assist,mortality-unchanged-ards,NULL,0.65,MEDIUM,"55 ± 22%, similar to conventional treatment",,curated,8814466,1996,1
+extracorporeal-membrane-oxygenation-ecmo,ecmo-duration,ASSOCIATION,0.65,MEDIUM,ECMO duration 15.1 days (95% CI 13.4-18.7),COVID-19-ARDS,curated,34127027,2021,1
+fiberoptic-bronchoscopy-bal,respiratory-status-deterioration,HARMFUL,0.65,MEDIUM,22/45 (48.9%) patients had respiratory deterioration after FO-BAL,cancer-patients|acute-respiratory-failure,curated,18090351,2008,1
+fluid-overload,increased-mortality-aki,HARMFUL,0.65,MEDIUM,RR 2.38 (1.75-2.98),acute-kidney-injury,curated,33009098,2020,1
+gravity-induced-alveolar-compression,postoperative-pulmonary-complications,MECHANISM,0.65,HIGH,Proposed: Gravity causes compression atelectasis in dependent lung,one-lung-ventilation,curated,32479829,2020,1
+gravity-induced-alveolar-compression,dependent-lung-atelectasis-ali,MECHANISM,0.65,MEDIUM,Proposed: Gravity compresses dependent alveoli in ALI,acute-lung-injury,curated,7633703,1995,1
+gravity-induced-alveolar-compression-prevention,progressive-lung-injury-prevention,MECHANISM,0.65,MEDIUM,Proposed: Prevents progressive lung injury,ARDS,curated,11897644,2002,1
+handgrip-dynamometry,icuap-mortality-association,MECHANISM,0.65,MEDIUM,OR 4.5 (1.5-13.6) for hospital mortality,critical-illness,curated,18511703,2008,1
+hfnc-for-cards-avoidance-intubation,reduced-intubation-for-cards,BENEFICIAL,0.65,MEDIUM,Proposed: HFNC allows avoiding intubation in CARDS,severe-COVID-19-pneumonia,curated,33692022,2021,1
+icuap-diagnosis,icuap-mortality-association,MECHANISM,0.65,MEDIUM,OR 7.8 (2.4-25.3) for hospital mortality,critical-illness,curated,18511703,2008,1
+impaired-respiratory-mechanics,patient-ventilator-trigger-asynchrony,MECHANISM,0.65,MEDIUM,Proposed: Impaired respiratory mechanics contribute to trigger asynchrony,prolonged-mechanical-ventilation,curated,9404759,1997,1
+increased-bmi,reduced-hospital-mortality,BENEFICIAL,0.65,MEDIUM,Higher BMI associated with lower mortality in mechanically ventilated ALI,mechanically-ventilated-ALI,curated,16521268,2006,1
+increased-use-noninvasive-ventilation,increased-proportion-patients-successfully-treated-noninvasive-ventilation,BENEFICIAL,0.65,MEDIUM,13% vs 9% of ventilated patients,ventilatory-support-in-ICUs,curated,16799775,2006,1
+inhaled-nitric-oxide,reduced-pulmonary-vascular-resistance-ards,MECHANISM,0.65,MEDIUM,Decreased mean pulmonary artery pressure >=3 mmHg in 63% of patients,severe-ards,curated,7705124,1995,1
+inhaled-nitric-oxide-inhno,no-effect-mortality-ards,NULL,0.65,MEDIUM,"30-day mortality 40% vs 33.3%, p=0.83",ards,curated,9603127,1998,1
+large-tidal-volume-ventilation,ventilator-associated-lung-injury,MECHANISM,0.65,MEDIUM,Proposed risk factor for VALI/ARDS,mechanical-ventilation,curated,15343007,2004,1
+low-tidal-volume-ventilation-ards,improved-oxygenation-ards,BENEFICIAL,0.65,MEDIUM,Proposed: Low Vt ventilation improves oxygenation in ARDS,COVID-19-associated-ARDS,curated,33692022,2021,1
+methylprednisolone-therapy,cytokine-modulation,MECHANISM,0.65,MEDIUM,Proposed: Attenuate inflammatory response,severe-community-acquired-pneumonia|high-inflammatory-response,curated,25688779,2015,1
+negative-cumulative-fluid-balance-day4,reduced-hospital-mortality,BENEFICIAL,0.65,MEDIUM,"OR 0.50 (0.28-0.89), P<0.001",acute-lung-injury,curated,19103612,2009,1
+negative-cumulative-fluid-balance-day4,more-ventilator-free-days,BENEFICIAL,0.65,MEDIUM,More ventilator-free days,acute-lung-injury,curated,19103612,2009,1
+negative-cumulative-fluid-balance-day4,more-icu-free-days,BENEFICIAL,0.65,MEDIUM,More ICU-free days,acute-lung-injury,curated,19103612,2009,1
+neuromuscular-blocker-use-icu,muscle-weakness-after-critical-illness,NULL,0.65,MEDIUM,Not associated with weakness,acute-lung-injury,curated,24247473,2014,1
+nitric-oxide-inhalation,worsening-pulmonary-gas-exchange,HARMFUL,0.65,MEDIUM,"PaO2 decreased from 56 to 53 mmHg, p=0.014",COPD,curated,8618485,1996,1
+niv-failure,increased-icu-los-cpe-aoc,HARMFUL,0.65,MEDIUM,Associated with longer ICU stay,cardiogenic-pulmonary-edema|acute-on-chronic-respiratory-failure,curated,17019559,2006,1
+noninvasive-ventilation-ohs-copd,improved-1-year-survival-ohs-vs-copd,BENEFICIAL,0.65,MEDIUM,"Higher 1-year survival in OHS vs COPD (OR 1.83, 95% CI 1.24-2.69)",acute-hypercapnic-respiratory-failure|COPD|obesity-hypoventilation-syndrome,curated,23103736,2012,1
+optimal-alveolar-recruitment-pressure,peep-induced-recruitment-gradient,MECHANISM,0.65,MEDIUM,Observational: PEEP recruits more in nondependent/cephalad regions,acute-lung-injury,curated,9817720,1998,1
+peep-optimization-for-ards,improved-oxygenation-ards,BENEFICIAL,0.65,MEDIUM,Proposed: PEEP titration optimizes oxygenation in ARDS,COVID-19-associated-ARDS,curated,33692022,2021,1
+pes-guided-peep-titration-ards,attenuate-alveolar-injury,MECHANISM,0.65,LOW,Proposed: Offset pleural pressure to reduce alveolar injury,ards,curated,30776290,2019,1
+physical-rehabilitation,discharge-to-home-vs-facility-icuaw,BENEFICIAL,0.65,MEDIUM,"Suggested: More frequent discharge home vs facility with physical rehab, but CI included no difference",icuaw,curated,25496103,2014,1
+physical-rehabilitation-benefit,icuaw-outcomes,MECHANISM,0.65,MEDIUM,"Proposed: Physical rehabilitation may improve outcomes in ICUAW, but benefits unclear",icuaw,curated,25496103,2014,1
+postoperative-lung-injury,increased-attributable-mortality,ASSOCIATION,0.65,HIGH,"Overall attributable mortality for postoperative lung injury was 19% (95% CI 18-19), differing significantly between abdominal and thoracic surgery (12.2% vs 26.5%, p=0.0008)",postoperative-period|abdominal-surgery|thoracic-surgery,curated,25466352,2014,1
+prone-positioning-ards,improved-alveolar-ventilation-efficiency,MECHANISM,0.65,MEDIUM,Proposed: Decreased physiologic deadspace ratio,acute-respiratory-distress-syndrome,curated,14668608,2003,1
+prone-ventilation,gravity-dependent-atelectasis-reduction,MECHANISM,0.65,MEDIUM,Proposed: Reduces compression atelectasis,severe-ards,curated,16556697,2006,1
+prone-ventilation,ventilation-perfusion-matching-improvement,MECHANISM,0.65,MEDIUM,Proposed: Improves V/Q matching,severe-ards,curated,16556697,2006,1
+pulmonary-vascular-dysfunction,increased-60d-mortality-ali,HARMFUL,0.65,HIGH,TPG/PVRi elevations associated with higher 60-day mortality,acute-lung-injury,curated,20558628,2010,1
+pulmonary-vascular-dysfunction,reduced-ventilator-icu-free-days-ali,HARMFUL,0.65,HIGH,TPG/PVRi elevations associated with fewer ventilator- and ICU-free days,acute-lung-injury,curated,20558628,2010,1
+reduced-sedation,increased-ambulation,BENEFICIAL,0.65,MEDIUM,p=.009,respiratory-failure|prolonged-mechanical-ventilation,curated,18379236,2008,1
+reintubation,higher-mortality,HARMFUL,0.65,MEDIUM,"27% vs 2.6%, p<0.001",respiratory-failure|weaning-from-mechanical-ventilation,curated,9279224,1997,1
+respiratory-muscle-fatigue,patient-ventilator-trigger-asynchrony,MECHANISM,0.65,MEDIUM,Proposed: Respiratory muscle fatigue contributes to trigger asynchrony,prolonged-mechanical-ventilation,curated,9404759,1997,1
+respiratory-system-compliance-optimisation,dependent-lung-atelectasis-prevention,MECHANISM,0.65,MEDIUM,Proposed: Recruitment maneuver and PEEP improves Crs and prevents gravity atelectasis,one-lung-ventilation,curated,17167013,2006,1
+selective-nasogastric-tube-use-abdominal-surgery,reduced-postoperative-pulmonary-complications,BENEFICIAL,0.65,MEDIUM,Fair evidence from 2 meta-analyses,abdominal-surgery,curated,16618957,2006,1
+systematic-peep-fio2-titration,oxygenation-defect-classification,MECHANISM,0.65,MEDIUM,Proposed: Titration identifies variable ARDS severity,ARDS,curated,17585106,2007,1
+temporal-trend-improved-ali-mortality,unspecified-critical-care-advances,MECHANISM,0.65,MEDIUM,Proposed: Improvements in critical care aside from low Vt ventilation,ALI|ARDS-Network-centers,curated,19325464,2009,1
+time-cycled-expiratory-trigger,improved-patient-ventilator-synchronization,MECHANISM,0.65,MEDIUM,Proposed: better interaction than flow-cycled in presence of air leaks,mask-air-leaks,curated,10470568,1999,1
+timp-synthesis-regulation-il6,timp-elevation-ards,MECHANISM,0.65,MEDIUM,"Proposed: IL-6 enhances local TIMP synthesis, inhibiting tissue repair",ards,curated,8756805,1996,1
+tracheostomy,reduced-work-of-breathing,BENEFICIAL,0.65,MEDIUM,"WOB decreased at PS-B (-0.5 J/L, p<0.05) and PS-5 (-0.8 J/L, p<0.05)",ventilator-dependent-patients,curated,9927347,1999,1
+tracheostomy,reduced-respiratory-muscle-pressure-time-index,BENEFICIAL,0.65,MEDIUM,"Pressure-time index decreased (181 to 80 cmH2O.s/min, p<0.05)",ventilator-dependent-patients,curated,9927347,1999,1
+tracheostomy,reduced-resistive-and-elastic-work,BENEFICIAL,0.65,MEDIUM,Resistive and elastic work decreased at PS-B and PS-5,ventilator-dependent-patients,curated,9927347,1999,1
+tracheostomy,reduced-occlusion-pressure-and-intrinsic-peep,BENEFICIAL,0.65,MEDIUM,Occlusion pressure and intrinsic PEEP decreased for all conditions,ventilator-dependent-patients,curated,9927347,1999,1
+tracheostomy,improved-breathing-pattern-synchrony,BENEFICIAL,0.65,MEDIUM,Improved synchrony with ventilator after tracheostomy,ventilator-dependent-patients,curated,9927347,1999,1
+underweight-bmi,increased-mortality-ards,HARMFUL,0.65,HIGH,"OR 1.59 (1.22-2.08), p=0.0006",ARDS,curated,28222804,2017,1
+chronic-renal-failure,increased-risk-arf-mortality,MECHANISM,0.64,HIGH,Independent risk factor,critical-illness,curated,12006450,2002,1
+improved-survival-cancer-patients-mechanically-ventilated,reduced-30d-mortality-cancer-patients-mv,BENEFICIAL,0.64,MEDIUM,OR 0.24 (0.12-0.50) for 1996-1998 vs 1990-1995 period,cancer-patients|mechanical-ventilation,curated,11373414,2001,1
+liver-cirrhosis,increased-risk-arf-mortality,MECHANISM,0.64,HIGH,Independent risk factor,critical-illness,curated,12006450,2002,1
+older-age,increased-risk-arf-mortality,MECHANISM,0.64,HIGH,Independent risk factor,critical-illness,curated,12006450,2002,1
+berlin-definition-criteria-for-ards,diffuse-alveolar-damage-at-autopsy,ASSOCIATION,0.63,HIGH,"Sensitivity 89%, specificity 63% for ARDS diagnosis",intensive-care-unit,curated,23370917,2013,1
+critical-illness-covid-19,coagulopathy,ASSOCIATION,0.63,HIGH,62.7% coagulopathy incidence,COVID-19|critical-illness,curated,32631393,2020,1
+partial-liquid-ventilation-plv,mortality,NULL,0.63,HIGH,"No significant difference in mortality (CMV 36% vs PLV 42%, p=0.63)",ARDS,curated,11897644,2002,1
+respiratory-system-compliance-in-covid-ards,interindividual-variability-in-covid-ards,ASSOCIATION,0.63,MEDIUM,Observed: COVID-19 ARDS has high inter-individual variability in respiratory mechanics,COVID-19-ARDS,curated,32859264,2020,1
+tak-242-intervention,reduced-il6-levels,NULL,0.63,MEDIUM,"AUC 0-96.5h IL-6 increased 9% and 27% vs placebo, p=0.63 and 0.15",severe-sepsis|shock-or-respiratory-failure,curated,20562702,2010,1
+ards-clinical-criteria,ards-autopsy-findings,ASSOCIATION,0.62,MEDIUM,"Sensitivity 75% (95% CI 66-82%), Specificity 84% (95% CI 79-88%)",autopsy-population,curated,15381517,2004,1
+bovine-surfactant-therapy-ards,reduced-mortality-ards,TREND,0.62,LOW,"18.8% vs 43.8%, p=0.075",ards,curated,9105072,1997,1
+epidural-anaesthesia-and-analgesia,reduced-respiratory-failure,BENEFICIAL,0.62,MEDIUM,"Respiratory failure 23% vs 30%, p=0.02",major-abdominal-surgery|high-risk-population,curated,11965272,2002,1
+fiberoptic-bronchoscopy-bal,no-increased-intubation-requirement,NULL,0.62,HIGH,"RD -3.3%, p=0.62",hematology-oncology-patients|acute-respiratory-failure,curated,20581167,2010,1
+gas-ventilation-of-perflubron-filled-lung,improved-pulmonary-compliance,MECHANISM,0.62,MEDIUM,Proposed: Gas ventilation of perflubron-filled lung improves compliance,ards,curated,8569018,1996,1
+noninvasive-positive-pressure-ventilation,reduced-serious-complications,BENEFICIAL,0.62,MEDIUM,"38% vs 66%, p=0.02",acute-respiratory-failure,curated,9700176,1998,1
+noninvasive-testing,no-inferior-diagnosis-rate,NULL,0.62,MEDIUM,Diff -1.3% (-10.4 to 7.7),hematology-oncology-patients|acute-respiratory-failure,curated,20581167,2010,1
+older-age,increased-risk-arf-development,MECHANISM,0.62,HIGH,OR 1.70 (95% CI 1.30-2.22),critical-illness,curated,12006450,2002,1
+dexmedetomidine,delirium-incidence,MECHANISM,0.61,low,,,curated,30484283,2018,1
+abdominal-contribution-inspired-volume,respiratory-mechanics-changes-ali-ards,ASSOCIATION,0.6,MEDIUM,"Decreased in normal vs PSV patients, variable with VT",intensive-care|ALI-ARDS,curated,10806152,2000,1
+ace-activity-regulation,ards-susceptibility,ASSOCIATION,0.6,MEDIUM,"DD genotype associated with increased ARDS risk, p<0.00008",ards,curated,12204859,2002,1
+ace-activity-regulation,ards-mortality,ASSOCIATION,0.6,MEDIUM,"DD genotype associated with increased ARDS mortality, p<0.02",ards,curated,12204859,2002,1
+acute-lung-injury,increased-icu-length-of-stay,HARMFUL,0.6,MEDIUM,15% increase (95% CI 5-27%),subarachnoid-hemorrhage,curated,16374174,2006,1
+african-american-gender,elevated-ards-mortality,HARMFUL,0.6,MEDIUM,"African-American men had the highest ARDS mortality (mean 12.8 deaths/100,000)",ards-mortality-US-1979-1996,curated,12163776,2002,1
+airflow-obstruction,decreased-quality-of-life-physical-function,ASSOCIATION,0.6,MEDIUM,Observed correlation between pulmonary abnormalities and QoL domains,post-ARDS,curated,12493646,2003,1
+ards-costs-of-care,ards,ASSOCIATION,0.6,MEDIUM,"$73,000 per survivor",perioperative,curated,10579250,1999,1
+ards-developing-in-previously-healthy-patients,poor-quality-adjusted-survival-12m,ASSOCIATION,0.6,MEDIUM,36 QALYs per 100 patients (95% CI 21-46),ards,curated,11371406,2001,1
+ards-hospitalmortality,ards,ASSOCIATION,0.6,MEDIUM,42% hospital mortality,perioperative,curated,10579250,1999,1
+ards-icumortality,ards,ASSOCIATION,0.6,MEDIUM,37% ICU mortality,perioperative,curated,10579250,1999,1
+avoid-routine-neuromuscular-blockade-status-asthmaticus,avoid-respiratory-muscle-paralysis-asthma,BENEFICIAL,0.6,MEDIUM,Weak recommendation,asthma,curated,27755068,2016,1
+awake-prone-positioning-hfno,delayed-intubation-timing,TREND,0.6,LOW,"Median 1 vs 2 days, p=0.055",COVID-19-acute-respiratory-failure|HFNO-treatment,curated,33023669,2020,1
+awake-state,improved-survival-nppv,BENEFICIAL,0.6,MEDIUM,Being awake associated with increased probability of survival,respiratory-failure|do-not-intubate-order,curated,15483407,2004,1
+barotrauma,increased-mortality,HARMFUL,0.6,MEDIUM,"Mortality 51.4% with vs 39.2% without barotrauma, p=0.04",mechanical-ventilation,curated,14991090,2004,1
+bed-rest-duration-during-critical-illness,muscle-weakness-after-critical-illness,ASSOCIATION,0.6,MEDIUM,Consistent association throughout 2-year follow-up,acute-lung-injury,curated,24247473,2014,1
+cancer-requiring-icu-admission,high-hospital-mortality,ASSOCIATION,0.6,MEDIUM,30% overall hospital mortality,cancer|ICU-admission,curated,19829101,2010,1
+chest-wall-restriction,decreased-quality-of-life-physical-function,ASSOCIATION,0.6,MEDIUM,Observed correlation between pulmonary abnormalities and QoL domains,post-ARDS,curated,12493646,2003,1
+computer-driven-weaning-protocol,no-change-reintubation-rate,NULL,0.6,MEDIUM,"Reintubation 23% vs 16%, p=0.40",mechanical-ventilation,curated,16840741,2006,1
+convex-v-p-curve-hyperinflation,limited-peep-benefit,MECHANISM,0.6,MEDIUM,"Proposed: Convex V-P curve indicates hyperinflation, limiting PEEP benefit",ards,curated,8111581,1994,1
+corticosteroid-exposure-icu,impaired-functional-capacity-ali,MECHANISM,0.6,MEDIUM,Proposed: Corticosteroid exposure during ICU stay contributes to physical impairments,acute-lung-injury,curated,24716641,2014,1
+critical-illness-covid-19,prolonged-sars-cov-2-rna-clearance,ASSOCIATION,0.6,MEDIUM,Median 30 days for negative conversion in survivors,COVID-19|critical-illness,curated,32631393,2020,1
+custom-ml-model,ards-subphenotype-prognostic-value,NULL,0.6,MEDIUM,Applied in LUNG SAFE to determine prognostic value,observational-ARDS-cohorts,curated,35026177,2022,1
+daily-screening-trials-spontaneous-breathing,reduced-hospital-costs,TREND,0.6,MEDIUM,"Median $26,229 vs $29,048, p=0.3",respiratory-failure-requiring-mechanical-ventilation,curated,8948561,1996,1
+deep-sedation-with-neuromuscular-blockade,worse-respiratory-status,ASSOCIATION,0.6,MEDIUM,"Patients with neuromuscular blockade had worse oxygenation, ventilation, PEEP, and lung injury",mechanically-ventilated-icu-patients,curated,10470756,1999,1
+delirium-during-critical-illness,long-term-cognitive-impairment,ASSOCIATION,0.6,MEDIUM,Delirium phenotypes associated with severity of subsequent cognitive impairment,critical-illness,curated,29508705,2018,1
+deliriumcoma-free-days,discharged-alive-within-28-days,ASSOCIATION,0.6,3,Outcome,,curated,18191684,2008,1
+diaphragm-ultrasonography,assess-diaphragm-atrophy,BENEFICIAL,0.6,MEDIUM,Observational studies show DU reliably assesses diaphragm atrophy in mechanically ventilated patients,mechanical-ventilation,curated,27620292,2017,1
+early-corticosteroid-therapy-icu-admission,increased-hospital-acquired-pneumonia,HARMFUL,0.6,MEDIUM,"OR 2.2 (1.1-4.5), p<0.05",severe-pandemic-H1N1-influenza-infection,curated,21107529,2011,1
+early-physical-therapy-icu,increased-pt-provision-icu-survivors,BENEFICIAL,0.6,MEDIUM,"80% vs 47%, p<=0.001",acute-respiratory-failure,curated,18596631,2008,1
+epo-deficiency-critical-illness-anemia,anemia-in-critical-illness,ASSOCIATION,0.6,MEDIUM,EPO deficiency associated with anemia in critical illness,critical-illness,curated,9069000,1997,1
+extracorporeal-membrane-oxygenation-ecmo,ecmo-weaning-rate,ASSOCIATION,0.6,MEDIUM,ECMO weaning rate 67.6% (95% CI 50.5-82.7%),COVID-19-ARDS,curated,34127027,2021,1
+fluid-resuscitation-insufficient-sepsis,persistent-lv-systolic-dysfunction,MECHANISM,0.6,HIGH,"Proposed: Fluid loading unable to correct preload defect, LV function remains depressed",septic-shock,curated,10559099,1999,1
+high-flow-oxygen-therapy,reduced-postextubation-respiratory-failure-72h,HARMFUL,0.6,MEDIUM,Absolute diff +12.9% (95% CI 6.6% to ∞),postextubation,curated,27706464,2016,1
+high-tidal-volume-ventilation,development-of-acute-lung-injury,HARMFUL,0.6,MEDIUM,"OR 5.4 (95% CI 1.54-19.24), p<0.01",severe-brain-injury,curated,17568331,2007,1
+incidence-ali,association-ali,ASSOCIATION,0.6,MEDIUM,"34 cases per 100,000 per year",,curated,11850334,2002,1
+incidence-ards,association-ards,ASSOCIATION,0.6,MEDIUM,"28 cases per 100,000 per year",,curated,11850334,2002,1
+increased-heart-rate,increased-intubation-risk-hfnc,TREND,0.6,MEDIUM,Only factor associated with intubation after HFNC,high-flow-nasal-cannula-oxygen,curated,29099420,2018,1
+intensive-care-management-covid-19,reduced-15d-icu-mortality,ASSOCIATION,0.6,MEDIUM,"31% 15-day ICU mortality, p=0.78",severe-COVID-19-ICU,curated,32278670,2020,1
+lack-of-consensus-training-for-ards-diagnosis,moderate-interobserver-agreement,TREND,0.6,MEDIUM,"Raw 0.68-0.80, kappa 0.38-0.55, Phi 0.53-0.75",chest-radiograph-interpretation,curated,10619802,2000,1
+lower-lobe-volume-loss,regional-peep-responsiveness-gradient,ASSOCIATION,0.6,MEDIUM,Observational: Nonaerated lower lobe volume inversely correlates with PEEP response,acute-lung-injury,curated,9817720,1998,1
+lv-systolic-dysfunction-sepsis,poor-recovery-from-septic-shock,HARMFUL,0.6,MEDIUM,Observed: Persistently depressed LVEF associated with non-recovery from septic shock,septic-shock,curated,10559099,1999,1
+male-gender,elevated-ards-mortality,HARMFUL,0.6,MEDIUM,Annual ARDS mortality rates higher for men vs women,ards-mortality-US-1979-1996,curated,12163776,2002,1
+medical-complication-icu-admission,higher-hospital-mortality,ASSOCIATION,0.6,MEDIUM,"58% mortality vs 37% emergency, 11% scheduled surgical",cancer|ICU-admission,curated,19829101,2010,1
+mortality-ali-28d,association-ali,ASSOCIATION,0.6,MEDIUM,32% 28-day mortality,,curated,11850334,2002,1
+mortality-ards-28d,association-ards,ASSOCIATION,0.6,MEDIUM,34% 28-day mortality,,curated,11850334,2002,1
+multiple-organ-failure,mortality-covid-19-pneumonia,ASSOCIATION,0.6,MEDIUM,Appeared in all patients even at early stage of disease,COVID-19-pneumonia,curated,32255382,2020,1
+neopterin-ards-biomarker,discrimination-septic-nonseptic-ards,BENEFICIAL,0.6,MEDIUM,Neopterin allowed differentiation (p<0.005) but overlap between groups,early-ards,curated,10548201,1999,1
+neuromuscular-blockade-early-ards-pao2-fio2-less-than-150,improved-oxygenation-ards,BENEFICIAL,0.6,MEDIUM,Weak recommendation,ards,curated,27755068,2016,1
+neuromuscular-blockade-manage-overt-ventilatory-shift,ventilatory-management-acute-respiratory-failure,BENEFICIAL,0.6,MEDIUM,Weak recommendation,acute-respiratory-failure,curated,27755068,2016,1
+noninvasive-ventilation-ohs-copd,reduced-hospital-mortality-ohs-vs-copd,BENEFICIAL,0.6,MEDIUM,Lower hospital mortality in OHS vs COPD (6% vs 18%),acute-hypercapnic-respiratory-failure|COPD|obesity-hypoventilation-syndrome,curated,23103736,2012,1
+nurse-driven-ventilator-weaning,reduced-vap-incidence,BENEFICIAL,0.6,MEDIUM,Decreased incidence in surgical patients,surgical-patients,curated,10936141,2000,1
+old-age-70y,prolonged-icu-stay,HARMFUL,0.6,MEDIUM,"Median 21 days vs 16 days, p=0.004",critical-care|acute-lung-injury-ARDS,curated,11777361,2002,1
+optoelectronic-plethysmography,compartmental-chest-wall-volume-measurement,MECHANISM,0.6,MEDIUM,Small discrepancy from ideal during isovolume maneuver,intensive-care|ALI-ARDS,curated,10806152,2000,1
+oxygenation-defect-classification,variable-lung-injury-ards,ASSOCIATION,0.6,MEDIUM,"ARDS definition inadequate, patients exhibit different degrees of lung injury",ARDS,curated,17585106,2007,1
+partial-liquid-ventilation-plv,reduced-progression-ards,BENEFICIAL,0.6,MEDIUM,Significant reduction in progression to ARDS with PLV,ARDS,curated,11897644,2002,1
+patient-immobilization-icu,impaired-functional-capacity-ali,MECHANISM,0.6,MEDIUM,Proposed: Prolonged immobilization during ICU stay contributes to physical impairments,acute-lung-injury,curated,24716641,2014,1
+patient-ventilator-asynchrony,reduced-patient-comfort,ASSOCIATION,0.6,MEDIUM,Patients with AI >10% had lower comfort,non-invasive-ventilation,curated,19183949,2009,1
+physician-prompt,increased-spontaneous-breathing-trial-ordering,BENEFICIAL,0.6,MEDIUM,"Physician SBT ordering increased from 46% to 65%, p=0.004",respiratory-failure|weaning,curated,9927355,1999,1
+postoperative-diaphragmatic-dysfunction,postoperative-pulmonary-complications,MECHANISM,0.6,MEDIUM,Proposed: Postoperative diaphragm impairment leads to atelectasis,one-lung-ventilation,curated,32479829,2020,1
+preload-defect-septic-shock,lv-end-diastolic-volume-reduction,MECHANISM,0.6,HIGH,Proposed: Septic shock causes preload defect with reduced LVEDV,septic-shock,curated,10559099,1999,1
+pressure-support-level,patient-ventilator-asynchrony,MECHANISM,0.6,MEDIUM,Higher pressure support associated with AI >10%,non-invasive-ventilation,curated,19183949,2009,1
+prolonged-mechanical-ventilation,poor-hospital-discharge-outcomes,ASSOCIATION,0.6,MEDIUM,"29% mortality, 19% discharged to home, 50% ventilator liberation",critically-ill-patients,curated,26003390,2015,1
+prolonged-mechanical-ventilation,worse-outcomes-in-usa,ASSOCIATION,0.6,MEDIUM,Worse outcomes in USA vs non-USA,critically-ill-patients,curated,26003390,2015,1
+prone-positioning-covid-19-respiratory-failure,increased-mortality-covid-19-ards,HARMFUL,0.6,MEDIUM,"45% vs 33% mortality, p<0.001",COVID-19-respiratory-failure|invasive-mechanical-ventilation,curated,33823862,2021,1
+prone-positioning-covid-19-respiratory-failure,no-effect-on-ventilation-covid-19-ards,NULL,0.6,MEDIUM,No change in ventilatory ratio,COVID-19-respiratory-failure|invasive-mechanical-ventilation,curated,33823862,2021,1
+prone-positioning-pressure-controlled-ventilation,decreased-shunt-perfusion,MECHANISM,0.6,MEDIUM,Proposed: Prone position shifts blood flow away from shunt regions,severe-ARDS,curated,7956412,1994,1
+pulmonary-diffusion-impairment,decreased-quality-of-life-physical-function,ASSOCIATION,0.6,MEDIUM,Observed correlation between pulmonary abnormalities and QoL domains,post-ARDS,curated,12493646,2003,1
+rapid-shallow-breathing-index,extubation-failure,ASSOCIATION,0.6,MEDIUM,OR 1.009 (95% CI 1.003-1.015),ventilated-patients|extubation-readiness,curated,17166980,2006,1
+recruitment-maneuvers-ards,no-short-term-oxygenation-benefit,NULL,0.6,MEDIUM,Oxygenation did not change after RM,ARDS,curated,11790648,2002,1
+sars-critical-illness,respiratory-failure,ASSOCIATION,0.6,MEDIUM,"76% required mechanical ventilation, 34% experienced barotrauma",sars-during-outbreak,curated,12865378,2003,1
+sars-critical-illness,impact-on-critical-care-capacity,ASSOCIATION,0.6,MEDIUM,"Closure of 73 ICU beds, 164 HCWs quarantined, 16 developed SARS",sars-during-outbreak,curated,12865378,2003,1
+scheduled-extubation,respiratory-failure-after-extubation,ASSOCIATION,0.6,MEDIUM,Extubation failure 29%; reintubation 16%,postoperative-extubation,curated,21376523,2011,1
+short-acting-neuromuscular-blocking-agents,reduced-postoperative-pulmonary-complications,BENEFICIAL,0.6,MEDIUM,Fair evidence from 1 RCT,noncardiothoracic-surgery,curated,16618957,2006,1
+strong-cough,improved-survival-nppv,BENEFICIAL,0.6,MEDIUM,Stronger cough associated with increased probability of survival,respiratory-failure|do-not-intubate-order,curated,15483407,2004,1
+subarachnoid-hemorrhage,acute-lung-injury-incidence,ASSOCIATION,0.6,MEDIUM,27% incidence (95% CI 24-31%),subarachnoid-hemorrhage,curated,16374174,2006,1
+t-tube-spontaneous-breathing-trial,higher-failure-rate-during-trial,HARMFUL,0.6,MEDIUM,"22% vs 14%, p=0.03",respiratory-failure|weaning-from-mechanical-ventilation,curated,9279224,1997,1
+trial-neuromuscular-blockade-life-threatening-hypoxemia-acidosis-hemodynamics,improved-gas-exchange-hemodynamics-critical-illness,BENEFICIAL,0.6,MEDIUM,Weak recommendation,critical-illness|severe-hypoxemia|respiratory-acidosis|hemodynamic-instability,curated,27755068,2016,1
+ventilator-associated-pneumonia-ards,prolonged-mechanical-ventilation-duration,ASSOCIATION,0.6,MEDIUM,VAP resulted in considerable increase in time on ventilation,ARDS|mechanical-ventilation,curated,10852771,2000,1
+ventilator-leak-magnitude,patient-ventilator-asynchrony,MECHANISM,0.6,MEDIUM,Leaks correlated with ineffective breaths and delayed cycling,non-invasive-ventilation,curated,19183949,2009,1
+early-mobilisation,delirium-incidence,MECHANISM,0.59,low,,,curated,30484283,2018,1
+tak-242-intervention,reduced-28d-mortality,TREND,0.59,MEDIUM,"28-day mortality: 24% placebo, 22% low-dose, 17% high-dose (p=0.26)",severe-sepsis|shock-or-respiratory-failure,curated,20562702,2010,1
+noninvasive-ventilation-nimv,reduced-30d-mortality-cancer-patients-mv,BENEFICIAL,0.58,MEDIUM,OR 0.34 (0.16-0.73) for NIMV vs conventional MV,cancer-patients|mechanical-ventilation,curated,11373414,2001,1
+recruitment-maneuver-rm,hemodynamic-instability,HARMFUL,0.58,MEDIUM,"Systolic BP decrease -11.1 mmHg, p<0.01",ards-patients|high-peep,curated,14605529,2003,1
+ventilation-perfusion-mismatch-covid-ards,elevated-fio2-requirement,MECHANISM,0.58,MEDIUM,Proposed: Significant V/Q mismatch in COVID-19 ARDS increases FiO2 needs,covid-19-ards,curated,32697482,2020,1
+corticosteroids-treatment-ards,reduced-mortality-in-ards,TREND,0.57,MEDIUM,"OR 0.62 (0.23-1.26), P(OR>=1)=6.8%",critical-illness,curated,18434379,2008,1
+extravascular-lung-water-measurement,increased-evlw-non-ards-sepsis,ASSOCIATION,0.57,MEDIUM,8/14 (57%) non-ARDS sepsis had high EVLW,severe-sepsis,curated,15774053,2005,1
+ace2-repletion-rhace2,reduced-lung-injury,TREND,0.55,MEDIUM,"Proposed mechanism, not powered for clinical outcomes",ards,curated,28877748,2017,1
+acute-respiratory-failure,31-day-mortality-increased,ASSOCIATION,0.55,MEDIUM,31.4% 31-day mortality in ARF cohort,acute-respiratory-failure,curated,11035684,2000,1
+ards-on-mechanical-ventilation,elevated-incidence-ventilator-associated-pneumonia,ASSOCIATION,0.55,MEDIUM,"Incidence 36.5% in ARDS vs 23% in non-ARDS, p<0.002",ARDS|mechanical-ventilation,curated,10852771,2000,1
+chronic-respiratory-failure,unplanned-extubation,ASSOCIATION,0.55,MEDIUM,Identified risk factor in multivariate analysis,mechanical-ventilation,curated,9563730,1998,1
+critical-illness-covid-19,high-60d-mortality,ASSOCIATION,0.55,HIGH,61.5% 60-day mortality,COVID-19|critical-illness,curated,32631393,2020,1
+cumulative-positive-fluid-balance,increased-mortality,HARMFUL,0.55,MEDIUM,RR 1.39 (1.15-1.69),critical-illness,curated,33009098,2020,1
+dependent-lung-atelectasis,reduced-total-lung-volume-ali,ASSOCIATION,0.55,MEDIUM,Observational: Lower lobe volume loss in ALI,acute-lung-injury,curated,9817720,1998,1
+diagnostic-testing-icuaw,icuaw-management,TREND,0.55,LOW,Unclear if benefits of ICUAW diagnostic testing outweigh burdens,icuaw,curated,25496103,2014,1
+diaphragm-fatigue,weaning-failure,NULL,0.55,MEDIUM,Weaning failure patients did not develop low-frequency diaphragm fatigue,weaning-from-mechanical-ventilation,curated,12411288,2003,1
+ecla-use-during-ards,long-term-outcomes-ards-survivors,ASSOCIATION,0.55,MEDIUM,Comparable 1-year outcomes between ECLA and no-ECLA groups,H1N1-influenza-ARDS,curated,22948576,2012,1
+extracorporeal-membrane-oxygenation-ecmo,reduced-in-hospital-mortality-covid-ards,ASSOCIATION,0.55,HIGH,Pooled in-hospital mortality 37.1% (95% CI 32.3-42.0%),COVID-19-ARDS,curated,34127027,2021,1
+fluid-overload,increased-mortality,HARMFUL,0.55,MEDIUM,RR 2.79 (1.55-5.00),critical-illness,curated,33009098,2020,1
+high-respiratory-rate-ventilation,development-of-acute-lung-injury,HARMFUL,0.55,MEDIUM,"OR 1.8 (95% CI 1.13-2.86), p<0.01",severe-brain-injury,curated,17568331,2007,1
+inadequate-tube-fixation,unplanned-extubation,ASSOCIATION,0.55,MEDIUM,Identified risk factor in multivariate analysis,mechanical-ventilation,curated,9563730,1998,1
+increased-pt-provision-icu-survivors,reduced-icu-length-of-stay,BENEFICIAL,0.55,MEDIUM,"5.5 vs 6.9 days, p=0.025",acute-respiratory-failure,curated,18596631,2008,1
+increased-pt-provision-icu-survivors,reduced-hospital-length-of-stay,BENEFICIAL,0.55,MEDIUM,"11.2 vs 14.5 days, p=0.006",acute-respiratory-failure,curated,18596631,2008,1
+lack-of-sedation,unplanned-extubation,ASSOCIATION,0.55,MEDIUM,Identified risk factor in multivariate analysis,mechanical-ventilation,curated,9563730,1998,1
+noninvasive-positive-pressure-ventilation-nppv,survival-to-hospital-discharge,ASSOCIATION,0.55,MEDIUM,43% survival in DNI patients treated with NPPV,respiratory-failure|do-not-intubate-order,curated,15483407,2004,1
+noninvasive-ventilation-copd,less-late-niv-failure-in-copd-with-obesity,BENEFICIAL,0.55,MEDIUM,Obesity associated with less late NIV failure in COPD,COPD,curated,23103736,2012,1
+orotracheal-intubation,unplanned-extubation,ASSOCIATION,0.55,MEDIUM,Identified risk factor in multivariate analysis,mechanical-ventilation,curated,9563730,1998,1
+patient-ventilator-trigger-asynchrony,decreased-weaning-success,ASSOCIATION,0.55,MEDIUM,3/19 (16%) vs 57/174 (57%) weaned,prolonged-mechanical-ventilation,curated,9404759,1997,1
+postoperative-respiratory-failure,increased-30-day-mortality,ASSOCIATION,0.55,MEDIUM,"Patients with PRF had 25.62% vs 0.98% 30-day mortality, p<0.0001",postoperative-period,curated,21757571,2011,1
+pressure-volume-limitation-strategy-pls,increased-icu-mortality-severe-hypercapnia-ards,MECHANISM,0.55,MEDIUM,Higher mortality in severe hypercapnia + PLS,ARDS|severe-hypercapnia,curated,28108768,2017,1
+recombinant-factor-viia-rfviia,arterial-thromboembolism,HARMFUL,0.55,MEDIUM,RD 0.03-0.06 increased risk,intracranial-hemorrhage|cardiac-surgery,curated,21502651,2011,1
+recruitment-maneuver-rm,barotrauma,TREND,0.55,LOW,Barotrauma on CXR after 1 RM and 1 sham RM,ards-patients|high-peep,curated,14605529,2003,1
+remdesivir-treatment-severe-covid-19,modest-benefit-recovery-time-severe-covid-19,BENEFICIAL,0.55,MEDIUM,Proposed: Remdesivir has modest benefit on recovery time in severe COVID-19,severe-COVID-19-pneumonia,curated,33692022,2021,1
+respiratory-physiotherapy,reduced-pulmonary-complications-abdominal-surgery,BENEFICIAL,0.55,MEDIUM,RD 18-26.3% in 4/13 trials (NNT 3.8-5.6),abdominal-surgery,curated,17167013,2006,1
+underlying-lung-disease,increased-barotrauma-risk,ASSOCIATION,0.55,MEDIUM,"Barotrauma incidence: COPD 2.9%, asthma 6.3%, ILD 10.0%, ARDS 6.5%, pneumonia 4.2%",mechanical-ventilation,curated,14991090,2004,1
+use-of-neuromuscular-blockers,longer-duration-mechanical-ventilation,HARMFUL,0.55,MEDIUM,"Associated with longer duration, p<0.001",mechanical-ventilation,curated,16100131,2005,1
+use-of-neuromuscular-blockers,higher-mortality,HARMFUL,0.55,MEDIUM,"Associated with higher mortality, p<0.001",mechanical-ventilation,curated,16100131,2005,1
+use-of-sedatives,longer-duration-mechanical-ventilation,HARMFUL,0.55,MEDIUM,"Median 4 days vs 3 days, p<0.001",mechanical-ventilation,curated,16100131,2005,1
+ventilator-associated-pneumonia-ards,no-effect-on-mortality,ASSOCIATION,0.55,MEDIUM,Mortality rates were identical in ARDS patients with and without pneumonia,ARDS,curated,10852771,2000,1
+fiberoptic-bronchoscopy-bal,diagnostic-yield-arf-cause-identification,ASSOCIATION,0.54,MEDIUM,FO-BAL diagnostic yield 50.5% vs 66.7% without FO-BAL,cancer-patients|acute-respiratory-failure,curated,18090351,2008,1
+high-flow-nasal-cannula-oxygen,reduced-intubation-28d,BENEFICIAL,0.54,MEDIUM,OR 1.72 (0.57-5.18),severe-acute-respiratory-failure|immunocompromised,curated,27245914,2016,1
+aspirin-administration,reduced-ards-incidence-7d,NULL,0.53,HIGH,"OR 1.24 (0.67-2.31), p=0.53",ARDS-risk-ed-population,curated,27179988,2016,1
+cpap-plus-oxygen-therapy,reduced-need-for-intubation,NULL,0.53,HIGH,"RR 0.87 (0.53-1.42), p=0.53",acute-hypoxemic-nonhypercapnic-respiratory-insufficiency,curated,11066186,2000,1
+american-european-ards-definition,ards-diagnosis-accuracy,MECHANISM,0.51,MEDIUM,"Sensitivity 0.83, Specificity 0.51",critical-care,curated,16215375,2005,1
+pulse-pressure-variation-deltapp,fluid-responsiveness-prediction,TREND,0.51,MEDIUM,DeltaPP predicted fluid responsiveness in 51% with TV <8 ml/kg,tidal-volume-lt8mL-kg,curated,15754196,2005,1
+alveolar-inflammation-ards,alveolar-fibrosis-ards,MECHANISM,0.5,MEDIUM,Proposed: Alveolar inflammation precedes and drives fibrosis in early ARDS,acute-respiratory-distress-syndrome,curated,10075054,1999,1
+ards-frequency,ards,ASSOCIATION,0.5,MEDIUM,"4.9 cases/100,000 inhabitants/yr",perioperative,curated,10579250,1999,1
+candida-respiratory-colonization,candida-pneumonia-incidence,ASSOCIATION,0.5,MEDIUM,"40% Candida-positive respiratory samples, but only 8% had definite Candida pneumonia",critical-illness|mechanical-ventilation,curated,9279244,1997,1
+covid-19-complications,covid-19-mortality,ASSOCIATION,0.5,MEDIUM,Meta-analysis: 10% overall mortality (PI 2-39%),COVID-19,curated,32616077,2020,1
+covid-19-complications,covid-19-ards,ASSOCIATION,0.5,MEDIUM,Meta-analysis: 14% incidence of ARDS (PI 2-59%),COVID-19,curated,32616077,2020,1
+critical-illness-covid-19,acute-kidney-injury,ASSOCIATION,0.5,HIGH,49.8% AKI incidence,COVID-19|critical-illness,curated,32631393,2020,1
+delayed-invasive-ventilation,mortality,NULL,0.5,MEDIUM,"65% vs 58%, p=0.12",hematologic-malignancy|acute-respiratory-failure,curated,21666446,2011,1
+depression-after-ards,impaired-physical-function-ards,ASSOCIATION,0.5,MEDIUM,Incidence of depressive symptoms and impaired function are both high and long-lasting after ALI,ards-survivors,curated,22161158,2012,1
+early-noninvasive-ventilation,reduced-28d-mortality,NULL,0.5,MEDIUM,"RR 0.88 (0.63-1.23), ARD -3.2%",immunocompromised-patients|acute-hypoxemic-respiratory-failure,curated,26444879,2015,1
+extracorporeal-membrane-oxygenation-ecmo,ecmo-complications,ASSOCIATION,0.5,MEDIUM,"1583 total ECMO complications, renal most common",COVID-19-ARDS,curated,34127027,2021,1
+full-enteral-feeding-first-6d,gastrointestinal-intolerances,HARMFUL,0.5,MEDIUM,"More vomiting, elevated gastric residuals, constipation",acute-lung-injury,curated,22307571,2012,1
+global-lung-ultrasound-score-variation,peep-induced-lung-recruitment-assessment,NULL,0.5,MEDIUM,"Not associated with CT-assessed lung recruitment (R=0.01, p=0.67)",ARDS,curated,30048331,2018,1
+high-flow-oxygen-therapy,reduced-reintubation-72h,NULL,0.5,LOW,Absolute diff -3.7% (95% CI -9.1% to ∞),postextubation,curated,27706464,2016,1
+high-frequency-oscillatory-ventilation-hfov,reduced-30d-mortality,NULL,0.5,MEDIUM,"43% 30-day mortality, higher in patients with delayed HFOV or no oxygenation response",ards,curated,12897997,2003,1
+higher-peep-levels,no-difference-mortality-or-unassisted-breathing,NULL,0.5,HIGH,"No difference in mortality (24.9% vs 27.5%, p=0.48) or unassisted breathing days (p=0.50)",acute-lung-injury|ARDS,curated,15269312,2004,1
+icu-admission-severe-cap,longer-hospital-stay,ASSOCIATION,0.5,MEDIUM,"23.2 vs 9.1 days, p<0.001",community-acquired-pneumonia,curated,12204871,2002,1
+icu-admission-severe-cap,higher-hospital-costs,ASSOCIATION,0.5,MEDIUM,"$21,144 vs $5,785, p<0.001",community-acquired-pneumonia,curated,12204871,2002,1
+icu-admission-severe-cap,nonpulmonary-organ-dysfunction,ASSOCIATION,0.5,MEDIUM,More in ICU patients,community-acquired-pneumonia,curated,12204871,2002,1
+icu-admission-severe-cap,higher-mortality,ASSOCIATION,0.5,MEDIUM,"18.2% vs 5.0%, p<0.001",community-acquired-pneumonia,curated,12204871,2002,1
+il6-crp-ards-biomarkers,discrimination-septic-nonseptic-ards,NULL,0.5,MEDIUM,IL-6 and CRP did not discriminate septic vs nonseptic ARDS,early-ards,curated,10548201,1999,1
+incentive-spirometry,no-reduction-ppcs-cardiac-abdominal,NULL,0.5,MEDIUM,No positive short-term effect of IS in 10/11 studies,cardiac-surgery|abdominal-surgery,curated,11555536,2001,1
+inhaled-nitric-oxide,survival-in-ards,NULL,0.5,MEDIUM,Survival rates did not differ between NO and non-NO groups,severe-ards,curated,7705124,1995,1
+intravenous-nac-treatment,reduced-ards-incidence,BENEFICIAL,0.5,LOW,22% vs 35% (p=NS),acute-lung-injury,curated,8275731,1994,1
+intravenous-nac-treatment,reduced-mortality,BENEFICIAL,0.5,LOW,22% vs 35% (p=NS),acute-lung-injury,curated,8275731,1994,1
+low-tidal-volume-ventilation,acute-lung-injury-patients,ASSOCIATION,0.5,MEDIUM,30% of ALI patients received low Vt,subarachnoid-hemorrhage,curated,16374174,2006,1
+mechanical-ventilation-outcomes,ards-mortality,TREND,0.5,MEDIUM,52% mortality in ARDS patients,acute-respiratory-distress-syndrome,curated,11790214,2002,1
+n-3-fatty-acid-gamma-linolenic-acid-antioxidant-enteral-supplementation,systemic-inflammatory-modulation,MECHANISM,0.5,LOW,Proposed: Modulate systemic inflammation in ALI,acute-lung-injury,curated,21976613,2011,1
+n-3-fatty-acid-gamma-linolenic-acid-antioxidant-enteral-supplementation,lung-oxygenation-improvement,MECHANISM,0.5,LOW,Proposed: Improve lung oxygenation in ALI,acute-lung-injury,curated,21976613,2011,1
+no-change-in-ards-incidence-on-admission,reduced-ards-incidence,NULL,0.5,MEDIUM,"ARDS incidence on admission unchanged, p=0.877",suburban-community,curated,20693377,2011,1
+non-invasive-ventilation-niv,reduced-intubation-rate,BENEFICIAL,0.5,MEDIUM,Reduced in 11/29 studies,postoperative,curated,21424246,2011,1
+noninvasive-mechanical-ventilation,staff-time-and-cost-similar-to-invasive-ventilation,ASSOCIATION,0.5,MEDIUM,No difference in staff time and cost between NIMV and InMV in first 48h,acute-respiratory-failure-COPD,curated,9187186,1997,1
+noninvasive-pressure-support-ventilation-nipsv,reduced-endotracheal-intubation,NULL,0.5,MEDIUM,"62% vs 70%, p=0.88",acute-respiratory-failure-not-COPD,curated,7874950,1995,1
+noninvasive-pressure-support-ventilation-nipsv,reduced-icu-length-of-stay,NULL,0.5,MEDIUM,"17 ± 19 days vs 25 ± 23 days, p=0.16",acute-respiratory-failure-not-COPD,curated,7874950,1995,1
+noninvasive-pressure-support-ventilation-nipsv,reduced-mortality,NULL,0.5,MEDIUM,"33% vs 50%, p=0.46",acute-respiratory-failure-not-COPD,curated,7874950,1995,1
+pneumonia-prior-to-ventilation,extubation-failure,ASSOCIATION,0.5,MEDIUM,OR 1.77 (95% CI 1.10-2.84),ventilated-patients|extubation-readiness,curated,17166980,2006,1
+positive-fluid-balance,extubation-failure,ASSOCIATION,0.5,MEDIUM,OR 1.70 (95% CI 1.15-2.53),ventilated-patients|extubation-readiness,curated,17166980,2006,1
+postoperative-lung-injury,increased-icu-length-of-stay,ASSOCIATION,0.5,MEDIUM,"Patients with postoperative lung injury spent longer in ICU (8.0 [12.4] vs 1.1 [3.7] days, p<0.0001)",postoperative-period,curated,25466352,2014,1
+postoperative-lung-injury,increased-hospital-length-of-stay,ASSOCIATION,0.5,MEDIUM,"Patients with postoperative lung injury spent longer in hospital (20.9 [18.1] vs 14.7 [14.3] days, p<0.0001)",postoperative-period,curated,25466352,2014,1
+prone-positioning-pressure-controlled-ventilation,improved-ventilation-perfusion-vaq,BENEFICIAL,0.5,MEDIUM,Prone positioning improved PaO2 and increased areas of normal VA/Q,severe-ARDS,curated,7956412,1994,1
+prone-ventilation,reduced-icu-mortality-ards,TREND,0.5,LOW,"58% vs 43%, p=0.12",severe-ards,curated,16556697,2006,1
+sars-critical-illness,increased-mortality-28d,ASSOCIATION,0.5,MEDIUM,34% mortality in SARS critical illness,sars-during-outbreak,curated,12865378,2003,1
+serial-blood-lactate-measurements,guide-therapy,BENEFICIAL,0.5,MEDIUM,A few studies suggested therapy could be guided by lactate kinetics,acute-illness,curated,27520452,2016,1
+severe-sepsis-incidence-finland,038-per-1000-adult-population,ASSOCIATION,0.5,MEDIUM,Incidence of severe sepsis in Finland ICUs,finland,curated,17225161,2007,1
+solid-cancer,similar-outcomes-to-non-cancer-icu-patients,BENEFICIAL,0.5,MEDIUM,Solid cancer patients had similar outcomes to non-cancer ICU patients (27% mortality),cancer-patients|ICU-admission,curated,19200368,2009,1
+trophic-enteral-nutrition-initial-6d,similar-ventilator-free-days,NULL,0.5,MEDIUM,Median 23 VFDs (p=0.90),acute-respiratory-failure|mechanical-ventilation,curated,21242788,2011,1
+high-flow-nasal-cannula-oxygen-hfnc,maintained-oxygenation-during-intubation,NULL,0.44,HIGH,"Median lowest SpO2: 91.5% HFNC vs 89.5% HFFM, p=0.44",perioperative-hypoxemia,curated,25869405,2015,1
+critical-illness-covid-19,acute-cardiac-injury,ASSOCIATION,0.43,HIGH,43.1% acute cardiac injury incidence,COVID-19|critical-illness,curated,32631393,2020,1
+non-invasive-ventilation-niv,improved-outcome,BENEFICIAL,0.35,MEDIUM,Improved in only 1/29 studies,postoperative,curated,21424246,2011,1
+covid-19-critical-illness,cardiac-injury,ASSOCIATION,0.27,HIGH,27.0% of COVID-19 ICU patients developed cardiac injury,critically-ill-COVID-19,curated,32410714,2020,1
+covid-19-critical-illness,acute-kidney-injury,ASSOCIATION,0.25,HIGH,25.2% of COVID-19 ICU patients developed acute kidney injury,critically-ill-COVID-19,curated,32410714,2020,1
+covid-19-critical-illness,septic-shock,ASSOCIATION,0.15,HIGH,15.0% of COVID-19 ICU patients developed septic shock,critically-ill-COVID-19,curated,32410714,2020,1

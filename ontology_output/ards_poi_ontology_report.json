@@ -1,0 +1,85 @@
+{
+  "generated_at": "2026-03-12T16:56:37.355741",
+  "version": "poi_ontology_agent v1.0",
+  "inputs": {
+    "curated_records": 416,
+    "guidelines": 37
+  },
+  "classes": {
+    "total": 1839,
+    "with_definition": 258,
+    "with_xref_MESH": 649,
+    "with_xref_UMLS": 646,
+    "orphan_nodes": 642,
+    "orphan_examples": [
+      "extracorporeal-lung-assist-for-ards",
+      "48-hr-neuromuscular-blocking-agents-nmba-infusion",
+      "glutamine-supplementation",
+      "quality-of-life-assessment-in-ards-survivors",
+      "hospital-length-of-stay",
+      "autopsy-population",
+      "apnoeic-oxygenation-hfnc",
+      "increasing-peep-to-reduce-alveolar-openingclosing-in-ards",
+      "severe-hypoxemia",
+      "superior-vena-caval-collapsibility-measurement"
+    ],
+    "subset_distribution": {
+      "POI_mechanism": 466,
+      "POI_intervention": 490,
+      "POI_outcome": 624,
+      "POI_context": 150,
+      "POI_disease": 40,
+      "POI_population": 65,
+      "POI_epidemiology": 1,
+      "POI_risk_factor": 2,
+      "POI_prediction": 1
+    }
+  },
+  "edges": {
+    "total": 912,
+    "by_type": {
+      "BENEFICIAL": 365,
+      "MECHANISM-BENEFICIAL": 143,
+      "MECHANISM-HARMFUL": 96,
+      "HARMFUL": 96,
+      "NULL": 91,
+      "TREND": 19,
+      "UNKNOWN": 1,
+      "DIAGNOSTIC": 2,
+      "PAIRED_WITH": 1,
+      "POSITIVELY_ASSOCIATED_WITH": 2,
+      "NEGATIVELY_ASSOCIATED_WITH": 1,
+      "DECREASES": 4,
+      "TREND-BENEFICIAL": 1,
+      "ASSOCIATION": 90
+    },
+    "by_source": {
+      "curated": 912
+    },
+    "multi_source": 3,
+    "weight_high_085plus": 162,
+    "weight_med_065_085": 557,
+    "weight_low_under_065": 193
+  },
+  "dangling_edge_nodes": {
+    "count": 16,
+    "examples": [
+      "avoid-routine-neuromuscular-blockade-status-asthmaticus",
+      "reduced-severe-postoperative-ppcs-7d",
+      "neuromuscular-blockade-early-ards-pao2-fio2-less-than-150",
+      "early-mobilisation",
+      "niv-failure",
+      "atypical-antipsychotics",
+      "persistent-lv-systolic-dysfunction",
+      "noninvasive-ventilation-copd",
+      "delirium-incidence",
+      "trial-neuromuscular-blockade-life-threatening-hypoxemia-acidosis-hemodynamics"
+    ],
+    "note": "Nodes referenced in edges but not in class registry — add to kg_nodes or accept as external references"
+  },
+  "quality_flags": {
+    "classes_missing_definition": 1581,
+    "classes_missing_parent": 1418,
+    "edges_weight_below_05": 6
+  }
+}
