@@ -1,0 +1,71 @@
+{
+  "study": {
+    "pmid": "38038395",
+    "journal": "",
+    "year": 0,
+    "study_type": "",
+    "setting": "perioperative",
+    "NCT": ""
+  },
+  "clinical_question": {
+    "condition": "ARDS",
+    "intent": "prevention",
+    "timepoint": "perioperative"
+  },
+  "population_context": {
+    "population_description": "",
+    "risk_group": "",
+    "surgical_context": "",
+    "exclusions": "",
+    "_sample_size": 0
+  },
+  "intervention": {
+    "name": "",
+    "components": [],
+    "parameter_values": "",
+    "individualized": false,
+    "timing": ""
+  },
+  "comparator": {
+    "description": "",
+    "standard_of_care_flag": true
+  },
+  "outcome_effect": {
+    "outcome_name": "",
+    "direction": "",
+    "effect_measure": "",
+    "effect_size": 0.0,
+    "ci_lower": 0.0,
+    "ci_upper": 0.0,
+    "p_value": "NR",
+    "time_horizon": ""
+  },
+  "evidence_appraisal": {
+    "strengths": [],
+    "limitations": [
+      "[API ERROR: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'm]"
+    ],
+    "adverse_events": [],
+    "quality_score": 0.0
+  },
+  "applicability": {
+    "generalizability_notes": "",
+    "subgroup_effects": ""
+  },
+  "provenance": {
+    "pmid": "38038395",
+    "quoted_sentences": {
+      "design": "",
+      "intervention": "",
+      "results": "",
+      "outcome": ""
+    },
+    "section": ""
+  },
+  "extraction_method": "pubmed-abstract",
+  "curator_id": "auto-extract",
+  "extraction_date": "2026-03-02T18:16:16.704427",
+  "_paper_number": 12,
+  "_raw_text": "1. JAMA. 2023 Dec 26;330(24):2343-2353. doi: 10.1001/jama.2023.24491.\n\nProne Positioning During Extracorporeal Membrane Oxygenation in Patients With \nSevere ARDS: The PRONECMO Randomized Clinical Trial.\n\nSchmidt M(1)(2)(3), Hajage D(4), Lebreton G(1)(5), Dres M(3)(6), Guervilly C(7), \nRichard JC(8), Sonneville R(9), Winiszewski H(10), Muller G(11), Beduneau G(12), \nMercier E(13), Roze H(14), Lesouhaitier M(15), Terzi N(16), Thille AW(17), \nLaurent I(4), Kimmoun A(18), Combes A(1)(2)(3); PRONECMO Investigators, the REVA \nNetwork, and the International ECMO Network (ECMONet).\n\nCollaborators: Luyt CE, Hekimian G, Brechot N, Chommeloux J, Pineton de Chambrun \nM, Saura O, Levy D, Lefevre L, Assouline B, Bahroum P, Gautier M, Leprince P, \nJuvin C, Demondion P, Bergue E, Danial P, Al-Kabani H, Bounader K, Schoell T, \nD'Allesandro C, Bureau C, Le Marec J, Mayaux J, Decavèle M, Demoule A, Deleris \nR, Nemlaghi S, Lecronier M, Capellier G, Piton G, Belon F, Vieille T, Lafay V, \nManfait C, Tapponnier R, Belin N, Gacouin A, Tadié JM, Papazian L, Hraiech S, \nForel JM, Roch A, Adda M, Daviet F, Gragueb-Chatti I, Textoris L, Timsit JF, \nBouadma L, de Montmollin E, Lamara F, Deiler V, Para M, Nataf P, Zmihi S, Wicky \nPH, Patrier J, Jaquet P, Levy B, Perez P, Thivilier C, Mattei M, Haddadi C, \nKozutski M, Maureira P, Yonis H, Mezidi M, Chauvelot L, Danjou W, Dhelft F, \nBitker L, Bettinger C, Bernon P, Jolly G, Carpentier D, Nay MA, Boulain T, Kamel \nT, Barbier F, Bretagnol A, Mathonnet A, Desgrouas M, Skarzynski M, Repusseau B, \nSigaud F, Rigault G, Galerneau LM, Schwebel C, Candille C, Dartevel A, Bougnaud \nJ, Turbil E, Ehrmann S, Garot D, Salmon C, Le Pape S, Arrivé F.\n\nAuthor information:\n(1)Sorbonne Université, INSERM, UMRS_1166-ICAN, Institute of Cardiometabolism \nand Nutrition, Paris, France.\n(2)Assistance Publique-Hôpitaux de Paris, Service de Médecine \nIntensive-Réanimation, Institut de Cardiologie, Hôpital Pitié-Salpêtrière, \nParis, France.\n(3)GRC 30 RESPIRE, Sorbonne Université, Paris, France.\n(4)Sorbonne Université, INSERM, Institut Pierre Louis d'Epidémiologie et de \nSanté Publique, Assistance Publique-Hôpitaux de Paris, Hôpitaux Universitaires \nPitié Salpêtrière-Charles Foix, Département de Santé Publique, Centre de \nPharmacoépidémiologie (Cephepi), CIC-1421, Paris, France.\n(5)Assistance Publique-Hôpitaux de Paris, Thoracic and Cardiovascular \nDepartment, Hôpital Pitié-Salpêtrière, Paris France.\n(6)Assistance Publique-Hôpitaux de Paris, Groupe Hospitalier Universitaire \nAPHP-Sorbonne Université, Site Pitié-Salpêtrière, Service de Médecine Intensive \net Réanimation (Département R3S), et Sorbonne Université, INSERM, UMRS-1158 \nNeurophysiologie Respiratoire Expérimentale et Clinique, Paris, France.\n(7)Médecine Intensive Réanimation, Hôpital Nord, AP-HM, Centre d'Etudes et de \nRecherches sur les Services de Santé et Qualité de Vie EA 3279, Marseille, \nFrance.\n(8)Médecine Intensive Réanimation, Hospices Civils de Lyon, Hôpital de la Croix \nRousse, Lyon, Fr",
+  "_title": ""
+}

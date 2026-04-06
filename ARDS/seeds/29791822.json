@@ -1,0 +1,71 @@
+{
+  "study": {
+    "pmid": "29791822",
+    "journal": "",
+    "year": 0,
+    "study_type": "",
+    "setting": "perioperative",
+    "NCT": ""
+  },
+  "clinical_question": {
+    "condition": "ARDS",
+    "intent": "prevention",
+    "timepoint": "perioperative"
+  },
+  "population_context": {
+    "population_description": "",
+    "risk_group": "",
+    "surgical_context": "",
+    "exclusions": "",
+    "_sample_size": 0
+  },
+  "intervention": {
+    "name": "",
+    "components": [],
+    "parameter_values": "",
+    "individualized": false,
+    "timing": ""
+  },
+  "comparator": {
+    "description": "",
+    "standard_of_care_flag": true
+  },
+  "outcome_effect": {
+    "outcome_name": "",
+    "direction": "",
+    "effect_measure": "",
+    "effect_size": 0.0,
+    "ci_lower": 0.0,
+    "ci_upper": 0.0,
+    "p_value": "NR",
+    "time_horizon": ""
+  },
+  "evidence_appraisal": {
+    "strengths": [],
+    "limitations": [
+      "[API ERROR: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'm]"
+    ],
+    "adverse_events": [],
+    "quality_score": 0.0
+  },
+  "applicability": {
+    "generalizability_notes": "",
+    "subgroup_effects": ""
+  },
+  "provenance": {
+    "pmid": "29791822",
+    "quoted_sentences": {
+      "design": "",
+      "intervention": "",
+      "results": "",
+      "outcome": ""
+    },
+    "section": ""
+  },
+  "extraction_method": "pubmed-abstract",
+  "curator_id": "auto-extract",
+  "extraction_date": "2026-03-02T18:16:07.122842",
+  "_paper_number": 4,
+  "_raw_text": "1. N Engl J Med. 2018 May 24;378(21):1965-1975. doi: 10.1056/NEJMoa1800385.\n\nExtracorporeal Membrane Oxygenation for Severe Acute Respiratory Distress \nSyndrome.\n\nCombes A(1), Hajage D(1), Capellier G(1), Demoule A(1), Lavoué S(1), Guervilly \nC(1), Da Silva D(1), Zafrani L(1), Tirot P(1), Veber B(1), Maury E(1), Levy \nB(1), Cohen Y(1), Richard C(1), Kalfon P(1), Bouadma L(1), Mehdaoui H(1), \nBeduneau G(1), Lebreton G(1), Brochard L(1), Ferguson ND(1), Fan E(1), Slutsky \nAS(1), Brodie D(1), Mercat A(1); EOLIA Trial Group, REVA, and ECMONet.\n\nCollaborators: Annane D, Megarbane B, Dessap A, Chiche JD, Aissaoui N, Le Tulzo \nY, Ricard JD, Vieillard-Baron A, Duranteau J, Jochmans S, Foucrier A, Mentec H, \nLacave G, Ekpe K, Bornstain C, Fieux F, Alves M, Marque S, Chemouni F, Rigaud \nJP, Bousta M, Zogheib E, Pellegrino V, Herr D, Bacchetta M, Bréchot N, Chastre \nJ, Hékimian G, Leprince P, D’Alessandro C, Luyt C, Nieszkowska A, Schmidt M, \nTrouillet JL, Fayssoil A, Maxime V, Lemiale V, Azoulay E, Deye N, Carteaux G, \nBelon F, Winiszewski H, Belin N, Charpentier J, Diehl JL, Commereuc M, Baudel \nJL, Ait Oufella H, Bigé N, Guidet B, Carpentier D, Doguet F, Gacouin A, Callahan \nJC, Landais M, Chudeau N, Le Moal C, Grelon F, Pierrot M, Papazian L, Roch A, \nForel JM, Hraiech S, Adda M, Rambaud R, Coiffard B, Gaudry S, Messika J, Roux D, \nDreyfuss D, Osman D, Anguel N, Guitard PG, Gouin P, Lamacz A, Lherm T, Gontier \nO, Ouchenir A, Audibert J, Conia A, Ben Salah A, Hamrouni M, Dres M, Mayaux J, \nMorawiec E, Prodanovic H, Repesse X, Timsit JF, Sonneville R, Mourvillier B, \nNeuville M, Wolff M, Harrois A, Sy O, Alphonsine JE, Ellrodt O, Preda G, \nFerreira L, Lainé L, De Montmollin E, Verdière B, Mémain N, Paugam-Burtz C, \nMantz J, Bout H, Thirion M, Hilly-ginoux J, Oziel J, Stoclin A, Blot F, Borstain \nC, Outin H, Cronier P, Gazaigne L, Garçon P, Declercq PL, Frenoy E, Schnell G, \nPerdue Legendre E, Novy E, Auchet T, Tahon E, Resiere D, Sabia M, Roques F, \nDupont H, Roger PA, Cooper J, Board J, Vallance S, Boswell K, Tabatabai A, \nSonett J, Agerstrand C, Abrams D, Keshavjee S, Cypel M.\n\nAuthor information:\n(1)From Sorbonne Université INSERM Unité Mixte de Recherche (UMRS) 1166, \nInstitute of Cardiometabolism and Nutrition (A.C., G.L.), Service de Médecine \nIntensive-Réanimation, Institut de Cardiologie, Assistance Publique-Hôpitaux de \nParis (APHP) Hôpital Pitié-Salpêtrière (A.C.), Département de Biostatistiques, \nSanté Publique et Information Médicale, Centre de Pharmacoépidémiologie, APHP \nHôpital Pitié-Salpêtrière (D.H.), Sorbonne Université, Unité de Recherche \nClinique Pitié-Salpêtrière (D.H.), Sorbonne Université INSERM UMRS 1158 (A.D.), \nService de Médecine Intensive-Réanimation et Pneumologie, APHP Hôpital \nPitié-Salpêtrière (A.D.), Service de Médecine Intensive et Réanimation, Centre \nHospitalier Universitaire (CHU) Saint Louis (L.Z.), Service de Médecine \nIntensive et Réanimation, CHU Saint Antoine (E.M.), Service de Médecine \nIntensive et Réanimation,",
+  "_title": ""
+}

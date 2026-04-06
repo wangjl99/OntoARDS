@@ -1,0 +1,3 @@
+source_trial,pmid,year,domain,from_node,to_node,edge_type,confidence,weight,label
+PMID_31157366,31157366,2019,Ventilation,intervention-pmid-31157366,primary-outcome,NULL,LOW,0.3,[Requires manual review]
+PMID_33016981,33016981,2022,Ventilation,intervention-pmid-33016981,primary-outcome,NULL,LOW,0.3,[Requires manual review]

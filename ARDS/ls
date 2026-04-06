@@ -1,0 +1,10 @@
+# POI-KB Pipeline Environment Variables
+# Copy this file to .env and fill in your values.
+
+# Anthropic API key — required for AI-powered extraction
+# Get one free at: https://console.anthropic.com
+ANTHROPIC_API_KEY=sk-ant-...
+
+# Optional: NCBI API key raises PubMed rate limit from 3 → 10 req/sec
+# Get one free at: https://www.ncbi.nlm.nih.gov/account/
+PUBMED_API_KEY=

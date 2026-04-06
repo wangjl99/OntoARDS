@@ -1,0 +1,71 @@
+{
+  "study": {
+    "pmid": "38065200",
+    "journal": "",
+    "year": 0,
+    "study_type": "",
+    "setting": "perioperative",
+    "NCT": ""
+  },
+  "clinical_question": {
+    "condition": "ARDS",
+    "intent": "prevention",
+    "timepoint": "perioperative"
+  },
+  "population_context": {
+    "population_description": "",
+    "risk_group": "",
+    "surgical_context": "",
+    "exclusions": "",
+    "_sample_size": 0
+  },
+  "intervention": {
+    "name": "",
+    "components": [],
+    "parameter_values": "",
+    "individualized": false,
+    "timing": ""
+  },
+  "comparator": {
+    "description": "",
+    "standard_of_care_flag": true
+  },
+  "outcome_effect": {
+    "outcome_name": "",
+    "direction": "",
+    "effect_measure": "",
+    "effect_size": 0.0,
+    "ci_lower": 0.0,
+    "ci_upper": 0.0,
+    "p_value": "NR",
+    "time_horizon": ""
+  },
+  "evidence_appraisal": {
+    "strengths": [],
+    "limitations": [
+      "[API ERROR: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'm]"
+    ],
+    "adverse_events": [],
+    "quality_score": 0.0
+  },
+  "applicability": {
+    "generalizability_notes": "",
+    "subgroup_effects": ""
+  },
+  "provenance": {
+    "pmid": "38065200",
+    "quoted_sentences": {
+      "design": "",
+      "intervention": "",
+      "results": "",
+      "outcome": ""
+    },
+    "section": ""
+  },
+  "extraction_method": "pubmed-abstract",
+  "curator_id": "auto-extract",
+  "extraction_date": "2026-03-02T18:16:18.084863",
+  "_paper_number": 13,
+  "_raw_text": "1. Lancet Respir Med. 2024 Mar;12(3):195-206. doi: 10.1016/S2213-2600(23)00346-6.\n Epub 2023 Dec 5.\n\nIndividualised, perioperative open-lung ventilation strategy during one-lung \nventilation (iPROVE-OLV): a multicentre, randomised, controlled clinical trial.\n\nFerrando C(1), Carramiñana A(2), Piñeiro P(3), Mirabella L(4), Spadaro S(5), \nLibrero J(6), Ramasco F(7), Scaramuzzo G(5), Cervantes O(8), Garutti I(3), \nParera A(9), Argilaga M(9), Herranz G(9), Unzueta C(9), Vives M(10), Regi K(10), \nCosta-Reverte M(11), Sonsoles Leal M(12), Nieves-Alonso J(7), García E(7), \nRodríguez-Pérez A(13), Fariña R(13), Cabrera S(13), Guerra E(13), \nGallego-Ligorit L(14), Herrero-Izquierdo A(14), Vallés-Torres J(14), Ramos S(3), \nLópez-Herrera D(15), De La Matta M(15), Gokhan S(16), Kucur E(17), Mugarra \nA(18), Soro M(18), García L(18), Sastre JA(19), Aguirre P(20), Salazar CJ(21), \nRamos MC(21), Morocho DR(22), Trespalacios R(23), Ezequiel-Fernández F(23), \nLamanna A(4), Pia Cantatore L(4), Laforgia D(4), Bellas S(24), López C(25), \nNavarro-Ripoll R(2), Martínez S(3), Vallverdú J(2), Jacas A(2), Yepes-Temiño \nMJ(26), Belda FJ(18), Tusman G(27), Suárez-Sipmann F(28), Villar J(29); \niPROVE-OLV Research Network Group.\n\nCollaborators: Spadaro S, Scaramuzzo G, Cervantes O, Parera A, Argilaga M, \nHerranz G, Unzueta C, Vives M, Regi K, Costa-Reverte M, Leal MS, Ramasco F, \nNieves-Alonso J, García E, Suárez-Sipmann F, Rodríguez-Pérez A, Fariña R, \nCabrera S, Guerra E, Gallego-Ligorit L, Herrero-Izquierdo A, Vallés-Torres J, \nPiñeiro P, Garutti I, Ramos S, López-Herrera D, De La Matta M, Gokhan S, Kucur \nE, Mugarra A, Belda FJ, Soro M, García L, Sastre JA, Aguirre P, Jimena-Salazar \nC, Ramos MC, Trespalacios R, Ezequiel-Fernández F, Mirabella L, Lamanna A, \nCantatore LP, Laforogia D, Bellas S, López C, Carramiñana A, Navarro-Ripoll R, \nMartínez S, Vallverdú J, Jacas A, Ferrando C, Yepes-Temiño MJ, Librero J, Tusman \nG, Villar J, Martinez S, Azparren G, Bausili M, Torres S, Díaz M, Ricart A, \nGascó I, Parramon F, Sanz-Iturbe M, García-Ballester S, Méndez-Arias E, Cabadas \nR, Grosso L, Becerra Á, Hussein Z, Sanjuán-Villarreal TA, Puértolas M, \nIzquierdo-Villarroya B, Almajano R, Romero B, Colomina L, Quesada N, Latorre JA, \nFranco JA, Laval A, García-Tirado J, Embún R, Bueno C, Jarén P, Martínez-Serrano \nR, García-Latasa B, Baquedano S, Motilva B, Hernando B, Herrero M, \nOliver-Forniés P, Recuero JL, Carbó-Espinosa F, Lucas A, Muñoz-González N, \nLafuente N, Acosta-Martínez J, Ragazzi R, Volta CA, Maniscalco P, Arribas MP, de \nCelis MI, Pascual MJ, Martínez P, Martínez O, Repáraz JR, Domínguez D, Fernández \nM, Sánchez V, Pérez-Lozana B, Martín E, Fernández D, González A, Pico J, \nEl-Hefny DA, Armengol L, Comino Ó, Rovira I, Arguis MJ, Matute P, Carretero MJ, \nIbáñez C, Perdomo J, Ruiz C, González N, González M, Bolado A, Trabanco S, Largo \nÁ, Maestro A, Pascual Á, Reyes AI, Bartolomé MJ, Williams MM, Del Olmo P, \nCimadevilla B, Pardo S, Sancho L, Lascorz L, Carbonell JA, Hurt",
+  "_title": ""
+}

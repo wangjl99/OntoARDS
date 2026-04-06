@@ -1,0 +1,71 @@
+{
+  "study": {
+    "pmid": "31613432",
+    "journal": "",
+    "year": 0,
+    "study_type": "",
+    "setting": "perioperative",
+    "NCT": ""
+  },
+  "clinical_question": {
+    "condition": "ARDS",
+    "intent": "prevention",
+    "timepoint": "perioperative"
+  },
+  "population_context": {
+    "population_description": "",
+    "risk_group": "",
+    "surgical_context": "",
+    "exclusions": "",
+    "_sample_size": 0
+  },
+  "intervention": {
+    "name": "",
+    "components": [],
+    "parameter_values": "",
+    "individualized": false,
+    "timing": ""
+  },
+  "comparator": {
+    "description": "",
+    "standard_of_care_flag": true
+  },
+  "outcome_effect": {
+    "outcome_name": "",
+    "direction": "",
+    "effect_measure": "",
+    "effect_size": 0.0,
+    "ci_lower": 0.0,
+    "ci_upper": 0.0,
+    "p_value": "NR",
+    "time_horizon": ""
+  },
+  "evidence_appraisal": {
+    "strengths": [],
+    "limitations": [
+      "[API ERROR: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'm]"
+    ],
+    "adverse_events": [],
+    "quality_score": 0.0
+  },
+  "applicability": {
+    "generalizability_notes": "",
+    "subgroup_effects": ""
+  },
+  "provenance": {
+    "pmid": "31613432",
+    "quoted_sentences": {
+      "design": "",
+      "intervention": "",
+      "results": "",
+      "outcome": ""
+    },
+    "section": ""
+  },
+  "extraction_method": "pubmed-abstract",
+  "curator_id": "auto-extract",
+  "extraction_date": "2026-03-02T18:16:09.851343",
+  "_paper_number": 7,
+  "_raw_text": "1. N Engl J Med. 2020 Mar 12;382(11):989-998. doi: 10.1056/NEJMoa1903297. Epub\n2019  Oct 14.\n\nConservative Oxygen Therapy during Mechanical Ventilation in the ICU.\n\nICU-ROX Investigators and the Australian and New Zealand Intensive Care Society \nClinical Trials Group; Mackle D(1), Bellomo R(1), Bailey M(1), Beasley R(1), \nDeane A(1), Eastwood G(1), Finfer S(1), Freebairn R(1), King V(1), Linke N(1), \nLitton E(1), McArthur C(1), McGuinness S(1), Panwar R(1), Young P(1); ICU-ROX \nInvestigators the Australian and New Zealand Intensive Care Society Clinical \nTrials Group.\n\nCollaborators: Mackle D, Bellomo R, Bailey M, Beasley R, Deane A, Eastwood G, \nFinfer S, Freebairn R, King V, Linke N, Litton E, McArthur C, McGuinness S, \nPanwar R, Young P, Baker T, Hurford S, La Pine M, McInnes C, Navarra L, \nPritchard A, Sol Cruz R, Turner A, Broadley T, Lee D, Reid L, Murray L, \nBlakemore A, Butler M, Cowdrey KA, Gilder E, Hallion J, Long S, Neal P, Parke R, \nWallace S, Chen Y, McConnochie R, Newby L, Simmonds C, Bowie D, Burke B, Closey \nD, Crombie R, Davidson N, Greer A, Henderson S, Hitchings L, Knight D, Mehrtens \nJ, Miller K, Minto E, Morgan S, Morris A, Parker K, Ritzema-Carter J, Roberts J, \nSahl C, Shaw G, Townend K, Chalmers D, Park M, Park P, Rolls C, Chapman C, \nStapleton A, Aguila J, Dias A, Kazemi A, Lai V, Song R, Williams T, Caniba S, \nCarpenter M, Dagooc R, Hacking D, Lawrey Y, Buehner U, Williams E, Albrett J, \nJackson C, Marko P, Barry B, Beehre N, Dinsdale D, Edney S, Fitzjohn F, Hicks P, \nHill G, Hunt A, Judd H, Latimer-Bell C, Lawrence C, Lesona E, McKay-Vucago A, \nPoynter C, Psirides A, Robertson Y, Smellie H, Sturland S, Ure B, Board J, \nBurrell A, Byrne T, Dean E, Martin E, Mason C, McCracken P, Richardson S, \nVallance S, Young M, Peck L, Young H, Eroglu E, Palermo A, Pellicano S, Bihari \nS, Jin X, Laver R, Matheson E, Schwartz K, Shrestha T, Beckingham T, Soar N, \nBhatia D, Bulfin L, Crozier T, Eliott S, Lavrans K, Luong J, Maduri V, Patterson \nM, Peppin C, Shehabi Y, Wang A, Kurenda C, Peake S, Robaa N, Williams P, Badek \nL, Bart S, Chapman M, Davies M, Doherty S, Glasby K, Gluck S, Grieve R, Karr P, \nMcIntyre J, O'Connor S, Poole A, Raith E, Reddi B, Rivett J, Sethi S, Yap J, Yeo \nN, Aliabdelhamind Y, Anstey J, Barge D, Byrne K, Emery P, Forrest P, Haile M, \nLussier S, Rechnitzer T, Wigmore G, Regli A, Barbazza L, Dixon B, Holmes J, \nSantamaria J, Smith R, Tobin A, Pettilä V, Kaukonen M, Lange T.\n\nAuthor information:\n(1)From the Medical Research Institute of New Zealand (D.M., R. Beasley, R.F., \nC.M., S.M., P.Y.) and the Intensive Care Unit, Wellington Hospital (P.Y.), \nWellington, the Intensive Care Unit, Hawkes Bay Hospital, Hastings (R.F.), and \nthe Department of Critical Care Medicine (C.M.) and the Cardiothoracic and \nVascular Intensive Care Unit (S.M.), Auckland City Hospital, Auckland - all in \nNew Zealand; the Australian and New Zealand Intensive Care Research Centre, \nMonash University, Melbourne, VIC (R. Bellomo, M.B., V.K.",
+  "_title": ""
+}

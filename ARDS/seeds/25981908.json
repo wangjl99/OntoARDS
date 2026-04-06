@@ -1,0 +1,71 @@
+{
+  "study": {
+    "pmid": "25981908",
+    "journal": "",
+    "year": 0,
+    "study_type": "",
+    "setting": "perioperative",
+    "NCT": ""
+  },
+  "clinical_question": {
+    "condition": "ARDS",
+    "intent": "prevention",
+    "timepoint": "perioperative"
+  },
+  "population_context": {
+    "population_description": "",
+    "risk_group": "",
+    "surgical_context": "",
+    "exclusions": "",
+    "_sample_size": 0
+  },
+  "intervention": {
+    "name": "",
+    "components": [],
+    "parameter_values": "",
+    "individualized": false,
+    "timing": ""
+  },
+  "comparator": {
+    "description": "",
+    "standard_of_care_flag": true
+  },
+  "outcome_effect": {
+    "outcome_name": "",
+    "direction": "",
+    "effect_measure": "",
+    "effect_size": 0.0,
+    "ci_lower": 0.0,
+    "ci_upper": 0.0,
+    "p_value": "NR",
+    "time_horizon": ""
+  },
+  "evidence_appraisal": {
+    "strengths": [],
+    "limitations": [
+      "[API ERROR: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'm]"
+    ],
+    "adverse_events": [],
+    "quality_score": 0.0
+  },
+  "applicability": {
+    "generalizability_notes": "",
+    "subgroup_effects": ""
+  },
+  "provenance": {
+    "pmid": "25981908",
+    "quoted_sentences": {
+      "design": "",
+      "intervention": "",
+      "results": "",
+      "outcome": ""
+    },
+    "section": ""
+  },
+  "extraction_method": "pubmed-abstract",
+  "curator_id": "auto-extract",
+  "extraction_date": "2026-03-02T18:16:04.363531",
+  "_paper_number": 1,
+  "_raw_text": "1. N Engl J Med. 2015 Jun 4;372(23):2185-96. doi: 10.1056/NEJMoa1503326. Epub\n2015  May 17.\n\nHigh-flow oxygen through nasal cannula in acute hypoxemic respiratory failure.\n\nFrat JP(1), Thille AW, Mercat A, Girault C, Ragot S, Perbet S, Prat G, Boulain \nT, Morawiec E, Cottereau A, Devaquet J, Nseir S, Razazi K, Mira JP, Argaud L, \nChakarian JC, Ricard JD, Wittebole X, Chevalier S, Herbland A, Fartoukh M, \nConstantin JM, Tonnelier JM, Pierrot M, Mathonnet A, Béduneau G, \nDelétage-Métreau C, Richard JC, Brochard L, Robert R; FLORALI Study Group; REVA \nNetwork.\n\nCollaborators: Chatellier D, Coudroy R, Thibault S, Morand D, Renault A, Bizien \nN, Asfar P, Kouatchet A, Benzekri D, Bretagnol A, Carpentier D, Tamion F, \nDemoule A, Duguet A, Reignier J, Lascarrou JB, Soummer A, Lanceleur A, Voisin B, \nJaillette E, Brun-Buisson C, Mekontso-Dessap A, Charpentier J, Gery G, Hernu R, \nCour M, Beuret P, Kaaki M, Montanes RM, Gaudry S, Fontaine L, Bialais E, Gouello \nJP, Lesieur O, Messika J, Conrad M, Guerin C, Marque S, Danin E.\n\nAuthor information:\n(1)The authors' affiliations are listed in the Appendix.\n\nComment in\n    N Engl J Med. 2015 Jun 4;372(23):2225-6. doi: 10.1056/NEJMe1504852.\n    Anaesthesist. 2015 Aug;64(8):623-4. doi: 10.1007/s00101-015-0056-0.\n    J Physiother. 2015 Oct;61(4):222. doi: 10.1016/j.jphys.2015.07.002.\n    J Physiother. 2015 Oct;61(4):222. doi: 10.1016/j.jphys.2015.07.004.\n    N Engl J Med. 2015 Oct;373(14):1374-5. doi: 10.1056/NEJMc1508390.\n    N Engl J Med. 2015 Oct;373(14):1373. doi: 10.1056/NEJMc1508390.\n    N Engl J Med. 2015 Oct;373(14):1373. doi: 10.1056/NEJMc1508390.\n    N Engl J Med. 2015 Oct;373(14):1374. doi: 10.1056/NEJMc1508390.\n    N Engl J Med. 2015 Oct;373(14):1374. doi: 10.1056/NEJMc1508390.\n    Ann Emerg Med. 2015 Nov;66(5):556-7. doi: 10.1016/j.annemergmed.2015.08.029.\n    Minerva Anestesiol. 2017 Feb;83(2):125-127. doi: \n10.23736/S0375-9393.16.11260-X.\n    Am J Respir Crit Care Med. 2016 Sep 1;194(5):631-3. doi: \n10.1164/rccm.201511-2214RR.\n\nBACKGROUND: Whether noninvasive ventilation should be administered in patients \nwith acute hypoxemic respiratory failure is debated. Therapy with high-flow \noxygen through a nasal cannula may offer an alternative in patients with \nhypoxemia.\nMETHODS: We performed a multicenter, open-label trial in which we randomly \nassigned patients without hypercapnia who had acute hypoxemic respiratory \nfailure and a ratio of the partial pressure of arterial oxygen to the fraction \nof inspired oxygen of 300 mm Hg or less to high-flow oxygen therapy, standard \noxygen therapy delivered through a face mask, or noninvasive positive-pressure \nventilation. The primary outcome was the proportion of patients intubated at day \n28; secondary outcomes included all-cause mortality in the intensive care unit \nand at 90 days and the number of ventilator-free days at day 28.\nRESULTS: A total of 310 patients were included in the analyses. The intubation \nrate (primary outcome) was 38% (40 of 106 patients) ",
+  "_title": ""
+}

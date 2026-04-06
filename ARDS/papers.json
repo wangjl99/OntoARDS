@@ -1,0 +1,86 @@
+[
+  {
+    "pmid": "31157366",
+    "trial_id": "PMID_31157366",
+    "year": 2019,
+    "journal": "",
+    "n": 0,
+    "domain": "Ventilation",
+    "result": "NULL",
+    "study_type": "RCT",
+    "population": "",
+    "severity": "",
+    "intervention": "",
+    "comparator": "",
+    "primary_outcome": "",
+    "effect": "",
+    "ci": "NR",
+    "p_value": "NR",
+    "es_num": 0.0,
+    "es_type": "ARD primary outcome",
+    "stopped_early": "No",
+    "mechanism_clarity": "PROPOSED",
+    "temporal_context": "",
+    "key_finding": "[Regex extraction only — review manually. PMID: 31157366]",
+    "hitl_flags": [
+      "[REGEX EXTRACTION — requires human review]",
+      "[AUTO-VALIDATION] Missing or empty: n",
+      "[AUTO-VALIDATION] Missing or empty: intervention",
+      "[AUTO-VALIDATION] Missing or empty: primary_outcome",
+      "[AUTO-VALIDATION] Missing or empty: effect",
+      "[AUTO-VALIDATION] Very small n=0 — verify sample size"
+    ],
+    "secondary_outcomes": [],
+    "edges": [
+      {
+        "from": "intervention-pmid-31157366",
+        "to": "primary-outcome",
+        "type": "NULL",
+        "confidence": "LOW",
+        "weight": 0.3,
+        "label": "[Requires manual review]"
+      }
+    ]
+  },
+  {
+    "pmid": "33016981",
+    "trial_id": "PMID_33016981",
+    "year": 2022,
+    "journal": "",
+    "n": 180,
+    "domain": "Ventilation",
+    "result": "HARMFUL",
+    "study_type": "RCT",
+    "population": "",
+    "severity": "",
+    "intervention": "",
+    "comparator": "",
+    "primary_outcome": "",
+    "effect": "",
+    "ci": "NR",
+    "p_value": "NR",
+    "es_num": 0.0,
+    "es_type": "ARD primary outcome",
+    "stopped_early": "No",
+    "mechanism_clarity": "PROPOSED",
+    "temporal_context": "",
+    "key_finding": "[Regex extraction only — review manually. PMID: 33016981]",
+    "hitl_flags": [
+      "[REGEX EXTRACTION — requires human review]",
+      "[AUTO-VALIDATION] Missing or empty: intervention",
+      "[AUTO-VALIDATION] Missing or empty: primary_outcome",
+      "[AUTO-VALIDATION] Missing or empty: effect"
+    ],
+    "secondary_outcomes": [],
+    "edges": [
+      {
+        "from": "intervention-pmid-33016981",
+        "to": "primary-outcome",
+        "type": "NULL",
+        "confidence": "LOW",
+        "weight": 0.3,
+        "label": "[Requires manual review]"
+      }
+    ]
+  }
+]

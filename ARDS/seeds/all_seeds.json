@@ -1,0 +1,925 @@
+[
+  {
+    "study": {
+      "pmid": "25981908",
+      "journal": "",
+      "year": 0,
+      "study_type": "",
+      "setting": "perioperative",
+      "NCT": ""
+    },
+    "clinical_question": {
+      "condition": "ARDS",
+      "intent": "prevention",
+      "timepoint": "perioperative"
+    },
+    "population_context": {
+      "population_description": "",
+      "risk_group": "",
+      "surgical_context": "",
+      "exclusions": "",
+      "_sample_size": 0
+    },
+    "intervention": {
+      "name": "",
+      "components": [],
+      "parameter_values": "",
+      "individualized": false,
+      "timing": ""
+    },
+    "comparator": {
+      "description": "",
+      "standard_of_care_flag": true
+    },
+    "outcome_effect": {
+      "outcome_name": "",
+      "direction": "",
+      "effect_measure": "",
+      "effect_size": 0.0,
+      "ci_lower": 0.0,
+      "ci_upper": 0.0,
+      "p_value": "NR",
+      "time_horizon": ""
+    },
+    "evidence_appraisal": {
+      "strengths": [],
+      "limitations": [
+        "[API ERROR: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'm]"
+      ],
+      "adverse_events": [],
+      "quality_score": 0.0
+    },
+    "applicability": {
+      "generalizability_notes": "",
+      "subgroup_effects": ""
+    },
+    "provenance": {
+      "pmid": "25981908",
+      "quoted_sentences": {
+        "design": "",
+        "intervention": "",
+        "results": "",
+        "outcome": ""
+      },
+      "section": ""
+    },
+    "extraction_method": "pubmed-abstract",
+    "curator_id": "auto-extract",
+    "extraction_date": "2026-03-02T18:16:04.363531",
+    "_paper_number": 1,
+    "_raw_text": "1. N Engl J Med. 2015 Jun 4;372(23):2185-96. doi: 10.1056/NEJMoa1503326. Epub\n2015  May 17.\n\nHigh-flow oxygen through nasal cannula in acute hypoxemic respiratory failure.\n\nFrat JP(1), Thille AW, Mercat A, Girault C, Ragot S, Perbet S, Prat G, Boulain \nT, Morawiec E, Cottereau A, Devaquet J, Nseir S, Razazi K, Mira JP, Argaud L, \nChakarian JC, Ricard JD, Wittebole X, Chevalier S, Herbland A, Fartoukh M, \nConstantin JM, Tonnelier JM, Pierrot M, Mathonnet A, Béduneau G, \nDelétage-Métreau C, Richard JC, Brochard L, Robert R; FLORALI Study Group; REVA \nNetwork.\n\nCollaborators: Chatellier D, Coudroy R, Thibault S, Morand D, Renault A, Bizien \nN, Asfar P, Kouatchet A, Benzekri D, Bretagnol A, Carpentier D, Tamion F, \nDemoule A, Duguet A, Reignier J, Lascarrou JB, Soummer A, Lanceleur A, Voisin B, \nJaillette E, Brun-Buisson C, Mekontso-Dessap A, Charpentier J, Gery G, Hernu R, \nCour M, Beuret P, Kaaki M, Montanes RM, Gaudry S, Fontaine L, Bialais E, Gouello \nJP, Lesieur O, Messika J, Conrad M, Guerin C, Marque S, Danin E.\n\nAuthor information:\n(1)The authors' affiliations are listed in the Appendix.\n\nComment in\n    N Engl J Med. 2015 Jun 4;372(23):2225-6. doi: 10.1056/NEJMe1504852.\n    Anaesthesist. 2015 Aug;64(8):623-4. doi: 10.1007/s00101-015-0056-0.\n    J Physiother. 2015 Oct;61(4):222. doi: 10.1016/j.jphys.2015.07.002.\n    J Physiother. 2015 Oct;61(4):222. doi: 10.1016/j.jphys.2015.07.004.\n    N Engl J Med. 2015 Oct;373(14):1374-5. doi: 10.1056/NEJMc1508390.\n    N Engl J Med. 2015 Oct;373(14):1373. doi: 10.1056/NEJMc1508390.\n    N Engl J Med. 2015 Oct;373(14):1373. doi: 10.1056/NEJMc1508390.\n    N Engl J Med. 2015 Oct;373(14):1374. doi: 10.1056/NEJMc1508390.\n    N Engl J Med. 2015 Oct;373(14):1374. doi: 10.1056/NEJMc1508390.\n    Ann Emerg Med. 2015 Nov;66(5):556-7. doi: 10.1016/j.annemergmed.2015.08.029.\n    Minerva Anestesiol. 2017 Feb;83(2):125-127. doi: \n10.23736/S0375-9393.16.11260-X.\n    Am J Respir Crit Care Med. 2016 Sep 1;194(5):631-3. doi: \n10.1164/rccm.201511-2214RR.\n\nBACKGROUND: Whether noninvasive ventilation should be administered in patients \nwith acute hypoxemic respiratory failure is debated. Therapy with high-flow \noxygen through a nasal cannula may offer an alternative in patients with \nhypoxemia.\nMETHODS: We performed a multicenter, open-label trial in which we randomly \nassigned patients without hypercapnia who had acute hypoxemic respiratory \nfailure and a ratio of the partial pressure of arterial oxygen to the fraction \nof inspired oxygen of 300 mm Hg or less to high-flow oxygen therapy, standard \noxygen therapy delivered through a face mask, or noninvasive positive-pressure \nventilation. The primary outcome was the proportion of patients intubated at day \n28; secondary outcomes included all-cause mortality in the intensive care unit \nand at 90 days and the number of ventilator-free days at day 28.\nRESULTS: A total of 310 patients were included in the analyses. The intubation \nrate (primary outcome) was 38% (40 of 106 patients) ",
+    "_title": ""
+  },
+  {
+    "study": {
+      "pmid": "28973363",
+      "journal": "",
+      "year": 0,
+      "study_type": "",
+      "setting": "perioperative",
+      "NCT": ""
+    },
+    "clinical_question": {
+      "condition": "ARDS",
+      "intent": "prevention",
+      "timepoint": "perioperative"
+    },
+    "population_context": {
+      "population_description": "",
+      "risk_group": "",
+      "surgical_context": "",
+      "exclusions": "",
+      "_sample_size": 0
+    },
+    "intervention": {
+      "name": "",
+      "components": [],
+      "parameter_values": "",
+      "individualized": false,
+      "timing": ""
+    },
+    "comparator": {
+      "description": "",
+      "standard_of_care_flag": true
+    },
+    "outcome_effect": {
+      "outcome_name": "",
+      "direction": "",
+      "effect_measure": "",
+      "effect_size": 0.0,
+      "ci_lower": 0.0,
+      "ci_upper": 0.0,
+      "p_value": "NR",
+      "time_horizon": ""
+    },
+    "evidence_appraisal": {
+      "strengths": [],
+      "limitations": [
+        "[API ERROR: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'm]"
+      ],
+      "adverse_events": [],
+      "quality_score": 0.0
+    },
+    "applicability": {
+      "generalizability_notes": "",
+      "subgroup_effects": ""
+    },
+    "provenance": {
+      "pmid": "28973363",
+      "quoted_sentences": {
+        "design": "",
+        "intervention": "",
+        "results": "",
+        "outcome": ""
+      },
+      "section": ""
+    },
+    "extraction_method": "pubmed-abstract",
+    "curator_id": "auto-extract",
+    "extraction_date": "2026-03-02T18:16:05.756108",
+    "_paper_number": 2,
+    "_raw_text": "1. JAMA. 2017 Oct 10;318(14):1335-1345. doi: 10.1001/jama.2017.14171.\n\nEffect of Lung Recruitment and Titrated Positive End-Expiratory Pressure (PEEP) \nvs Low PEEP on Mortality in Patients With Acute Respiratory Distress Syndrome: A \nRandomized Clinical Trial.\n\nWriting Group for the Alveolar Recruitment for Acute Respiratory Distress \nSyndrome Trial (ART) Investigators; Cavalcanti AB(1), Suzumura ÉA(1), Laranjeira \nLN(1), Paisani DM(1), Damiani LP(1), Guimarães HP(1), Romano ER(1), Regenga \nMM(1), Taniguchi LNT(1), Teixeira C(2), Pinheiro de Oliveira R(3), Machado \nFR(4), Diaz-Quijano FA(5), Filho MSA(6), Maia IS(7), Caser EB(8), Filho WO(9), \nBorges MC(10), Martins PA(11), Matsui M(12), Ospina-Tascón GA(13), Giancursi \nTS(14), Giraldo-Ramirez ND(15), Vieira SRR(16), Assef MDGPL(17), Hasan MS(18), \nSzczeklik W(19), Rios F(20), Amato MBP(21), Berwanger O(1), Ribeiro de Carvalho \nCR(21).\n\nCollaborators: Tucci MR, Souza dos Santos L, França de Oliveira MC, Peres I, \nFreitas I, Reis H, Veríssimo A, Torres D, Barroso A, Semboloni Bitencourt W, \nFranco MR, Oliveira Lage J, Aparecida Pessoa Conde K, Charro FA, Naia A, de \nBrito Sobrinho E, Lameira Veríssimo A, Barros de Oliveira ME, Zampieri F, \nLadeira JP, Cordioli R, Diogo Sala A, Tadahiro Ikeoka D, Baptista Filho MLA, Ray \nA, Guerra de Almeida A, Nazareno Conceição C, Ribeiro Salgado D, Rosso Verdeal \nJC, Martins GA, Semboloni Bitencourt W, Junqueira Ribeiro L, Vilela Siqueira H, \nFlávio Costa Filho F, Adler Maccagnan Pinheiro Besen B, Vieira do Nascimento \nMartins E, Aparecida Pereira J, Milioli Ferreira D, Alves Ferreira Gonçalves F, \nde Souza Nobrega M, Barros Duarte IJ, Nobre V, Miranda Barreto Mourão L, Gómez \nRavetti C, Scalzo AC, Martins De Stefano L, Gut AL, Nogueira Filho W, Gatti \nCirillo C, Ishiwaki Jr S, Lobo S, Elias de Oliveira N, Fernandes Machado L, \nSisconetto L, Rios Vieira SR, Fialkow L, Fontoura Prado K, Franke C, Barberena \nMoraes R, Christmann Wawrzeniak I, Rech TH, Parolo E, Almeida Victorino J, \nMarques Barroso C, Marçal de Vasconcelos MO, Souza da Silva R, Lesti Esteves AR, \nCamassola AP, Antoniazzi R, Griebler M, Favretto J, Romano M, Franz da Costa A, \nWerneck V, Miura MC, Farran J, de Vasconcelos R, Isola A, Resende E, Goulart R, \nLuzzi S, Réa-Neto A, de Oliveira MC, Bruinje Cosentino MF, Martins Dzivielevski \nB, Reese FB, Ferreira da Silva SD, Elias Aquim E, Girotto F, Helenditi Fernandes \nCamurça Martins R, Lima de Andrade A, de Oliveira Filho W, Breckenfeld Heirel \nDC, Ryoji Takatani R, Dias de Almeida S, Medina Matos A, Iwamoto T, do Val \nTavares PE, Valiatti JL, de Lucca FC, Fornazari JC, Dias Brugugnolli I, de \nAraújo Nazaré M, Nascimento Loureiro N, Vasconcelos de Sousa G, Staffa Gonzaga \nda Silva L, de Aquino Martins P, dos Anjos Sad FC, Stucchi EM, Melo Silva R, \nFonseca Silva T, Mendes Filho SP, Borba Pereira T, da Silva PN, Martines Moralez \nG, Abrantes Saraiva S, Abrunhosa A, Ranger C. Chagas CE, Thompson MM, Pinto \nGonçalves CH, de Oliveira Dias R, Schwan Filh",
+    "_title": ""
+  },
+  {
+    "study": {
+      "pmid": "29371130",
+      "journal": "",
+      "year": 0,
+      "study_type": "",
+      "setting": "perioperative",
+      "NCT": ""
+    },
+    "clinical_question": {
+      "condition": "ARDS",
+      "intent": "prevention",
+      "timepoint": "perioperative"
+    },
+    "population_context": {
+      "population_description": "",
+      "risk_group": "",
+      "surgical_context": "",
+      "exclusions": "",
+      "_sample_size": 0
+    },
+    "intervention": {
+      "name": "",
+      "components": [],
+      "parameter_values": "",
+      "individualized": false,
+      "timing": ""
+    },
+    "comparator": {
+      "description": "",
+      "standard_of_care_flag": true
+    },
+    "outcome_effect": {
+      "outcome_name": "",
+      "direction": "",
+      "effect_measure": "",
+      "effect_size": 0.0,
+      "ci_lower": 0.0,
+      "ci_upper": 0.0,
+      "p_value": "NR",
+      "time_horizon": ""
+    },
+    "evidence_appraisal": {
+      "strengths": [],
+      "limitations": [
+        "[API ERROR: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'm]"
+      ],
+      "adverse_events": [],
+      "quality_score": 0.0
+    },
+    "applicability": {
+      "generalizability_notes": "",
+      "subgroup_effects": ""
+    },
+    "provenance": {
+      "pmid": "29371130",
+      "quoted_sentences": {
+        "design": "",
+        "intervention": "",
+        "results": "",
+        "outcome": ""
+      },
+      "section": ""
+    },
+    "extraction_method": "pdf",
+    "curator_id": "auto-extract",
+    "extraction_date": "2026-03-02T18:16:02.122456",
+    "_paper_number": 3,
+    "_raw_text": "Articles\nIndividualised perioperative open-lung approach versus\nstandard protective ventilation in abdominal surgery\n(iPROVE): a randomised controlled trial\nCarlos Ferrando, Marina Soro, Carmen Unzueta, Fernando Suarez-Sipmann, Jaume Canet, Julián Librero, Natividad Pozo, Salvador Peiró,\nAlicia Llombart, Irene León, Inmaculada India, Cesar Aldecoa, Oscar Díaz-Cambronero, David Pestaña, Francisco J Redondo, Ignacio Garutti,\nJaume Balust, Jose I García, Maite Ibáñez, Manuel Granell, Aurelio Rodríguez, Lucía Gallego, Manuel de la Matta, Rafael Gonzalez, Andrea Brunelli,\nJavier García, Lucas Rovira, Francisco Barrios, Vicente Torres, Samuel Hernández, Estefanía Gracia, Marta Giné, María García, Nuria García,\nLisset Miguel, Sergio Sánchez, Patricia Piñeiro, Roger Pujol, Santiago García-del-Valle, José Valdivia, María J Hernández, Oto Padrón, Ana Colás,\nJaume Puig, Gonzalo Azparren, Gerardo Tusman, Jesús Villar, Javier Belda, on behalf of the Individualized PeRioperative Open-lung VEntilation\n(iPROVE) Network*\nSummary\nBackground The effects of individualised perioperative lung-protective ventilation (based on the open-lung approach Lancet Respir Med 2018;\n[OLA]) on postoperative complications is unknown. We aimed to investigate the effects of intraoperative and 6: 193–203\npostoperative ventilatory management in patients scheduled for abdominal surgery, compared with standard Published Online\nprotective ventilation. January 19, 2018\nhttp://dx.doi.org/10.1016/\nS2213-2600(18)30024-9\nMethods We did this prospective, multicentre, randomised controlled trial in 21 teaching hospitals in Spain. We\nSee Comment page 163\nenrolled patients who were aged 18 years or older, were scheduled to have abdominal surgery with an expected time\n*Additional investigators are\nof longer than 2 h, had intermediate-to-high-risk of developing postoperative pulmonary complications, and who listed in the appendix\nhad a body-mass index less than 35 kg/m². Patients were randomly assigned (1:1:1:1) online to receive one of four\nDepartment of Anesthesiology\nlung-protective ventilation strategies using low tidal volume plus positive end-expiratory pressure (PEEP): open-lung & Critical Care, Hospital Clínico\napproach (OLA)–iCPAP (individualised intraoperative ventilation [individualised PEEP after a lung recruitment Universitario, Valencia, Spain\n(C Ferrando PhD, M Soro PhD,\nmanoeuvre] plus individualised postoperative continuous positive airway pressure [CPAP]), OLA–CPAP\nI León PhD, E Gracia MD,\n(intraoperative individualised ventilation plus postoperative CPAP), STD–CPAP (standard intraoperative ventilation\nJ Puig PhD, J Belda PhD); CIBER\nplus postoperative CPAP), or STD–O (standard intraoperative ventilation plus standard postoperative oxygen de Enfermedades Respiratorias,\n2\ntherapy). Patients were masked to treatment allocation. Investigators were not masked in the operating and Instituto de Salud Carlos III,\nMadrid, Spain (C Ferrando,\npostoperative rooms; after 24 h, data were given ",
+    "_title": ""
+  },
+  {
+    "study": {
+      "pmid": "29791822",
+      "journal": "",
+      "year": 0,
+      "study_type": "",
+      "setting": "perioperative",
+      "NCT": ""
+    },
+    "clinical_question": {
+      "condition": "ARDS",
+      "intent": "prevention",
+      "timepoint": "perioperative"
+    },
+    "population_context": {
+      "population_description": "",
+      "risk_group": "",
+      "surgical_context": "",
+      "exclusions": "",
+      "_sample_size": 0
+    },
+    "intervention": {
+      "name": "",
+      "components": [],
+      "parameter_values": "",
+      "individualized": false,
+      "timing": ""
+    },
+    "comparator": {
+      "description": "",
+      "standard_of_care_flag": true
+    },
+    "outcome_effect": {
+      "outcome_name": "",
+      "direction": "",
+      "effect_measure": "",
+      "effect_size": 0.0,
+      "ci_lower": 0.0,
+      "ci_upper": 0.0,
+      "p_value": "NR",
+      "time_horizon": ""
+    },
+    "evidence_appraisal": {
+      "strengths": [],
+      "limitations": [
+        "[API ERROR: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'm]"
+      ],
+      "adverse_events": [],
+      "quality_score": 0.0
+    },
+    "applicability": {
+      "generalizability_notes": "",
+      "subgroup_effects": ""
+    },
+    "provenance": {
+      "pmid": "29791822",
+      "quoted_sentences": {
+        "design": "",
+        "intervention": "",
+        "results": "",
+        "outcome": ""
+      },
+      "section": ""
+    },
+    "extraction_method": "pubmed-abstract",
+    "curator_id": "auto-extract",
+    "extraction_date": "2026-03-02T18:16:07.122842",
+    "_paper_number": 4,
+    "_raw_text": "1. N Engl J Med. 2018 May 24;378(21):1965-1975. doi: 10.1056/NEJMoa1800385.\n\nExtracorporeal Membrane Oxygenation for Severe Acute Respiratory Distress \nSyndrome.\n\nCombes A(1), Hajage D(1), Capellier G(1), Demoule A(1), Lavoué S(1), Guervilly \nC(1), Da Silva D(1), Zafrani L(1), Tirot P(1), Veber B(1), Maury E(1), Levy \nB(1), Cohen Y(1), Richard C(1), Kalfon P(1), Bouadma L(1), Mehdaoui H(1), \nBeduneau G(1), Lebreton G(1), Brochard L(1), Ferguson ND(1), Fan E(1), Slutsky \nAS(1), Brodie D(1), Mercat A(1); EOLIA Trial Group, REVA, and ECMONet.\n\nCollaborators: Annane D, Megarbane B, Dessap A, Chiche JD, Aissaoui N, Le Tulzo \nY, Ricard JD, Vieillard-Baron A, Duranteau J, Jochmans S, Foucrier A, Mentec H, \nLacave G, Ekpe K, Bornstain C, Fieux F, Alves M, Marque S, Chemouni F, Rigaud \nJP, Bousta M, Zogheib E, Pellegrino V, Herr D, Bacchetta M, Bréchot N, Chastre \nJ, Hékimian G, Leprince P, D’Alessandro C, Luyt C, Nieszkowska A, Schmidt M, \nTrouillet JL, Fayssoil A, Maxime V, Lemiale V, Azoulay E, Deye N, Carteaux G, \nBelon F, Winiszewski H, Belin N, Charpentier J, Diehl JL, Commereuc M, Baudel \nJL, Ait Oufella H, Bigé N, Guidet B, Carpentier D, Doguet F, Gacouin A, Callahan \nJC, Landais M, Chudeau N, Le Moal C, Grelon F, Pierrot M, Papazian L, Roch A, \nForel JM, Hraiech S, Adda M, Rambaud R, Coiffard B, Gaudry S, Messika J, Roux D, \nDreyfuss D, Osman D, Anguel N, Guitard PG, Gouin P, Lamacz A, Lherm T, Gontier \nO, Ouchenir A, Audibert J, Conia A, Ben Salah A, Hamrouni M, Dres M, Mayaux J, \nMorawiec E, Prodanovic H, Repesse X, Timsit JF, Sonneville R, Mourvillier B, \nNeuville M, Wolff M, Harrois A, Sy O, Alphonsine JE, Ellrodt O, Preda G, \nFerreira L, Lainé L, De Montmollin E, Verdière B, Mémain N, Paugam-Burtz C, \nMantz J, Bout H, Thirion M, Hilly-ginoux J, Oziel J, Stoclin A, Blot F, Borstain \nC, Outin H, Cronier P, Gazaigne L, Garçon P, Declercq PL, Frenoy E, Schnell G, \nPerdue Legendre E, Novy E, Auchet T, Tahon E, Resiere D, Sabia M, Roques F, \nDupont H, Roger PA, Cooper J, Board J, Vallance S, Boswell K, Tabatabai A, \nSonett J, Agerstrand C, Abrams D, Keshavjee S, Cypel M.\n\nAuthor information:\n(1)From Sorbonne Université INSERM Unité Mixte de Recherche (UMRS) 1166, \nInstitute of Cardiometabolism and Nutrition (A.C., G.L.), Service de Médecine \nIntensive-Réanimation, Institut de Cardiologie, Assistance Publique-Hôpitaux de \nParis (APHP) Hôpital Pitié-Salpêtrière (A.C.), Département de Biostatistiques, \nSanté Publique et Information Médicale, Centre de Pharmacoépidémiologie, APHP \nHôpital Pitié-Salpêtrière (D.H.), Sorbonne Université, Unité de Recherche \nClinique Pitié-Salpêtrière (D.H.), Sorbonne Université INSERM UMRS 1158 (A.D.), \nService de Médecine Intensive-Réanimation et Pneumologie, APHP Hôpital \nPitié-Salpêtrière (A.D.), Service de Médecine Intensive et Réanimation, Centre \nHospitalier Universitaire (CHU) Saint Louis (L.Z.), Service de Médecine \nIntensive et Réanimation, CHU Saint Antoine (E.M.), Service de Médecine \nIntensive et Réanimation,",
+    "_title": ""
+  },
+  {
+    "study": {
+      "pmid": "31112383",
+      "journal": "",
+      "year": 0,
+      "study_type": "",
+      "setting": "perioperative",
+      "NCT": ""
+    },
+    "clinical_question": {
+      "condition": "ARDS",
+      "intent": "prevention",
+      "timepoint": "perioperative"
+    },
+    "population_context": {
+      "population_description": "",
+      "risk_group": "",
+      "surgical_context": "",
+      "exclusions": "",
+      "_sample_size": 0
+    },
+    "intervention": {
+      "name": "",
+      "components": [],
+      "parameter_values": "",
+      "individualized": false,
+      "timing": ""
+    },
+    "comparator": {
+      "description": "",
+      "standard_of_care_flag": true
+    },
+    "outcome_effect": {
+      "outcome_name": "",
+      "direction": "",
+      "effect_measure": "",
+      "effect_size": 0.0,
+      "ci_lower": 0.0,
+      "ci_upper": 0.0,
+      "p_value": "NR",
+      "time_horizon": ""
+    },
+    "evidence_appraisal": {
+      "strengths": [],
+      "limitations": [
+        "[API ERROR: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'm]"
+      ],
+      "adverse_events": [],
+      "quality_score": 0.0
+    },
+    "applicability": {
+      "generalizability_notes": "",
+      "subgroup_effects": ""
+    },
+    "provenance": {
+      "pmid": "31112383",
+      "quoted_sentences": {
+        "design": "",
+        "intervention": "",
+        "results": "",
+        "outcome": ""
+      },
+      "section": ""
+    },
+    "extraction_method": "pubmed-abstract",
+    "curator_id": "auto-extract",
+    "extraction_date": "2026-03-02T18:16:08.498276",
+    "_paper_number": 5,
+    "_raw_text": "1. N Engl J Med. 2019 May 23;380(21):1997-2008. doi: 10.1056/NEJMoa1901686. Epub \n2019 May 19.\n\nEarly Neuromuscular Blockade in the Acute Respiratory Distress Syndrome.\n\nNational Heart, Lung, and Blood Institute PETAL Clinical Trials Network; Moss \nM(1), Huang DT(1), Brower RG(1), Ferguson ND(1), Ginde AA(1), Gong MN(1), \nGrissom CK(1), Gundel S(1), Hayden D(1), Hite RD(1), Hou PC(1), Hough CL(1), \nIwashyna TJ(1), Khan A(1), Liu KD(1), Talmor D(1), Thompson BT(1), Ulysse CA(1), \nYealy DM(1), Angus DC(1).\n\nCollaborators: Steingrub JS, Tidswell M, Kozikowski L, De Souza L, Kardos C, Hou \nPC, Aisiku IP, Baron RM, Massaro AF, Seethala RR, Fredenburgh LE, Gandee ZA, \nIsraelyan A, Riker RR, Macleaod A, May T, Seder D, Van der Kloot TE, Hill NS, \nBacong V, Chweich H, Garpestad E, Schweish O, Talmor D, Shapiro N, \nBanner-Goodspeed V, Jinadasa S, Brenes Bastos A, Bajwa E, Filbin MR, Hibbert KA, \nHolland C, Brait K, Arsenault PA, Sigel P, Jones AE, Spurzem JR, Puskarich M, \nHope Cruise M, Kolb JJ, Patki D, Matthay MA, Liu KD, Calfee CS, Gotts JE, Daniel \nBM, Belzer A, Hendey GW, Chang SY, Qadir N, Garber B, Guo S, Lewis S, Sharif J, \nLevitt J, Rogers A, Vojnik R, Asuni AT, Albertson TE, Adams JY, Juarez M, \nMorrissey B, Pearson S, Almasri E, Blaauw JM, Hughes A, Sousa K, Ginde A, Moss \nM, Finck L, Higgins C, McKeehan J, Douglas IS, Haukoos J, Hiller T, Hopkins E, \nOaks JL, Overdier K, Schmidt M, Van Pelt DC, Tashkin JS, Reischel J, Finigan JH, \nLyn-Kew K, Paterson RD, Lemos-Filho L, Hyzy RC, Park PK, Nelson K, Co IN, \nMcSparron JI, Chen T, Hanna S, Olbrich N, DiGiovine BM, Rivers EP, Day J, Gill \nJ, Gardner Gray J, Hurst G, Jayaprakash N, Kathrina Jaehne A, Rubino S, Swiderek \nJ, Pflaum J, Williams M, Kapoor R, Ellender T, Gutteridge D, Nash J, Ng Gong M, \nHope AA, Chen JT, Gummadi S, Fuster D, Munoz ME, Lopez B, Richardson LD, Acquah \nS, Mathews K, Richman L, Goel NN, Li N, Schneider G, Clesca C, Massenburg NS, \nHite RD, Duggal A, Hastings A, Mehkri O, Hanane T, Rice A, Terndrup TE, Exline \nMC, Englert J, Robart E, Pannu S, Ali NA, Frey JA, Stiffler KA, Norton D, Roads \nT, Studer A, Hudock K, Angus DC, Yealy DM, Huang DT, McVerry BJ, Scholl D, Gacka \nC, Thangudu P, Padmanabhan R, Balakumar V, McComb JG, Fazio P, Stefanick M, \nDonadee CL, Siedsma M, Murugan R, Jockers A, Campbell N, Muller A, Promes SB, \nHough C, Robinson BRH, Johnson NJ, Gundel S, Katsandres SC, Ungar AM, Cardey J, \nPoon T, Dean S, Haberkorn S, Haq E, Kea B, Schreiber MA, Khan A, O'Mahony SD, \nBoisjolie C, Files DC, Miller CD, Bakhru R, Flores LS, Gibbs K, LaRose M, \nPurcell L, Wright PE, Enfield KB, Sochor M, Kadl A, Marshall M, Morris PE, Dhar \nS, Montgomery-Yates A, Sturgill J, Pasha S, de Wit M, Hamman S, Grissom CK, \nBledsoe J, Allen T, Kumar N, Brown SM, Hopkins M, Lanspa M, Peltan I, Hirshberg \nE, Orme J, Merrill M, Montgomery Q, Brown K, Armbruster B, Aston V, Clemmer T, \nKnight K, Shepherd A, Sillito C, Kerwin B, Paine R, Harris E, Middleton E, \nPlante A, Harris D, Woodward W, Ni",
+    "_title": ""
+  },
+  {
+    "study": {
+      "pmid": "31157366",
+      "journal": "",
+      "year": 0,
+      "study_type": "",
+      "setting": "perioperative",
+      "NCT": ""
+    },
+    "clinical_question": {
+      "condition": "ARDS",
+      "intent": "prevention",
+      "timepoint": "perioperative"
+    },
+    "population_context": {
+      "population_description": "",
+      "risk_group": "",
+      "surgical_context": "",
+      "exclusions": "",
+      "_sample_size": 0
+    },
+    "intervention": {
+      "name": "",
+      "components": [],
+      "parameter_values": "",
+      "individualized": false,
+      "timing": ""
+    },
+    "comparator": {
+      "description": "",
+      "standard_of_care_flag": true
+    },
+    "outcome_effect": {
+      "outcome_name": "",
+      "direction": "",
+      "effect_measure": "",
+      "effect_size": 0.0,
+      "ci_lower": 0.0,
+      "ci_upper": 0.0,
+      "p_value": "NR",
+      "time_horizon": ""
+    },
+    "evidence_appraisal": {
+      "strengths": [],
+      "limitations": [
+        "[API ERROR: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'm]"
+      ],
+      "adverse_events": [],
+      "quality_score": 0.0
+    },
+    "applicability": {
+      "generalizability_notes": "",
+      "subgroup_effects": ""
+    },
+    "provenance": {
+      "pmid": "31157366",
+      "quoted_sentences": {
+        "design": "",
+        "intervention": "",
+        "results": "",
+        "outcome": ""
+      },
+      "section": ""
+    },
+    "extraction_method": "pdf",
+    "curator_id": "auto-extract",
+    "extraction_date": "2026-03-02T18:15:59.035313",
+    "_paper_number": 6,
+    "_raw_text": "An official website of the United States government Here's how you know\nNotice\nBecause of a lapse in government funding, the information on this website may not be up to date, transactions submitted via the website may not be processed, and the agency may not be able to respond to inquiries until\nappropriations are enacted. The NIH Clinical Center (the research hospital of NIH) is open. For more details about its operating status, please visit cc.nih.gov. Updates regarding government operating status and resumption of\nnormal operations can be found at opm.gov.\nSearch Log in\nSearch PMC Full-Text Archive Search in PMC\nJournal List | User Guide\nACTIONS\nAs a library, NLM provides access to scientific literature. Inclusion in an NLM database does not\nView on\nimply endorsement of, or agreement with, the contents by NLM or the National Institutes of Health.\npublisher site\nLearn more: PMC Disclaimer | PMC Copyright Notice\nCite\nCollections\nPermalink\n▸ JAMA. 2019 Jun 3;321(23):2292–2305. doi: 10.1001/jama.2019.7505\nRESOURCES\nEffect of Intraoperative High Positive End-Expiratory Pressure (PEEP)\nWith Recruitment Maneuvers vs Low PEEP on Postoperative Pulmonary\nSimilar articles\nComplications in Obese Patients\nA Randomized Clinical Trial\nCited by other articles\nWriting Committee for the PROBESE Collaborative Group of the PROtective VEntilation Network (PROVEnet) for\nLinks to NCBI Databases\n1 2\nthe Clinical Trial Network of the European Society of Anaesthesiology, Thomas Bluth , Ary Serpa Neto , Marcus J\n3 4 1,✉\nSchultz , Paolo Pelosi , Marcelo Gama de Abreu\nON THIS PAGE\n▸ Author information ▸ Article notes ▸ Copyright and License information\nKey Points\nPMCID: PMC6582260 PMID: 31157366\nAbstract\nSee \"Effect of a Lower vs Higher Positive End-Expiratory Pressure Strategy on Ventilator-Free Days in ICU Patients Introduction\nWithout ARDS\" in volume 324 on page 1. Methods\nSee commentary \"Setting Positive End-Expiratory Pressure in Mechanically Ventilated Patients Undergoing Results\nSurgery.\" with doi: 10.1001/jama.2019.7540.\nDiscussion\nThis article has been corrected. See JAMA. 2019 Nov 12;322(18):1829.\nConclusions",
+    "_title": ""
+  },
+  {
+    "study": {
+      "pmid": "31613432",
+      "journal": "",
+      "year": 0,
+      "study_type": "",
+      "setting": "perioperative",
+      "NCT": ""
+    },
+    "clinical_question": {
+      "condition": "ARDS",
+      "intent": "prevention",
+      "timepoint": "perioperative"
+    },
+    "population_context": {
+      "population_description": "",
+      "risk_group": "",
+      "surgical_context": "",
+      "exclusions": "",
+      "_sample_size": 0
+    },
+    "intervention": {
+      "name": "",
+      "components": [],
+      "parameter_values": "",
+      "individualized": false,
+      "timing": ""
+    },
+    "comparator": {
+      "description": "",
+      "standard_of_care_flag": true
+    },
+    "outcome_effect": {
+      "outcome_name": "",
+      "direction": "",
+      "effect_measure": "",
+      "effect_size": 0.0,
+      "ci_lower": 0.0,
+      "ci_upper": 0.0,
+      "p_value": "NR",
+      "time_horizon": ""
+    },
+    "evidence_appraisal": {
+      "strengths": [],
+      "limitations": [
+        "[API ERROR: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'm]"
+      ],
+      "adverse_events": [],
+      "quality_score": 0.0
+    },
+    "applicability": {
+      "generalizability_notes": "",
+      "subgroup_effects": ""
+    },
+    "provenance": {
+      "pmid": "31613432",
+      "quoted_sentences": {
+        "design": "",
+        "intervention": "",
+        "results": "",
+        "outcome": ""
+      },
+      "section": ""
+    },
+    "extraction_method": "pubmed-abstract",
+    "curator_id": "auto-extract",
+    "extraction_date": "2026-03-02T18:16:09.851343",
+    "_paper_number": 7,
+    "_raw_text": "1. N Engl J Med. 2020 Mar 12;382(11):989-998. doi: 10.1056/NEJMoa1903297. Epub\n2019  Oct 14.\n\nConservative Oxygen Therapy during Mechanical Ventilation in the ICU.\n\nICU-ROX Investigators and the Australian and New Zealand Intensive Care Society \nClinical Trials Group; Mackle D(1), Bellomo R(1), Bailey M(1), Beasley R(1), \nDeane A(1), Eastwood G(1), Finfer S(1), Freebairn R(1), King V(1), Linke N(1), \nLitton E(1), McArthur C(1), McGuinness S(1), Panwar R(1), Young P(1); ICU-ROX \nInvestigators the Australian and New Zealand Intensive Care Society Clinical \nTrials Group.\n\nCollaborators: Mackle D, Bellomo R, Bailey M, Beasley R, Deane A, Eastwood G, \nFinfer S, Freebairn R, King V, Linke N, Litton E, McArthur C, McGuinness S, \nPanwar R, Young P, Baker T, Hurford S, La Pine M, McInnes C, Navarra L, \nPritchard A, Sol Cruz R, Turner A, Broadley T, Lee D, Reid L, Murray L, \nBlakemore A, Butler M, Cowdrey KA, Gilder E, Hallion J, Long S, Neal P, Parke R, \nWallace S, Chen Y, McConnochie R, Newby L, Simmonds C, Bowie D, Burke B, Closey \nD, Crombie R, Davidson N, Greer A, Henderson S, Hitchings L, Knight D, Mehrtens \nJ, Miller K, Minto E, Morgan S, Morris A, Parker K, Ritzema-Carter J, Roberts J, \nSahl C, Shaw G, Townend K, Chalmers D, Park M, Park P, Rolls C, Chapman C, \nStapleton A, Aguila J, Dias A, Kazemi A, Lai V, Song R, Williams T, Caniba S, \nCarpenter M, Dagooc R, Hacking D, Lawrey Y, Buehner U, Williams E, Albrett J, \nJackson C, Marko P, Barry B, Beehre N, Dinsdale D, Edney S, Fitzjohn F, Hicks P, \nHill G, Hunt A, Judd H, Latimer-Bell C, Lawrence C, Lesona E, McKay-Vucago A, \nPoynter C, Psirides A, Robertson Y, Smellie H, Sturland S, Ure B, Board J, \nBurrell A, Byrne T, Dean E, Martin E, Mason C, McCracken P, Richardson S, \nVallance S, Young M, Peck L, Young H, Eroglu E, Palermo A, Pellicano S, Bihari \nS, Jin X, Laver R, Matheson E, Schwartz K, Shrestha T, Beckingham T, Soar N, \nBhatia D, Bulfin L, Crozier T, Eliott S, Lavrans K, Luong J, Maduri V, Patterson \nM, Peppin C, Shehabi Y, Wang A, Kurenda C, Peake S, Robaa N, Williams P, Badek \nL, Bart S, Chapman M, Davies M, Doherty S, Glasby K, Gluck S, Grieve R, Karr P, \nMcIntyre J, O'Connor S, Poole A, Raith E, Reddi B, Rivett J, Sethi S, Yap J, Yeo \nN, Aliabdelhamind Y, Anstey J, Barge D, Byrne K, Emery P, Forrest P, Haile M, \nLussier S, Rechnitzer T, Wigmore G, Regli A, Barbazza L, Dixon B, Holmes J, \nSantamaria J, Smith R, Tobin A, Pettilä V, Kaukonen M, Lange T.\n\nAuthor information:\n(1)From the Medical Research Institute of New Zealand (D.M., R. Beasley, R.F., \nC.M., S.M., P.Y.) and the Intensive Care Unit, Wellington Hospital (P.Y.), \nWellington, the Intensive Care Unit, Hawkes Bay Hospital, Hastings (R.F.), and \nthe Department of Critical Care Medicine (C.M.) and the Cardiothoracic and \nVascular Intensive Care Unit (S.M.), Auckland City Hospital, Auckland - all in \nNew Zealand; the Australian and New Zealand Intensive Care Research Centre, \nMonash University, Melbourne, VIC (R. Bellomo, M.B., V.K.",
+    "_title": ""
+  },
+  {
+    "study": {
+      "pmid": "32043986",
+      "journal": "",
+      "year": 0,
+      "study_type": "",
+      "setting": "perioperative",
+      "NCT": ""
+    },
+    "clinical_question": {
+      "condition": "ARDS",
+      "intent": "prevention",
+      "timepoint": "perioperative"
+    },
+    "population_context": {
+      "population_description": "",
+      "risk_group": "",
+      "surgical_context": "",
+      "exclusions": "",
+      "_sample_size": 0
+    },
+    "intervention": {
+      "name": "",
+      "components": [],
+      "parameter_values": "",
+      "individualized": false,
+      "timing": ""
+    },
+    "comparator": {
+      "description": "",
+      "standard_of_care_flag": true
+    },
+    "outcome_effect": {
+      "outcome_name": "",
+      "direction": "",
+      "effect_measure": "",
+      "effect_size": 0.0,
+      "ci_lower": 0.0,
+      "ci_upper": 0.0,
+      "p_value": "NR",
+      "time_horizon": ""
+    },
+    "evidence_appraisal": {
+      "strengths": [],
+      "limitations": [
+        "[API ERROR: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'm]"
+      ],
+      "adverse_events": [],
+      "quality_score": 0.0
+    },
+    "applicability": {
+      "generalizability_notes": "",
+      "subgroup_effects": ""
+    },
+    "provenance": {
+      "pmid": "32043986",
+      "quoted_sentences": {
+        "design": "",
+        "intervention": "",
+        "results": "",
+        "outcome": ""
+      },
+      "section": ""
+    },
+    "extraction_method": "pubmed-abstract",
+    "curator_id": "auto-extract",
+    "extraction_date": "2026-03-02T18:16:11.201000",
+    "_paper_number": 8,
+    "_raw_text": "1. Lancet Respir Med. 2020 Mar;8(3):267-276. doi: 10.1016/S2213-2600(19)30417-5. \nEpub 2020 Feb 7.\n\nDexamethasone treatment for the acute respiratory distress syndrome: a \nmulticentre, randomised controlled trial.\n\nVillar J(1), Ferrando C(2), Martínez D(3), Ambrós A(4), Muñoz T(5), Soler JA(3), \nAguilar G(6), Alba F(7), González-Higueras E(8), Conesa LA(3), Martín-Rodríguez \nC(4), Díaz-Domínguez FJ(9), Serna-Grande P(5), Rivas R(10), Ferreres J(11), \nBelda J(6), Capilla L(12), Tallet A(13), Añón JM(14), Fernández RL(15), \nGonzález-Martín JM(16); dexamethasone in ARDS network.\n\nCollaborators: Aguilar G, Alba F, Álvarez J, Ambrós A, Añón JM, Asensio MJ, \nBelda J, Blanco J, Blasco M, Cachafeiro L, Del Campo R, Capilla L, Carbonell JA, \nCarbonell N, Cariñena A, Carriedo D, Chico M, Conesa LA, Corpas R, Cuervo J, \nDíaz-Domínguez FJ, Domínguez-Antelo C, Fernández L, Fernández RL, Ferrando C, \nFerreres J, Gamboa E, González-Higueras E, González-Luengo RI, González-Martín \nJM, Martínez D, Martín-Rodríguez C, Muñoz T, Ortiz Díaz-Miguel R, Pérez-González \nR, Prieto AM, Prieto I, Rivas R, Rojas-Viguera L, Romera MA, Sánchez-Ballesteros \nJ, Segura JM, Serna-Grande P, Serrano A, Solano R, Soler JA, Soro M, Tallet A, \nVillar J.\n\nAuthor information:\n(1)Centro de Investigación Biomédica en Red de Enfermedades Respiratorias, \nInstituto de Salud Carlos III, Madrid, Spain; Multidisciplinary Organ \nDysfunction Evaluation Research Network, Research Unit, Hospital Universitario \nDr Negrín, Las Palmas de Gran Canaria, Spain; Keenan Research Center for \nBiomedical Science at the Li Ka Shing Knowledge Institute, St Michael's \nHospital, Toronto, ON, Canada. Electronic address: jesus.villar54@gmail.com.\n(2)Centro de Investigación Biomédica en Red de Enfermedades Respiratorias, \nInstituto de Salud Carlos III, Madrid, Spain; Department of Anesthesiology & \nCritical Care, Hospital Clinic, Barcelona, Spain; Department of Anesthesiology, \nHospital Clínico Universitario de Valencia, Valencia, Spain.\n(3)Intensive Care Unit, Hospital Virgen de la Arrixaca, Murcia, Spain.\n(4)Intensive Care Unit, Hospital General de Ciudad Real, Ciudad Real, Spain.\n(5)Intensive Care Unit, Hospital Universitario de Cruces, Barakaldo, Spain.\n(6)Department of Anesthesiology, Hospital Clínico Universitario de Valencia, \nValencia, Spain.\n(7)Intensive Care Unit, Hospital Nuestra Señora del Prado, Toledo, Spain.\n(8)Intensive Care Unit, Hospital Virgen de La Luz, Cuenca, Spain.\n(9)Intensive Care Unit, Complejo Universitario Asistencial de León, León, Spain.\n(10)Intensive Care Unit, Hospital Galdakao-Usansolo, Usansolo, Spain.\n(11)Intensive Care Unit, Hospital Clínico Universitario, Valencia, Spain.\n(12)Intensive Care Medicine, Hospital Universitario Morales Meseguer, Murcia, \nSpain; Intensive Care Unit, Hospital General Universitario Rafael Méndez, Lorca, \nMurcia, Spain.\n(13)Intensive Care Unit, Hospital General de Segovia, Segovia, Spain.\n(14)Centro de Investigación Biomédica en Red de Enfermedades Respira",
+    "_title": ""
+  },
+  {
+    "study": {
+      "pmid": "32160661",
+      "journal": "",
+      "year": 0,
+      "study_type": "",
+      "setting": "perioperative",
+      "NCT": ""
+    },
+    "clinical_question": {
+      "condition": "ARDS",
+      "intent": "prevention",
+      "timepoint": "perioperative"
+    },
+    "population_context": {
+      "population_description": "",
+      "risk_group": "",
+      "surgical_context": "",
+      "exclusions": "",
+      "_sample_size": 0
+    },
+    "intervention": {
+      "name": "",
+      "components": [],
+      "parameter_values": "",
+      "individualized": false,
+      "timing": ""
+    },
+    "comparator": {
+      "description": "",
+      "standard_of_care_flag": true
+    },
+    "outcome_effect": {
+      "outcome_name": "",
+      "direction": "",
+      "effect_measure": "",
+      "effect_size": 0.0,
+      "ci_lower": 0.0,
+      "ci_upper": 0.0,
+      "p_value": "NR",
+      "time_horizon": ""
+    },
+    "evidence_appraisal": {
+      "strengths": [],
+      "limitations": [
+        "[API ERROR: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'm]"
+      ],
+      "adverse_events": [],
+      "quality_score": 0.0
+    },
+    "applicability": {
+      "generalizability_notes": "",
+      "subgroup_effects": ""
+    },
+    "provenance": {
+      "pmid": "32160661",
+      "quoted_sentences": {
+        "design": "",
+        "intervention": "",
+        "results": "",
+        "outcome": ""
+      },
+      "section": ""
+    },
+    "extraction_method": "pubmed-abstract",
+    "curator_id": "auto-extract",
+    "extraction_date": "2026-03-02T18:16:12.596863",
+    "_paper_number": 9,
+    "_raw_text": "1. N Engl J Med. 2020 Mar 12;382(11):999-1008. doi: 10.1056/NEJMoa1916431.\n\nLiberal or Conservative Oxygen Therapy for Acute Respiratory Distress Syndrome.\n\nBarrot L(1), Asfar P(1), Mauny F(1), Winiszewski H(1), Montini F(1), Badie J(1), \nQuenot JP(1), Pili-Floury S(1), Bouhemad B(1), Louis G(1), Souweine B(1), \nCollange O(1), Pottecher J(1), Levy B(1), Puyraveau M(1), Vettoretti L(1), \nConstantin JM(1), Capellier G(1); LOCO2 Investigators and REVA Research Network.\n\nCollaborators: Asfar P, Beloncle F, Fayolle PM, Kouatchet A, Mezdad TH, Olivier \nPY, Pierrot M, Souday V, Merel AL, Montini F, Moschietto S, Simon R, Badie J, \nBarrot L, Belin N, Besch G, Brunin Y, Carteron L, Chaignat C, Claveau M, Claude \nF, Capellier G, Labro G, Navellou JC, Paillot J, Patry C, Pili Floury S, Piton \nG, Winiszewski H, Constantin JM, Godet T, Lemaire A, Soum E, Souweine B, Andreu \nP, Bouhemad B, Nowobilski N, Quenot JP, Kimmoun A, Koszutski M, Levy B, Gaci R, \nLouis G, Collange O, Pottecher J, Roche A, Mauny F, Puyraveau M, Vettoretti L, \nSoichez R, Valnet-Rabier MB, Jaber S, Mélot C, Papazian L, Pierre S.\n\nAuthor information:\n(1)From the Medical Intensive Care Unit (L.B., H.W., L.V., G.C.), the Anesthesia \nand Intensive Care Unit (L.B., S.P.-F.), Unité de Méthodologie, INSERM Clinical \nInvestigation Center 1431, University Hospital (F. Mauny, M.P.), and Research \nUnit EA3920, Université de Franche Comté (L.B., H.W. S.P.-F., G.C.), Besançon, \nthe Medical Intensive Care Unit, University Hospital of Angers, Angers (P.A.), \nthe Intensive Care Unit, General Hospital of Avignon, Avignon (F. Montini), the \nIntensive Care Unit, General Hospital of Nord Franche-Comté, Trévenans (J.B.), \nthe Medical Intensive Care Unit (J.-P.Q.) and the Anesthesia and Intensive Care \nUnit (B.B.), University Hospital of Dijon, Dijon, the Intensive Care Unit, \nGeneral Hospital of Metz-Thionville, Metz (G.L.), the Medical Intensive Care \nUnit (B.S.) and the Anesthesia and Intensive Care Unit (J.-M.C.), University \nHospital of Clermont-Ferrand, Clermont-Ferrand, the Anesthesia and Intensive \nCare Unit, University Hospital of Strasbourg, Strasbourg (O.C., J.P.), and the \nMedical Intensive Care Unit, University Hospital of Nancy, Nancy (B.L.) - all in \nFrance; and the Australian and New Zealand Intensive Care Research Centre, \nDepartment of Epidemiology and Preventive Medicine, Monash University, \nMelbourne, VIC, Australia (G.C.).\n\nComment in\n    N Engl J Med. 2020 Mar 12;382(11):1054-1056. doi: 10.1056/NEJMe2000800.\n    N Engl J Med. 2020 Jun 25;382(26):2577. doi: 10.1056/NEJMc2009489.\n    N Engl J Med. 2020 Jun 25;382(26):2577-2578. doi: 10.1056/NEJMc2009489.\n    Am J Respir Crit Care Med. 2022 Jun 15;205(12):1470. doi: \n10.1164/rccm.202107-1609RR.\n\nBACKGROUND: In patients with acute respiratory distress syndrome (ARDS), the \nNational Heart, Lung, and Blood Institute ARDS Clinical Trials Network \nrecommends a target partial pressure of arterial oxygen (Pao2) between 55 and 80 \nmm Hg. Prospective",
+    "_title": ""
+  },
+  {
+    "study": {
+      "pmid": "33016981",
+      "journal": "",
+      "year": 0,
+      "study_type": "",
+      "setting": "perioperative",
+      "NCT": ""
+    },
+    "clinical_question": {
+      "condition": "ARDS",
+      "intent": "prevention",
+      "timepoint": "perioperative"
+    },
+    "population_context": {
+      "population_description": "",
+      "risk_group": "",
+      "surgical_context": "",
+      "exclusions": "",
+      "_sample_size": 0
+    },
+    "intervention": {
+      "name": "",
+      "components": [],
+      "parameter_values": "",
+      "individualized": false,
+      "timing": ""
+    },
+    "comparator": {
+      "description": "",
+      "standard_of_care_flag": true
+    },
+    "outcome_effect": {
+      "outcome_name": "",
+      "direction": "",
+      "effect_measure": "",
+      "effect_size": 0.0,
+      "ci_lower": 0.0,
+      "ci_upper": 0.0,
+      "p_value": "NR",
+      "time_horizon": ""
+    },
+    "evidence_appraisal": {
+      "strengths": [],
+      "limitations": [
+        "[API ERROR: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'm]"
+      ],
+      "adverse_events": [],
+      "quality_score": 0.0
+    },
+    "applicability": {
+      "generalizability_notes": "",
+      "subgroup_effects": ""
+    },
+    "provenance": {
+      "pmid": "33016981",
+      "quoted_sentences": {
+        "design": "",
+        "intervention": "",
+        "results": "",
+        "outcome": ""
+      },
+      "section": ""
+    },
+    "extraction_method": "pubmed-abstract",
+    "curator_id": "auto-extract",
+    "extraction_date": "2026-03-02T18:16:13.923870",
+    "_paper_number": 10,
+    "_raw_text": "1. Anesthesiology. 2021 Feb 1;134(2):270-282. doi: 10.1097/ALN.0000000000003571.\n\nAcute Respiratory Distress Syndrome.\n\nWilliams GW, Berg NK, Reskallah A, Yuan X, Eltzschig HK.\n\nAcute Respiratory Distress Syndrome (ARDS) is defined as the rapid onset of \nnon-cardiogenic pulmonary edema resulting in respiratory failure and hypoxemia. \nEfforts over the past 25 years, such as those of the ARDS and Prevention and \nEarly Treatment of Acute Lung Injury (PETAL) Networks, have demonstrated a \npraiseworthy collaboration to further optimize the management of ARDS. However, \nimprovements have been only moderate and ARDS remains a leading cause of \nmortality in the perioperative and critical care setting. Recently, the \nsignificant morbidity and mortality of ARDS have been emphasized by its high \nincidence in Coronavirus Disease 2019 (COVID-19) patients. A major hurdle to \nreducing ARDS mortality is that current treatment is limited to preventive \nmeasures – such as the use of lung-protective ventilation. Therapeutic \napproaches targeting the underlying inflammatory lung disease are areas of \nintensive research, but have not been clinically implemented. Nevertheless, \nbasic science and clinical research efforts that are aimed at identifying novel \ntreatment approaches and further improving outcomes for ARDS are ongoing. Here, \nwe review evidence-based management approaches for ARDS, while highlighting \nthose being investigated or heavily utilized in ARDS associated with COVID-19.\n\nAcute Respiratory Distress Syndrome remains a condition that carries a high \nmortality. Evidence-based clinical management and emerging concepts for new \ntherapies for COVID-19 are reviewed.\n\nDOI: 10.1097/ALN.0000000000003571\nPMCID: PMC7854846\nPMID: 33016981 [Indexed for MEDLINE]\n\nConflict of interest statement: Conflicts of Interest: GWW: Merck \nPharmaceuticals- Scientific Speaker for Sugammadex",
+    "_title": ""
+  },
+  {
+    "study": {
+      "pmid": "34127046",
+      "journal": "",
+      "year": 0,
+      "study_type": "",
+      "setting": "perioperative",
+      "NCT": ""
+    },
+    "clinical_question": {
+      "condition": "ARDS",
+      "intent": "prevention",
+      "timepoint": "perioperative"
+    },
+    "population_context": {
+      "population_description": "",
+      "risk_group": "",
+      "surgical_context": "",
+      "exclusions": "",
+      "_sample_size": 0
+    },
+    "intervention": {
+      "name": "",
+      "components": [],
+      "parameter_values": "",
+      "individualized": false,
+      "timing": ""
+    },
+    "comparator": {
+      "description": "",
+      "standard_of_care_flag": true
+    },
+    "outcome_effect": {
+      "outcome_name": "",
+      "direction": "",
+      "effect_measure": "",
+      "effect_size": 0.0,
+      "ci_lower": 0.0,
+      "ci_upper": 0.0,
+      "p_value": "NR",
+      "time_horizon": ""
+    },
+    "evidence_appraisal": {
+      "strengths": [],
+      "limitations": [
+        "[API ERROR: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'm]"
+      ],
+      "adverse_events": [],
+      "quality_score": 0.0
+    },
+    "applicability": {
+      "generalizability_notes": "",
+      "subgroup_effects": ""
+    },
+    "provenance": {
+      "pmid": "34127046",
+      "quoted_sentences": {
+        "design": "",
+        "intervention": "",
+        "results": "",
+        "outcome": ""
+      },
+      "section": ""
+    },
+    "extraction_method": "pubmed-abstract",
+    "curator_id": "auto-extract",
+    "extraction_date": "2026-03-02T18:16:15.297452",
+    "_paper_number": 11,
+    "_raw_text": "1. Crit Care. 2021 Jun 14;25(1):209. doi: 10.1186/s13054-021-03602-9.\n\nAwake prone positioning in patients with hypoxemic respiratory failure due to \nCOVID-19: the PROFLO multicenter randomized clinical trial.\n\nRosén J(#)(1), von Oelreich E(#)(2)(3), Fors D(4), Jonsson Fagerlund M(2)(3), \nTaxbro K(5), Skorup P(6), Eby L(7), Campoccia Jalde F(2)(8), Johansson N(9)(10), \nBergström G(6), Frykholm P(4); PROFLO Study Group.\n\nCollaborators: Gradin A, Ali M, Lennborn U, Bogdanovic D, Roos A, Modie M, \nGiesecke J.\n\nAuthor information:\n(1)Department of Surgical Sciences, Section of Anaesthesiology and Intensive \nCare Medicine, Uppsala University, Entrance 78, 1 floor, 751 85, Uppsala, \nSweden. jacob.rosen@surgsci.uu.se.\n(2)Perioperative Medicine and Intensive Care, Karolinska University Hospital, \nSolna, Sweden.\n(3)Department of Physiology and Pharmacology, Section of Anesthesiology and \nIntensive Care Medicine, Karolinska Institutet, Solna, Sweden.\n(4)Department of Surgical Sciences, Section of Anaesthesiology and Intensive \nCare Medicine, Uppsala University, Entrance 78, 1 floor, 751 85, Uppsala, \nSweden.\n(5)Department of Anaesthesiology and Intensive Care Medicine, Ryhov County \nHospital, Jönköping, Sweden.\n(6)Department of Medical Sciences, Section of Infectious Diseases, Uppsala \nUniversity, Uppsala, Sweden.\n(7)Acute and Reparative Medicine, Karolinska University Hospital, Solna, Sweden.\n(8)Department of Molecular Medicine and Surgery, Section of Thoracic \nAnesthesiology and Intensive Care, Karolinska Institutet, Solna, Sweden.\n(9)Department of Infectious Diseases, Karolinska University Hospital, Solna, \nSweden.\n(10)Infectious Diseases Unit, Department of Medicine, Karolinska Institutet, \nSolna, Sweden.\n(#)Contributed equally\n\nBACKGROUND: The effect of awake prone positioning on intubation rates is not \nestablished. The aim of this trial was to investigate if a protocol for awake \nprone positioning reduces the rate of endotracheal intubation compared with \nstandard care among patients with moderate to severe hypoxemic respiratory \nfailure due to COVID-19.\nMETHODS: We conducted a multicenter randomized clinical trial. Adult patients \nwith confirmed COVID-19, high-flow nasal oxygen or noninvasive ventilation for \nrespiratory support and a PaO2/FiO2 ratio ≤ 20 kPa were randomly assigned to a \nprotocol targeting 16 h prone positioning per day or standard care. The primary \nendpoint was intubation within 30 days. Secondary endpoints included duration of \nawake prone positioning, 30-day mortality, ventilator-free days, hospital and \nintensive care unit length of stay, use of noninvasive ventilation, organ \nsupport and adverse events. The trial was terminated early due to futility.\nRESULTS: Of 141 patients assessed for eligibility, 75 were randomized of whom 39 \nwere allocated to the control group and 36 to the prone group. Within 30 days \nafter enrollment, 13 patients (33%) were intubated in the control group versus \n12 patients (33%) in the prone group (H",
+    "_title": ""
+  },
+  {
+    "study": {
+      "pmid": "38038395",
+      "journal": "",
+      "year": 0,
+      "study_type": "",
+      "setting": "perioperative",
+      "NCT": ""
+    },
+    "clinical_question": {
+      "condition": "ARDS",
+      "intent": "prevention",
+      "timepoint": "perioperative"
+    },
+    "population_context": {
+      "population_description": "",
+      "risk_group": "",
+      "surgical_context": "",
+      "exclusions": "",
+      "_sample_size": 0
+    },
+    "intervention": {
+      "name": "",
+      "components": [],
+      "parameter_values": "",
+      "individualized": false,
+      "timing": ""
+    },
+    "comparator": {
+      "description": "",
+      "standard_of_care_flag": true
+    },
+    "outcome_effect": {
+      "outcome_name": "",
+      "direction": "",
+      "effect_measure": "",
+      "effect_size": 0.0,
+      "ci_lower": 0.0,
+      "ci_upper": 0.0,
+      "p_value": "NR",
+      "time_horizon": ""
+    },
+    "evidence_appraisal": {
+      "strengths": [],
+      "limitations": [
+        "[API ERROR: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'm]"
+      ],
+      "adverse_events": [],
+      "quality_score": 0.0
+    },
+    "applicability": {
+      "generalizability_notes": "",
+      "subgroup_effects": ""
+    },
+    "provenance": {
+      "pmid": "38038395",
+      "quoted_sentences": {
+        "design": "",
+        "intervention": "",
+        "results": "",
+        "outcome": ""
+      },
+      "section": ""
+    },
+    "extraction_method": "pubmed-abstract",
+    "curator_id": "auto-extract",
+    "extraction_date": "2026-03-02T18:16:16.704427",
+    "_paper_number": 12,
+    "_raw_text": "1. JAMA. 2023 Dec 26;330(24):2343-2353. doi: 10.1001/jama.2023.24491.\n\nProne Positioning During Extracorporeal Membrane Oxygenation in Patients With \nSevere ARDS: The PRONECMO Randomized Clinical Trial.\n\nSchmidt M(1)(2)(3), Hajage D(4), Lebreton G(1)(5), Dres M(3)(6), Guervilly C(7), \nRichard JC(8), Sonneville R(9), Winiszewski H(10), Muller G(11), Beduneau G(12), \nMercier E(13), Roze H(14), Lesouhaitier M(15), Terzi N(16), Thille AW(17), \nLaurent I(4), Kimmoun A(18), Combes A(1)(2)(3); PRONECMO Investigators, the REVA \nNetwork, and the International ECMO Network (ECMONet).\n\nCollaborators: Luyt CE, Hekimian G, Brechot N, Chommeloux J, Pineton de Chambrun \nM, Saura O, Levy D, Lefevre L, Assouline B, Bahroum P, Gautier M, Leprince P, \nJuvin C, Demondion P, Bergue E, Danial P, Al-Kabani H, Bounader K, Schoell T, \nD'Allesandro C, Bureau C, Le Marec J, Mayaux J, Decavèle M, Demoule A, Deleris \nR, Nemlaghi S, Lecronier M, Capellier G, Piton G, Belon F, Vieille T, Lafay V, \nManfait C, Tapponnier R, Belin N, Gacouin A, Tadié JM, Papazian L, Hraiech S, \nForel JM, Roch A, Adda M, Daviet F, Gragueb-Chatti I, Textoris L, Timsit JF, \nBouadma L, de Montmollin E, Lamara F, Deiler V, Para M, Nataf P, Zmihi S, Wicky \nPH, Patrier J, Jaquet P, Levy B, Perez P, Thivilier C, Mattei M, Haddadi C, \nKozutski M, Maureira P, Yonis H, Mezidi M, Chauvelot L, Danjou W, Dhelft F, \nBitker L, Bettinger C, Bernon P, Jolly G, Carpentier D, Nay MA, Boulain T, Kamel \nT, Barbier F, Bretagnol A, Mathonnet A, Desgrouas M, Skarzynski M, Repusseau B, \nSigaud F, Rigault G, Galerneau LM, Schwebel C, Candille C, Dartevel A, Bougnaud \nJ, Turbil E, Ehrmann S, Garot D, Salmon C, Le Pape S, Arrivé F.\n\nAuthor information:\n(1)Sorbonne Université, INSERM, UMRS_1166-ICAN, Institute of Cardiometabolism \nand Nutrition, Paris, France.\n(2)Assistance Publique-Hôpitaux de Paris, Service de Médecine \nIntensive-Réanimation, Institut de Cardiologie, Hôpital Pitié-Salpêtrière, \nParis, France.\n(3)GRC 30 RESPIRE, Sorbonne Université, Paris, France.\n(4)Sorbonne Université, INSERM, Institut Pierre Louis d'Epidémiologie et de \nSanté Publique, Assistance Publique-Hôpitaux de Paris, Hôpitaux Universitaires \nPitié Salpêtrière-Charles Foix, Département de Santé Publique, Centre de \nPharmacoépidémiologie (Cephepi), CIC-1421, Paris, France.\n(5)Assistance Publique-Hôpitaux de Paris, Thoracic and Cardiovascular \nDepartment, Hôpital Pitié-Salpêtrière, Paris France.\n(6)Assistance Publique-Hôpitaux de Paris, Groupe Hospitalier Universitaire \nAPHP-Sorbonne Université, Site Pitié-Salpêtrière, Service de Médecine Intensive \net Réanimation (Département R3S), et Sorbonne Université, INSERM, UMRS-1158 \nNeurophysiologie Respiratoire Expérimentale et Clinique, Paris, France.\n(7)Médecine Intensive Réanimation, Hôpital Nord, AP-HM, Centre d'Etudes et de \nRecherches sur les Services de Santé et Qualité de Vie EA 3279, Marseille, \nFrance.\n(8)Médecine Intensive Réanimation, Hospices Civils de Lyon, Hôpital de la Croix \nRousse, Lyon, Fr",
+    "_title": ""
+  },
+  {
+    "study": {
+      "pmid": "38065200",
+      "journal": "",
+      "year": 0,
+      "study_type": "",
+      "setting": "perioperative",
+      "NCT": ""
+    },
+    "clinical_question": {
+      "condition": "ARDS",
+      "intent": "prevention",
+      "timepoint": "perioperative"
+    },
+    "population_context": {
+      "population_description": "",
+      "risk_group": "",
+      "surgical_context": "",
+      "exclusions": "",
+      "_sample_size": 0
+    },
+    "intervention": {
+      "name": "",
+      "components": [],
+      "parameter_values": "",
+      "individualized": false,
+      "timing": ""
+    },
+    "comparator": {
+      "description": "",
+      "standard_of_care_flag": true
+    },
+    "outcome_effect": {
+      "outcome_name": "",
+      "direction": "",
+      "effect_measure": "",
+      "effect_size": 0.0,
+      "ci_lower": 0.0,
+      "ci_upper": 0.0,
+      "p_value": "NR",
+      "time_horizon": ""
+    },
+    "evidence_appraisal": {
+      "strengths": [],
+      "limitations": [
+        "[API ERROR: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'm]"
+      ],
+      "adverse_events": [],
+      "quality_score": 0.0
+    },
+    "applicability": {
+      "generalizability_notes": "",
+      "subgroup_effects": ""
+    },
+    "provenance": {
+      "pmid": "38065200",
+      "quoted_sentences": {
+        "design": "",
+        "intervention": "",
+        "results": "",
+        "outcome": ""
+      },
+      "section": ""
+    },
+    "extraction_method": "pubmed-abstract",
+    "curator_id": "auto-extract",
+    "extraction_date": "2026-03-02T18:16:18.084863",
+    "_paper_number": 13,
+    "_raw_text": "1. Lancet Respir Med. 2024 Mar;12(3):195-206. doi: 10.1016/S2213-2600(23)00346-6.\n Epub 2023 Dec 5.\n\nIndividualised, perioperative open-lung ventilation strategy during one-lung \nventilation (iPROVE-OLV): a multicentre, randomised, controlled clinical trial.\n\nFerrando C(1), Carramiñana A(2), Piñeiro P(3), Mirabella L(4), Spadaro S(5), \nLibrero J(6), Ramasco F(7), Scaramuzzo G(5), Cervantes O(8), Garutti I(3), \nParera A(9), Argilaga M(9), Herranz G(9), Unzueta C(9), Vives M(10), Regi K(10), \nCosta-Reverte M(11), Sonsoles Leal M(12), Nieves-Alonso J(7), García E(7), \nRodríguez-Pérez A(13), Fariña R(13), Cabrera S(13), Guerra E(13), \nGallego-Ligorit L(14), Herrero-Izquierdo A(14), Vallés-Torres J(14), Ramos S(3), \nLópez-Herrera D(15), De La Matta M(15), Gokhan S(16), Kucur E(17), Mugarra \nA(18), Soro M(18), García L(18), Sastre JA(19), Aguirre P(20), Salazar CJ(21), \nRamos MC(21), Morocho DR(22), Trespalacios R(23), Ezequiel-Fernández F(23), \nLamanna A(4), Pia Cantatore L(4), Laforgia D(4), Bellas S(24), López C(25), \nNavarro-Ripoll R(2), Martínez S(3), Vallverdú J(2), Jacas A(2), Yepes-Temiño \nMJ(26), Belda FJ(18), Tusman G(27), Suárez-Sipmann F(28), Villar J(29); \niPROVE-OLV Research Network Group.\n\nCollaborators: Spadaro S, Scaramuzzo G, Cervantes O, Parera A, Argilaga M, \nHerranz G, Unzueta C, Vives M, Regi K, Costa-Reverte M, Leal MS, Ramasco F, \nNieves-Alonso J, García E, Suárez-Sipmann F, Rodríguez-Pérez A, Fariña R, \nCabrera S, Guerra E, Gallego-Ligorit L, Herrero-Izquierdo A, Vallés-Torres J, \nPiñeiro P, Garutti I, Ramos S, López-Herrera D, De La Matta M, Gokhan S, Kucur \nE, Mugarra A, Belda FJ, Soro M, García L, Sastre JA, Aguirre P, Jimena-Salazar \nC, Ramos MC, Trespalacios R, Ezequiel-Fernández F, Mirabella L, Lamanna A, \nCantatore LP, Laforogia D, Bellas S, López C, Carramiñana A, Navarro-Ripoll R, \nMartínez S, Vallverdú J, Jacas A, Ferrando C, Yepes-Temiño MJ, Librero J, Tusman \nG, Villar J, Martinez S, Azparren G, Bausili M, Torres S, Díaz M, Ricart A, \nGascó I, Parramon F, Sanz-Iturbe M, García-Ballester S, Méndez-Arias E, Cabadas \nR, Grosso L, Becerra Á, Hussein Z, Sanjuán-Villarreal TA, Puértolas M, \nIzquierdo-Villarroya B, Almajano R, Romero B, Colomina L, Quesada N, Latorre JA, \nFranco JA, Laval A, García-Tirado J, Embún R, Bueno C, Jarén P, Martínez-Serrano \nR, García-Latasa B, Baquedano S, Motilva B, Hernando B, Herrero M, \nOliver-Forniés P, Recuero JL, Carbó-Espinosa F, Lucas A, Muñoz-González N, \nLafuente N, Acosta-Martínez J, Ragazzi R, Volta CA, Maniscalco P, Arribas MP, de \nCelis MI, Pascual MJ, Martínez P, Martínez O, Repáraz JR, Domínguez D, Fernández \nM, Sánchez V, Pérez-Lozana B, Martín E, Fernández D, González A, Pico J, \nEl-Hefny DA, Armengol L, Comino Ó, Rovira I, Arguis MJ, Matute P, Carretero MJ, \nIbáñez C, Perdomo J, Ruiz C, González N, González M, Bolado A, Trabanco S, Largo \nÁ, Maestro A, Pascual Á, Reyes AI, Bartolomé MJ, Williams MM, Del Olmo P, \nCimadevilla B, Pardo S, Sancho L, Lascorz L, Carbonell JA, Hurt",
+    "_title": ""
+  }
+]

@@ -1,0 +1,71 @@
+{
+  "study": {
+    "pmid": "31112383",
+    "journal": "",
+    "year": 0,
+    "study_type": "",
+    "setting": "perioperative",
+    "NCT": ""
+  },
+  "clinical_question": {
+    "condition": "ARDS",
+    "intent": "prevention",
+    "timepoint": "perioperative"
+  },
+  "population_context": {
+    "population_description": "",
+    "risk_group": "",
+    "surgical_context": "",
+    "exclusions": "",
+    "_sample_size": 0
+  },
+  "intervention": {
+    "name": "",
+    "components": [],
+    "parameter_values": "",
+    "individualized": false,
+    "timing": ""
+  },
+  "comparator": {
+    "description": "",
+    "standard_of_care_flag": true
+  },
+  "outcome_effect": {
+    "outcome_name": "",
+    "direction": "",
+    "effect_measure": "",
+    "effect_size": 0.0,
+    "ci_lower": 0.0,
+    "ci_upper": 0.0,
+    "p_value": "NR",
+    "time_horizon": ""
+  },
+  "evidence_appraisal": {
+    "strengths": [],
+    "limitations": [
+      "[API ERROR: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'm]"
+    ],
+    "adverse_events": [],
+    "quality_score": 0.0
+  },
+  "applicability": {
+    "generalizability_notes": "",
+    "subgroup_effects": ""
+  },
+  "provenance": {
+    "pmid": "31112383",
+    "quoted_sentences": {
+      "design": "",
+      "intervention": "",
+      "results": "",
+      "outcome": ""
+    },
+    "section": ""
+  },
+  "extraction_method": "pubmed-abstract",
+  "curator_id": "auto-extract",
+  "extraction_date": "2026-03-02T18:16:08.498276",
+  "_paper_number": 5,
+  "_raw_text": "1. N Engl J Med. 2019 May 23;380(21):1997-2008. doi: 10.1056/NEJMoa1901686. Epub \n2019 May 19.\n\nEarly Neuromuscular Blockade in the Acute Respiratory Distress Syndrome.\n\nNational Heart, Lung, and Blood Institute PETAL Clinical Trials Network; Moss \nM(1), Huang DT(1), Brower RG(1), Ferguson ND(1), Ginde AA(1), Gong MN(1), \nGrissom CK(1), Gundel S(1), Hayden D(1), Hite RD(1), Hou PC(1), Hough CL(1), \nIwashyna TJ(1), Khan A(1), Liu KD(1), Talmor D(1), Thompson BT(1), Ulysse CA(1), \nYealy DM(1), Angus DC(1).\n\nCollaborators: Steingrub JS, Tidswell M, Kozikowski L, De Souza L, Kardos C, Hou \nPC, Aisiku IP, Baron RM, Massaro AF, Seethala RR, Fredenburgh LE, Gandee ZA, \nIsraelyan A, Riker RR, Macleaod A, May T, Seder D, Van der Kloot TE, Hill NS, \nBacong V, Chweich H, Garpestad E, Schweish O, Talmor D, Shapiro N, \nBanner-Goodspeed V, Jinadasa S, Brenes Bastos A, Bajwa E, Filbin MR, Hibbert KA, \nHolland C, Brait K, Arsenault PA, Sigel P, Jones AE, Spurzem JR, Puskarich M, \nHope Cruise M, Kolb JJ, Patki D, Matthay MA, Liu KD, Calfee CS, Gotts JE, Daniel \nBM, Belzer A, Hendey GW, Chang SY, Qadir N, Garber B, Guo S, Lewis S, Sharif J, \nLevitt J, Rogers A, Vojnik R, Asuni AT, Albertson TE, Adams JY, Juarez M, \nMorrissey B, Pearson S, Almasri E, Blaauw JM, Hughes A, Sousa K, Ginde A, Moss \nM, Finck L, Higgins C, McKeehan J, Douglas IS, Haukoos J, Hiller T, Hopkins E, \nOaks JL, Overdier K, Schmidt M, Van Pelt DC, Tashkin JS, Reischel J, Finigan JH, \nLyn-Kew K, Paterson RD, Lemos-Filho L, Hyzy RC, Park PK, Nelson K, Co IN, \nMcSparron JI, Chen T, Hanna S, Olbrich N, DiGiovine BM, Rivers EP, Day J, Gill \nJ, Gardner Gray J, Hurst G, Jayaprakash N, Kathrina Jaehne A, Rubino S, Swiderek \nJ, Pflaum J, Williams M, Kapoor R, Ellender T, Gutteridge D, Nash J, Ng Gong M, \nHope AA, Chen JT, Gummadi S, Fuster D, Munoz ME, Lopez B, Richardson LD, Acquah \nS, Mathews K, Richman L, Goel NN, Li N, Schneider G, Clesca C, Massenburg NS, \nHite RD, Duggal A, Hastings A, Mehkri O, Hanane T, Rice A, Terndrup TE, Exline \nMC, Englert J, Robart E, Pannu S, Ali NA, Frey JA, Stiffler KA, Norton D, Roads \nT, Studer A, Hudock K, Angus DC, Yealy DM, Huang DT, McVerry BJ, Scholl D, Gacka \nC, Thangudu P, Padmanabhan R, Balakumar V, McComb JG, Fazio P, Stefanick M, \nDonadee CL, Siedsma M, Murugan R, Jockers A, Campbell N, Muller A, Promes SB, \nHough C, Robinson BRH, Johnson NJ, Gundel S, Katsandres SC, Ungar AM, Cardey J, \nPoon T, Dean S, Haberkorn S, Haq E, Kea B, Schreiber MA, Khan A, O'Mahony SD, \nBoisjolie C, Files DC, Miller CD, Bakhru R, Flores LS, Gibbs K, LaRose M, \nPurcell L, Wright PE, Enfield KB, Sochor M, Kadl A, Marshall M, Morris PE, Dhar \nS, Montgomery-Yates A, Sturgill J, Pasha S, de Wit M, Hamman S, Grissom CK, \nBledsoe J, Allen T, Kumar N, Brown SM, Hopkins M, Lanspa M, Peltan I, Hirshberg \nE, Orme J, Merrill M, Montgomery Q, Brown K, Armbruster B, Aston V, Clemmer T, \nKnight K, Shepherd A, Sillito C, Kerwin B, Paine R, Harris E, Middleton E, \nPlante A, Harris D, Woodward W, Ni",
+  "_title": ""
+}
