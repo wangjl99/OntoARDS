@@ -1,0 +1,18 @@
+severity	check	node_id	label	message	fix
+WARNING	V5_type_mismatch	ARDS_POI:01179	trophic enteral feeding for first 6 days	Intervention node contains outcome keywords — possible misclassification	Verify type: should this be POI_outcome?
+WARNING	V5_type_mismatch	ARDS_POI:02590	Limiting plateau pressure during mechanical ventilation	Outcome node contains intervention keywords — possible misclassification	Verify type: should this be POI_intervention?
+WARNING	V5_type_mismatch	ARDS_POI:01057	Renal replacement therapy	Outcome node contains intervention keywords — possible misclassification	Verify type: should this be POI_intervention?
+WARNING	V5_type_mismatch	ARDS_POI:01310	Guide therapy	Outcome node contains intervention keywords — possible misclassification	Verify type: should this be POI_intervention?
+WARNING	V5_type_mismatch	ARDS_POI:01511	Reduced treatment failure in COPD exacerbation	Outcome node contains intervention keywords — possible misclassification	Verify type: should this be POI_intervention?
+WARNING	V5_type_mismatch	ARDS_POI:01631	Reduced treatment failure	Outcome node contains intervention keywords — possible misclassification	Verify type: should this be POI_intervention?
+WARNING	V5_type_mismatch	ARDS_POI:01847	Reduced total ventilation duration	Outcome node contains intervention keywords — possible misclassification	Verify type: should this be POI_intervention?
+WARNING	V5_type_mismatch	ARDS_POI:01921	Reduced need for rescue therapy	Outcome node contains intervention keywords — possible misclassification	Verify type: should this be POI_intervention?
+WARNING	V5_type_mismatch	ARDS_POI:01992	Improved ventilation-perfusion relationships (VA/Q)	Outcome node contains intervention keywords — possible misclassification	Verify type: should this be POI_intervention?
+WARNING	V5_type_mismatch	ARDS_POI:02109	Increased hyperglycemia requiring treatment	Outcome node contains intervention keywords — possible misclassification	Verify type: should this be POI_intervention?
+WARNING	V5_type_mismatch	ARDS_POI:02691	Staff time and cost similar to invasive ventilation	Outcome node contains intervention keywords — possible misclassification	Verify type: should this be POI_intervention?
+WARNING	V5_type_mismatch	ARDS_POI:01552	Improved ventilation practices	Outcome node contains intervention keywords — possible misclassification	Verify type: should this be POI_intervention?
+WARNING	V5_type_mismatch	ARDS_POI:01887	Reduced duration of invasive ventilation	Outcome node contains intervention keywords — possible misclassification	Verify type: should this be POI_intervention?
+WARNING	V5_type_mismatch	ARDS_POI:02920	Ecmo complications	Intervention node contains outcome keywords — possible misclassification	Verify type: should this be POI_outcome?
+WARNING	V5_type_mismatch	ARDS_POI:02932	Gm csf therapy	Outcome node contains intervention keywords — possible misclassification	Verify type: should this be POI_intervention?
+WARNING	V5_type_mismatch	ARDS_POI:02989	Intravenous nac treatment	Outcome node contains intervention keywords — possible misclassification	Verify type: should this be POI_intervention?
+WARNING	V5_type_mismatch	ARDS_POI:03074	Reduced fio2 at day of death	Intervention node contains outcome keywords — possible misclassification	Verify type: should this be POI_outcome?
